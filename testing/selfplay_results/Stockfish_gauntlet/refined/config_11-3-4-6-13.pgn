@@ -1,0 +1,1879 @@
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-1"]
+[Result "1/2-1/2"]
+[ECO "C25"]
+[GameDuration "00:03:55"]
+[GameEndTime "2025-05-08T13:41:29.544 GMT Summer Time"]
+[GameStartTime "2025-05-08T13:37:34.312 GMT Summer Time"]
+[Opening "Vienna game"]
+[PlyCount "88"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 2. Nc3 {12s} Bc5 3. Qh5 {5.5s} Nc6 4. Bc4 {9.5s} g6
+5. Qf3 {3.7s} Nf6 6. d3 {7.4s} Nd4 7. Qd1 {2.4s} c6 8. Nf3 {6.0s} d5
+9. Nxe5 {4.0s} dxc4 10. dxc4 {5.1s} Qe7 11. Bf4 {5.6s} Nh5 12. Nd3 {3.2s} Nxf4
+13. Nxf4 {2.9s} Ne6 14. Qf3 {5.5s} O-O 15. O-O-O {3.3s} Qg5 16. g3 {5.6s} Bb6
+17. e5 {7.6s} Nd4 18. Qe4 {6.4s} Ne6 19. Kb1 {7.7s} Nc5 20. Qe1 {15s} Bf5
+21. Rd6 {8.1s} Rad8 22. Qd2 {6.6s} Rxd6 23. exd6 {6.0s} Rd8 24. Re1 {17s} h6
+25. b4 {10s} Nd7 26. Na4 {10s} Qf6 27. h4 {9.2s} h5 28. c5 {6.2s} Ne5
+29. Qc3 {5.9s} Ng4 30. Qxf6 {5.4s} Nxf6 31. Re7 {2.4s} Kf8 32. Rxb7 {2.0s} Bc8
+33. Re7 {2.4s} Ng8 34. cxb6 {1.7s} Nxe7 35. bxa7 {1.4s} Bf5 36. dxe7+ {1.1s}
+Kxe7 37. Nb6 {2.1s} Be4 38. Kb2 {2.3s} g5 39. hxg5 {2.3s} Rd2 40. a8=Q {1.1s}
+Rxc2+ 41. Ka3 {1.9s} Rc3+ 42. Kb2 {4.8s} Rc2+ 43. Ka3 {1.4s} Rc3+ 44. Kb2 {4.6s}
+Rc2+ {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-1"]
+[Black "config_11-3-4-6-13"]
+[Result "0-1"]
+[ECO "C24"]
+[GameDuration "00:02:41"]
+[GameEndTime "2025-05-08T13:41:29.678 GMT Summer Time"]
+[GameStartTime "2025-05-08T13:38:47.973 GMT Summer Time"]
+[Opening "Bishop's Opening"]
+[PlyCount "66"]
+[TimeControl "40/300"]
+[Variation "Berlin defense"]
+
+1. e4 {book} e5 {5.7s} 2. Bc4 Nf6 {12s} 3. Nc3 Nc6 {8.4s} 4. a3 Bc5 {15s} 5. Nf3
+d6 {7.3s} 6. d3 Bg4 {9.1s} 7. h3 Bxf3 {2.9s} 8. Qxf3 Nd4 {8.3s} 9. Qd1 c6 {8.2s}
+10. b4 Bb6 {3.2s} 11. a4 d5 {3.7s} 12. Ba2 a5 {5.3s} 13. b5 dxe4 {4.9s} 14. Nxe4
+Nxe4 {1.8s} 15. dxe4 Qh4 {2.7s} 16. O-O Qxe4 {3.2s} 17. Re1 Qf5 {3.9s} 18. c3
+Ne6 {3.5s} 19. Qe2 Rd8 {4.8s} 20. g4 Qf6 {2.7s} 21. bxc6 bxc6 {3.4s} 22. Rb1
+Ba7 {6.7s} 23. Rb7 Bc5 {7.5s} 24. Bxe6 fxe6 {4.7s} 25. Kg2 Rf8 {5.2s} 26. f3
+Qh4 {5.5s} 27. Qxe5 Qf2+ {2.7s} 28. Kh1 Qxf3+ {1.3s} 29. Kh2 Bd6 {3.4s} 30. Qxd6
+Qf2+ {1.8s} 31. Kh1 Qxe1+ {0.90s} 32. Kg2 Qe2+ {1.2s} 33. Kg1
+Rf1# {1.1s, Black mates} 0-1
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-1"]
+[Result "1-0"]
+[ECO "D31"]
+[GameDuration "00:03:12"]
+[GameEndTime "2025-05-08T13:44:47.215 GMT Summer Time"]
+[GameStartTime "2025-05-08T13:41:34.559 GMT Summer Time"]
+[Opening "Queen's Gambit declined"]
+[PlyCount "59"]
+[TimeControl "40/300"]
+[Variation "3.Nc3"]
+
+1. d4 {book} d5 2. c4 {4.5s} e6 3. Nc3 {8.0s} dxc4 4. Qa4+ {8.2s} Nc6
+5. a3 {9.4s} Qxd4 6. Nf3 {11s} Qb6 7. Qxc4 {15s} Nf6 8. e3 {21s} Bd7
+9. Rb1 {20s} Na5 10. Qf4 {11s} Bd6 11. Qg5 {7.1s} h6 12. Qxg7 {3.7s} Ke7
+13. Nh4 {10s} Rag8 14. Ng6+ {3.2s} Ke8 15. Qxf6 {2.8s} fxg6 16. Bd2 {12s} Be7
+17. Qe5 {7.5s} Nb3 18. Bb5 {9.2s} Nxd2 19. Bxd7+ {3.5s} Kxd7 20. Rd1 {5.3s} Bd6
+21. Rxd2 {2.3s} Ke7 22. Nd5+ {5.1s} Kf7 23. Qf6+ {1.8s} Ke8 24. Qxe6+ {1.2s} Kf8
+25. Nxb6 {1.8s} Bb4 26. Qf6+ {1.7s} Ke8 27. Qd8+ {1.6s} Kf7 28. Qxc7+ {2.0s} Ke8
+29. axb4 {1.4s} axb6 30. Rd8# {1.1s, White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-1"]
+[Black "config_11-3-4-6-13"]
+[Result "0-1"]
+[ECO "C24"]
+[GameDuration "00:02:41"]
+[GameEndTime "2025-05-08T13:44:15.792 GMT Summer Time"]
+[GameStartTime "2025-05-08T13:41:34.715 GMT Summer Time"]
+[Opening "Bishop's Opening"]
+[PlyCount "62"]
+[TimeControl "40/300"]
+[Variation "Berlin defense"]
+
+1. e4 {book} e5 {5.0s} 2. Bc4 Nf6 {12s} 3. Nc3 Nc6 {8.3s} 4. a3 Bc5 {15s} 5. Nf3
+d6 {5.3s} 6. d3 Bg4 {8.3s} 7. h3 Bxf3 {3.0s} 8. Qxf3 Nd4 {8.1s} 9. Qd1 c6 {8.1s}
+10. b4 Bb6 {3.2s} 11. a4 d5 {3.8s} 12. Ba2 a5 {5.2s} 13. b5 dxe4 {5.0s} 14. Nxe4
+Nxe4 {1.7s} 15. dxe4 Qh4 {2.7s} 16. O-O Qxe4 {3.3s} 17. Re1 Qf5 {3.8s} 18. c3
+Ne6 {3.5s} 19. Qe2 Rd8 {4.7s} 20. g4 Qf6 {2.4s} 21. bxc6 bxc6 {3.4s} 22. Rb1
+Ba7 {6.7s} 23. Rb7 Bc5 {7.5s} 24. g5 Qf5 {2.8s} 25. Bb1 Qxh3 {4.2s} 26. Qxe5
+Qg4+ {3.5s} 27. Kf1 Qh4 {9.5s} 28. Qxe6+ fxe6 {0.93s} 29. Rxe6+ Kf8 {3.2s}
+30. Be3 Qh1+ {2.6s} 31. Ke2 Qd1# {4.3s, Black mates} 0-1
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-1"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:04:11"]
+[GameEndTime "2025-05-08T13:48:32.127 GMT Summer Time"]
+[GameStartTime "2025-05-08T13:44:20.813 GMT Summer Time"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "91"]
+[TimeControl "40/300"]
+
+1. e3 {5.3s} e5 2. Nc3 {13s} d5 3. a3 {9.8s} Nf6 4. d4 {22s} e4 5. f3 {13s} c6
+6. Bd2 {5.3s} Bd6 7. Be2 {5.4s} O-O 8. f4 {5.5s} Nbd7 9. Nh3 {7.6s} Nb6
+10. Nf2 {4.0s} a5 11. b3 {7.6s} a4 12. Qb1 {5.5s} h5 13. h3 {4.2s} axb3
+14. Qxb3 {5.9s} Be6 15. a4 {12s} h4 16. a5 {7.5s} Nc8 17. Qxb7 {5.0s} Nb6
+18. Qxc6 {9.8s} Rc8 19. Qxb6 {5.4s} Qd7 20. Ng4 {17s} Nh5 21. Ne5 {12s} Rxc3
+22. Bxh5 {5.0s} Bxe5 23. Bxc3 {2.9s} Bc7 24. Qb7 {8.0s} Rb8 25. Qa7 {3.9s} g6
+26. Bg4 {3.3s} Bxg4 27. hxg4 {2.3s} Qxg4 28. a6 {2.7s} Qg3+ 29. Kf1 {1.3s} Bxf4
+30. Rh3 {3.9s} Qg4 31. exf4 {3.2s} Qxf4+ 32. Kg1 {3.8s} Kg7 33. Rf1 {4.4s} Rb1
+34. Rxb1 {1.8s} e3 35. Rf3 {6.7s} Qxf3 36. gxf3 {1.4s} h3 37. Qb8 {4.7s} e2
+38. a7 {1.2s} h2+ 39. Qxh2 {0.93s} g5 40. Qxe2 {1.2s} g4 41. Qg2 {2.2s} f6
+42. Rb7+ {1.8s} Kg6 43. Qxg4+ {0.62s} Kh6 44. Qg8 {0.72s} f5 45. a8=B {0.56s}
+Kh5 46. Rh7# {0.51s, White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-1"]
+[Black "config_11-3-4-6-13"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[GameDuration "00:05:29"]
+[GameEndTime "2025-05-08T13:50:21.450 GMT Summer Time"]
+[GameStartTime "2025-05-08T13:44:52.252 GMT Summer Time"]
+[Opening "Queen's pawn"]
+[PlyCount "277"]
+[TimeControl "40/300"]
+
+1. d4 {book} e6 {6.4s} 2. e4 Nc6 {12s} 3. Nc3 Bb4 {8.5s} 4. Nf3 Bxc3+ {5.1s}
+5. bxc3 d5 {4.6s} 6. e5 Nge7 {7.5s} 7. Bd3 Bd7 {3.0s} 8. Rb1 Rb8 {4.3s} 9. h4
+h6 {5.9s} 10. Rh3 a6 {9.2s} 11. Rg3 g6 {6.5s} 12. h5 Nf5 {4.8s} 13. hxg6
+Nxg3 {3.2s} 14. fxg3 Rg8 {4.6s} 15. gxf7+ Kxf7 {2.8s} 16. Bxh6 Rxg3 {3.3s}
+17. Kf2 Qg8 {5.4s} 18. Nh4 Ke8 {5.1s} 19. Qh5+ Kd8 {2.8s} 20. Ng6 Rxd3 {3.5s}
+21. Bg5+ Kc8 {1.7s} 22. cxd3 Be8 {3.8s} 23. Qh8 Qxg6 {1.8s} 24. Rh1 Qf7+ {2.1s}
+25. Ke1 b6 {4.9s} 26. Rh7 Qf5 {1.7s} 27. Qxe8+ Kb7 {0.98s} 28. Qd7 Rc8 {1.7s}
+29. Rg7 Qxd3 {3.1s} 30. Bd2 Qb1+ {4.0s} 31. Kf2 Qxa2 {2.7s} 32. Ke3 Qc2 {2.8s}
+33. Qxe6 Rd8 {2.4s} 34. Qf7 Rc8 {1.6s} 35. Qxd5 Rd8 {3.7s} 36. Qf7 Rc8 {1.6s}
+37. e6 a5 {4.2s} 38. d5 Ne5 {2.6s} 39. Qf4 Nd3 {3.3s} 40. Qe4 Qb2 {2.3s} 41. d6+
+Kb8 {1.2s} 42. dxc7+ Rxc7 {0.98s} 43. Rg8+ Rc8 {1.1s} 44. Rxc8+ Kxc8 {0.77s}
+45. Qxd3 Qb3 {1.5s} 46. Qe4 Kb8 {1.3s} 47. Ke2 a4 {2.2s} 48. g4 a3 {1.8s} 49. e7
+Qb5+ {1.1s} 50. c4 Qe8 {1.1s} 51. Bc3 Ka7 {2.2s} 52. Ke3 a2 {2.2s} 53. Bd4
+Qc8 {1.9s} 54. Kd3 Qc7 {1.8s} 55. Ba1 Qd6+ {1.4s} 56. Kc2 Qh2+ {1.3s} 57. Kb3
+Qh3+ {2.1s} 58. Kxa2 Qh2+ {1.5s} 59. Bb2 Qb8 {0.90s} 60. Qd4 Qc8 {1.8s} 61. Qe4
+Qe8 {1.1s} 62. Kb3 Ka6 {2.1s} 63. Qe2 Kb7 {2.4s} 64. g5 Ka7 {2.6s} 65. Ba3
+Kb7 {3.2s} 66. Qe4+ Ka6 {2.6s} 67. Qd3 Ka7 {2.7s} 68. Qe2 Kb7 {3.2s} 69. Qe4+
+Ka6 {2.4s} 70. Qd3 Ka7 {2.9s} 71. Bb4 Qc6 {2.9s} 72. Qc3 Qe4 {3.1s} 73. Ka3
+Kb7 {2.1s} 74. Qd2 Ka7 {2.4s} 75. Qd7+ Ka6 {0.79s} 76. Qc8+ Ka7 {0.84s} 77. Qc7+
+Ka6 {1.4s} 78. Qc8+ Ka7 {0.76s} 79. Qc7+ Ka6 {1.2s} 80. Bc3 Qe3 {1.7s} 81. Qc8+
+Ka7 {0.56s} 82. Qd7+ Ka6 {0.76s} 83. Qb5+ Ka7 {0.74s} 84. Qd7+ Ka6 {0.76s}
+85. Qb5+ Ka7 {0.69s} 86. Qa4+ Kb7 {0.59s} 87. Qb4 Kc7 {1.2s} 88. Kb3 Kd7 {1.8s}
+89. g6 Qd3 {1.9s} 90. e8=B+ Kxe8 {1.8s} 91. Qa4+ Kd8 {0.99s} 92. Qb4 Qb1+ {1.4s}
+93. Ka3 Qc1+ {0.89s} 94. Bb2 Qe3+ {0.96s} 95. Bc3 Kc7 {1.6s} 96. Kb3 Qe4 {2.0s}
+97. g7 Qb1+ {2.3s} 98. Ka3 Qc1+ {1.2s} 99. Qb2 Qg1 {1.8s} 100. Ka2 Kb7 {1.7s}
+101. Qd2 Kc7 {2.1s} 102. Be5+ Kc8 {1.3s} 103. Bc3 Qg3 {1.9s} 104. Qc2 Qg4 {2.1s}
+105. Qf5+ Qxf5 {0.59s} 106. g8=Q+ Kb7 {2.7s} 107. Qg2+ Ka7 {4.4s} 108. Qg7+
+Ka6 {2.5s} 109. Qe5 Qd3 {2.4s} 110. Kb3 Qb1+ {1.6s} 111. Bb2 Qd3+ {2.5s}
+112. Kb4 Qd2+ {1.9s} 113. Bc3 Qf2 {1.6s} 114. Ka3 Qf8+ {2.9s} 115. Ka4
+Qf2 {2.1s} 116. Ka3 Qf8+ {2.8s} 117. Ka4 Qf2 {2.3s} 118. Bb2 Qc2+ {1.7s}
+119. Kb4 Qd2+ {1.9s} 120. Bc3 Qf2 {1.8s} 121. Qe4 Qf8+ {1.0s} 122. Ka4
+Ka7 {1.8s} 123. Qh7+ Ka8 {1.2s} 124. Qh1+ Ka7 {1.6s} 125. Qh7+ Ka8 {1.1s}
+126. Qh1+ Ka7 {1.4s} 127. Qd5 Qc8 {1.4s} 128. Qf7+ Kb8 {1.3s} 129. Be5+
+Ka8 {0.81s} 130. Qf3+ Ka7 {1.0s} 131. Qf7+ Ka6 {1.7s} 132. Qd5 Ka7 {1.6s}
+133. Qf7+ Ka6 {1.7s} 134. Qd5 Ka7 {1.6s} 135. Kb4 Qe8 {1.8s} 136. Bc3
+Qe7+ {1.6s} 137. Kb5 Qe8+ {1.0s} 138. Qc6 Qe5+ {0.95s}
+139. Bxe5 {Draw by stalemate} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-1"]
+[Result "1/2-1/2"]
+[ECO "C25"]
+[GameDuration "00:03:53"]
+[GameEndTime "2025-05-08T13:52:30.910 GMT Summer Time"]
+[GameStartTime "2025-05-08T13:48:37.175 GMT Summer Time"]
+[Opening "Vienna game"]
+[PlyCount "88"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 2. Nc3 {11s} Bc5 3. Qh5 {5.7s} Nc6 4. Bc4 {9.3s} g6
+5. Qf3 {4.1s} Nf6 6. d3 {6.8s} Nd4 7. Qd1 {2.5s} c6 8. Nf3 {5.9s} d5
+9. Nxe5 {3.9s} dxc4 10. dxc4 {5.5s} Qe7 11. Bf4 {6.0s} Nh5 12. Nd3 {3.1s} Nxf4
+13. Nxf4 {2.8s} Ne6 14. Qf3 {5.4s} O-O 15. O-O-O {3.6s} Qg5 16. g3 {5.8s} Bb6
+17. e5 {8.1s} Nd4 18. Qe4 {6.7s} Ne6 19. Kb1 {7.9s} Nc5 20. Qe1 {13s} Bf5
+21. Rd6 {7.5s} Rad8 22. Qd2 {7.1s} Rxd6 23. exd6 {6.0s} Rd8 24. Re1 {18s} h6
+25. b4 {11s} Nd7 26. Na4 {10s} Qf6 27. h4 {9.3s} h5 28. c5 {6.1s} Ne5
+29. Qc3 {6.1s} Ng4 30. Qxf6 {7.1s} Nxf6 31. Re7 {2.6s} Kf8 32. Rxb7 {1.9s} Bc8
+33. Re7 {2.4s} Ng8 34. cxb6 {2.0s} Nxe7 35. bxa7 {1.3s} Bf5 36. dxe7+ {1.1s}
+Kxe7 37. Nb6 {2.3s} Be4 38. Kb2 {2.2s} g5 39. hxg5 {2.3s} Rd2 40. a8=Q {1.00s}
+Rxc2+ 41. Ka3 {1.4s} Rc3+ 42. Kb2 {4.0s} Rc2+ 43. Ka3 {1.0s} Rc3+ 44. Kb2 {3.8s}
+Rc2+ {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-1"]
+[Black "config_11-3-4-6-13"]
+[Result "1-0"]
+[ECO "C25"]
+[GameDuration "00:01:57"]
+[GameEndTime "2025-05-08T13:52:23.877 GMT Summer Time"]
+[GameStartTime "2025-05-08T13:50:26.481 GMT Summer Time"]
+[Opening "Vienna game"]
+[PlyCount "59"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 {5.0s} 2. Nc3 Bc5 {6.7s} 3. Qh5 Qf6 {7.7s} 4. Nf3 Nc6 {6.2s}
+5. Nd5 Qd6 {5.1s} 6. Bc4 g6 {5.6s} 7. Qh4 Nd4 {3.9s} 8. Nxd4 Bxd4 {3.1s} 9. c3
+Qc5 {3.5s} 10. cxd4 Qxc4 {1.9s} 11. d3 Qc6 {1.9s} 12. dxe5 d6 {5.2s} 13. O-O
+dxe5 {3.5s} 14. Bg5 f6 {12s} 15. Bxf6 Nxf6 {3.2s} 16. Nxf6+ Kf7 {3.1s} 17. Nd5
+Qd6 {8.5s} 18. f4 Ke8 {4.3s} 19. Nf6+ Kf7 {2.0s} 20. fxe5 Qd4+ {2.3s} 21. Kh1
+Bf5 {2.2s} 22. Nd5 Qxe5 {3.1s} 23. Rac1 Kg8 {4.1s} 24. Nf6+ Kf7 {3.2s} 25. exf5
+gxf5 {2.6s} 26. Ng4 Qxb2 {1.3s} 27. Rxc7+ Kg8 {4.2s} 28. Qg5+ Kf8 {0.61s}
+29. Qxf5+ Kg8 {1.2s} 30. Nh6# {White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-1"]
+[Result "1/2-1/2"]
+[ECO "C25"]
+[GameDuration "00:05:32"]
+[GameEndTime "2025-05-08T13:58:01.775 GMT Summer Time"]
+[GameStartTime "2025-05-08T13:52:28.891 GMT Summer Time"]
+[Opening "Vienna game"]
+[PlyCount "448"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 2. Nc3 {8.7s} Bc5 3. Qh5 {5.5s} Nc6 4. Bc4 {8.8s} g6
+5. Qf3 {3.3s} Nf6 6. d3 {6.9s} Nd4 7. Qd1 {2.9s} c6 8. Nf3 {6.6s} d5
+9. Nxe5 {4.0s} dxc4 10. dxc4 {5.3s} Qe7 11. Bf4 {6.6s} Nh5 12. Nd3 {3.3s} Nxf4
+13. Nxf4 {2.7s} Ne6 14. Qf3 {5.1s} O-O 15. O-O-O {3.7s} Qg5 16. g3 {5.6s} Bb6
+17. e5 {7.7s} Nd4 18. Qe4 {6.6s} Ne6 19. Kb1 {7.9s} Nc5 20. Qe1 {14s} Bf5
+21. Rd6 {7.4s} Rad8 22. Qd2 {6.8s} Bc7 23. h4 {7.6s} Qe7 24. b4 {6.9s} Nd7
+25. g4 {8.5s} Bxg4 26. Rg1 {8.9s} Nxe5 27. Rxg4 {5.7s} Nxg4 28. Ne4 {4.3s} Qxe4
+29. Rxd8 {5.1s} Qh1+ 30. Qd1 {2.3s} Qxd1+ 31. Rxd1 {0.94s} Bxf4 32. Rd4 {2.4s}
+Bb8 33. Rxg4 {0.85s} h5 34. Rg1 {1.5s} Rd8 35. Re1 {2.7s} Bd6 36. Rd1 {4.6s} Bc7
+37. Rxd8+ {1.4s} Bxd8 38. f4 {0.61s} Kf8 39. a4 {0.67s} Be7 40. c3 {0.68s} b6
+41. a5 {0.68s} c5 42. f5 {0.59s} g5 43. axb6 {0.55s} axb6 44. hxg5 {0.52s} Bxg5
+45. Kb2 {0.62s} Be7 46. bxc5 {0.54s} bxc5 47. Kb3 {0.57s} Ke8 48. Kc2 {0.69s} h4
+49. Kb2 {1.0s} f6 50. Kb3 {0.75s} Bf8 51. Ka3 {0.71s} Bh6 52. Ka4 {0.66s} Bf8
+53. Kb5 {0.70s} Kf7 54. Kc6 {0.65s} Ke8 55. Kc7 {0.74s} Be7 56. Kc8 {0.71s} Bd6
+57. Kb7 {0.60s} Bf8 58. Kc8 {0.81s} Kf7 59. Kd8 {0.67s} h3 60. Kc8 {0.59s} Kg7
+61. Kd8 {0.73s} Kf7 62. Kc8 {0.70s} Kg7 63. Kd8 {0.74s} Kh8 64. Ke8 {0.78s} Kg8
+65. Kd8 {0.60s} Kh8 66. Ke8 {0.70s} Kg8 67. Kd8 {0.59s} Kg7 68. Kc8 {0.67s} h2
+69. Kd8 {0.51s} h1=R 70. Kd7 {0.76s} Rh7 71. Kc8 {0.76s} Kg8 72. Kb8 {0.57s} Rf7
+73. Ka8 {0.53s} Re7 74. Kb8 {0.54s} Rf7 75. Ka8 {0.51s} Re7 76. Kb8 {0.53s} Rh7
+77. Ka8 {0.59s} Be7 78. Kb7 {0.62s} Rg7 79. Kc6 {0.95s} Bf8 80. Kb6 {0.64s} Rh7
+81. Kc6 {0.72s} Ra7 82. Kb6 {0.68s} Rh7 83. Kc6 {0.71s} Ra7 84. Kb6 {0.71s} Rf7
+85. Kc6 {0.63s} Rh7 86. Kb6 {0.63s} Be7 87. Kc6 {0.81s} Bf8 88. Kb6 {0.64s} Be7
+89. Kc6 {0.82s} Rg7 90. Kd7 {0.77s} Rf7 91. Kc7 {0.67s} Rg7 92. Kd7 {0.77s} Rf7
+93. Kc7 {0.65s} Kh8 94. Kd7 {0.61s} Kh7 95. Ke8 {0.52s} Rg7 96. Kd7 {0.52s} Rf7
+97. Ke8 {0.53s} Rf8+ 98. Kxe7 {0.67s} Kg8 99. Ke6 {0.69s} Kh8 100. Kd6 {0.85s}
+Rc8 101. Kd7 {0.74s} Rg8 102. Ke7 {0.99s} Rg2 103. Kxf6 {0.86s} Rg1
+104. Ke7 {0.85s} Rf1 105. f6 {0.78s} Rf2 106. Kf7 {0.74s} Kh7 107. Ke7 {0.85s}
+Kg6 108. f7 {1.0s} Re2+ 109. Kf8 {0.68s} Rf2 110. Ke7 Re2+ 111. Kf8 {0.61s} Kf6
+112. Kg8 Rg2+ 113. Kf8 Rf2 114. Kg8 Ke7 115. f8=Q+ {0.53s} Rxf8+
+116. Kg7 {0.75s} Rb8 117. Kg6 {0.70s} Kd7 118. Kh7 {0.94s} Kd6 119. Kg7 {0.77s}
+Ke7 120. Kg6 {0.72s} Kd7 121. Kh7 {0.85s} Kd6 122. Kg7 {0.79s} Kc7
+123. Kf7 {0.80s} Rb7 124. Ke6 {0.92s} Kc8 125. Kd6 {0.84s} Rb2 126. Kxc5 {0.91s}
+Kc7 127. Kd5 {0.62s} Re2 128. c5 {0.67s} Kd7 129. c6+ {0.62s} Kc8
+130. Kd6 {0.64s} Kd8 131. c7+ {0.58s} Kc8 132. c4 {0.66s} Rc2 133. c5 {0.71s}
+Rc1 134. Kc6 {0.56s} Rh1 135. Kd6 {0.65s} Rc1 136. Kc6 {0.57s} Rh1
+137. Kd6 {0.68s} Rb1 138. Kc6 {0.89s} Rf1 139. Kd6 {0.78s} Rb1 140. Kc6 {0.92s}
+Rf1 141. Kd6 {0.72s} Ra1 142. Kc6 {1.0s} Rg1 143. Kd6 {0.79s} Ra1
+144. Kc6 {0.98s} Rg1 145. Kd6 {0.73s} Rg6+ 146. Ke7 {0.90s} Kxc7
+147. Kf8 {0.82s} Rg2 148. Ke8 {0.75s} Rg3 149. Kf8 {0.72s} Kc6 150. Ke8 {0.75s}
+Re3+ 151. Kf7 {0.65s} Rh3 152. Kg8 {1.5s} Rf3 153. Kh8 {0.71s} Rg3
+154. Kh7 {0.52s} Rf3 155. Kh8 {0.88s} Rg3 156. Kh7 {0.51s} Kc7 157. Kh8 {0.55s}
+Kb7 158. Kh7 {0.52s} Rf3 159. Kg7 {0.90s} Rf2 160. Kh8 {0.80s} Rg2
+161. Kh7 {0.54s} Rf2 162. Kh8 {0.85s} Rg2 163. Kh7 {0.54s} Re2 164. Kg7 {1.0s}
+Re4 165. Kf8 {1.3s} Rg4 166. Ke7 {0.99s} Re4+ 167. Kd7 {0.95s} Rd4+
+168. Ke6 {0.75s} Re4+ 169. Kd5 {1.1s} Re8 170. c6+ {0.67s} Kb8 171. Kd6 {0.65s}
+Rh8 172. c7+ {0.90s} Kb7 173. Kd7 {0.89s} Rh7+ 174. Ke8 {0.52s} Kxc7
+175. Kf8 {0.52s} Rh4 176. Kg8 {0.66s} Kd8 177. Kf8 {0.57s} Rf4+ 178. Kg8 {0.55s}
+Rf1 179. Kg7 {0.70s} Rf4 180. Kg8 {0.74s} Rf1 181. Kg7 {0.62s} Ke8
+182. Kg6 {0.64s} Re1 183. Kf6 {0.89s} Kf8 184. Kg5 {0.62s} Re2 185. Kg6 {0.60s}
+Kg8 186. Kf6 {0.69s} Re8 187. Kf5 {0.67s} Rd8 188. Ke5 {0.94s} Re8+
+189. Kd6 {0.81s} Kf8 190. Kd7 {0.60s} Re3 191. Kc8 {0.70s} Re5 192. Kb8 {0.70s}
+Re8+ 193. Kc7 {0.53s} Re1 194. Kc8 {0.69s} Re5 195. Kb8 {0.64s} Re8+
+196. Kc7 {0.55s} Re1 197. Kc8 {0.69s} Re4 198. Kb8 {0.80s} Rb4+ 199. Kc8 {0.58s}
+Re4 200. Kb8 {0.69s} Rb4+ 201. Kc8 {0.56s} Rd4 202. Kb8 {0.55s} Kg7
+203. Kc8 {0.61s} Kf8 204. Kb8 {0.58s} Kg7 205. Kc8 {0.69s} Kg8 206. Kb8 {0.70s}
+Rd8+ 207. Kc7 {0.68s} Ra8 208. Kd7 {0.92s} Rf8 209. Kc7 {0.84s} Rf3
+210. Kb8 {1.1s} Rc3 211. Kb7 {0.64s} Rc2 212. Kb8 {0.60s} Rc3 213. Kb7 {0.67s}
+Rc2 214. Kb8 {0.60s} Rc1 215. Kb7 {0.67s} Rc3 216. Kb8 {0.61s} Rc1
+217. Kb7 {0.66s} Rc3 218. Kb8 {0.61s} Rc2 219. Kb7 {0.70s} Rf2 220. Kb8 {0.85s}
+Rc2 221. Kb7 {0.68s} Rf2 222. Kb8 {0.94s} Rf8+ 223. Kc7 {0.68s} Rf3
+224. Kb8 {1.3s} Rf1 {Draw by fifty moves rule} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-1"]
+[Black "config_11-3-4-6-13"]
+[Result "0-1"]
+[ECO "C25"]
+[GameDuration "00:03:54"]
+[GameEndTime "2025-05-08T13:56:30.559 GMT Summer Time"]
+[GameStartTime "2025-05-08T13:52:35.931 GMT Summer Time"]
+[Opening "Vienna game"]
+[PlyCount "98"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 {5.1s} 2. Nc3 Bc5 {6.8s} 3. Qh5 Qf6 {6.7s} 4. Nf3 Nc6 {6.3s}
+5. Nd5 Qd6 {6.0s} 6. Bc4 g6 {6.3s} 7. Qh4 Nd4 {4.1s} 8. Nxd4 Bxd4 {3.3s} 9. c3
+Qc5 {4.5s} 10. cxd4 Qxc4 {1.9s} 11. d3 Qc6 {2.2s} 12. dxe5 d6 {5.0s} 13. O-O
+dxe5 {3.2s} 14. Bg5 f6 {12s} 15. Bxf6 Nxf6 {3.5s} 16. Nxf6+ Kf7 {2.7s} 17. Nd5
+Qd6 {8.8s} 18. f4 Ke8 {3.0s} 19. Nf6+ Kf7 {1.9s} 20. fxe5 Qd4+ {2.2s} 21. Kh1
+Bf5 {2.0s} 22. e6+ Bxe6 {2.1s} 23. Nh5+ Kg8 {2.6s} 24. Nf6+ Kg7 {2.9s} 25. Rac1
+Qd8 {5.8s} 26. Qg3 Rc8 {4.7s} 27. Nh5+ Kh6 {3.0s} 28. Nf4 Bxa2 {5.3s} 29. Qh3+
+Kg7 {2.9s} 30. b3 Qd6 {4.3s} 31. Ne6+ Kg8 {1.8s} 32. d4 Re8 {5.9s} 33. Nxc7
+Rxe4 {3.6s} 34. Qc8+ Kg7 {2.0s} 35. Qxb7 Re7 {5.6s} 36. d5 Rd8 {4.2s} 37. Qxa7
+Bxb3 {2.6s} 38. Qa1+ Kg8 {3.2s} 39. Ne6 Rde8 {5.2s} 40. Rc6 Qxd5 {2.8s} 41. Rc5
+Qxe6 {11s} 42. Qc3 Rf7 {5.9s} 43. Rb1 Ba2 {15s} 44. Ra1 Bd5 {18s} 45. Rxd5
+Qxd5 {2.4s} 46. Qf3 Qe5 {4.0s} 47. Qxf7+ Kxf7 {2.7s} 48. Ra7+ Kg8 {4.4s}
+49. Rxh7 Qe1# {2.9s, Black mates} 0-1
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-2"]
+[Result "1-0"]
+[ECO "D20"]
+[GameDuration "00:03:25"]
+[GameEndTime "2025-05-08T14:00:01.043 GMT Summer Time"]
+[GameStartTime "2025-05-08T13:56:35.595 GMT Summer Time"]
+[Opening "Queen's Gambit accepted"]
+[PlyCount "35"]
+[TimeControl "40/300"]
+[Variation "3.e4"]
+
+1. d4 {book} d5 2. c4 {6.6s} dxc4 3. e4 {5.3s} Nf6 4. e5 {6.3s} Nd5
+5. Bxc4 {7.0s} a6 6. Qf3 {17s} e6 7. Nc3 {13s} Nb6 8. Bb3 {4.8s} Qxd4
+9. Be3 {12s} Qxe5 10. O-O-O {14s} Nc6 11. Bf4 {21s} Qc5 12. Be3 {14s} Qe7
+13. Nh3 {21s} Bd7 14. Rhe1 {22s} O-O-O 15. Qg3 {17s} h6 16. Bxb6 {14s} cxb6
+17. Na4 {9.6s} b5 18. Nb6# {2.6s, White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-2"]
+[Black "config_11-3-4-6-13"]
+[Result "1/2-1/2"]
+[ECO "C20"]
+[GameDuration "00:04:01"]
+[GameEndTime "2025-05-08T14:02:08.184 GMT Summer Time"]
+[GameStartTime "2025-05-08T13:58:06.825 GMT Summer Time"]
+[Opening "King's pawn"]
+[PlyCount "261"]
+[TimeControl "40/300"]
+[Variation "Mengarini's Opening"]
+
+1. e4 {book} e5 {5.7s} 2. a3 Bc5 {6.3s} 3. Bc4 Qh4 {3.7s} 4. Qf3 Nf6 {3.3s}
+5. d3 Bb6 {7.0s} 6. Nc3 Nc6 {6.2s} 7. Nd5 Nxd5 {3.1s} 8. Bxd5 f5 {4.1s} 9. Qxf5
+Rf8 {3.2s} 10. g3 Rxf5 {2.0s} 11. gxh4 Rxf2 {2.1s} 12. Ne2 Rg2 {6.3s} 13. b3
+a6 {5.7s} 14. Kf1 Rf2+ {6.1s} 15. Ke1 Ne7 {3.0s} 16. d4 Rxe2+ {3.4s} 17. Kxe2
+Bxd4 {2.2s} 18. Rb1 d6 {3.3s} 19. Be3 Nxd5 {2.4s} 20. exd5 Bf5 {4.4s} 21. Bxd4
+exd4 {2.8s} 22. Kd2 O-O-O {3.2s} 23. Rhf1 Be4 {2.4s} 24. Rf7 Rg8 {1.7s} 25. Rg1
+Bxd5 {1.6s} 26. Rfxg7 Rf8 {1.6s} 27. Rxh7 Kb8 {7.7s} 28. Re7 Rf2+ {6.7s} 29. Re2
+Rxe2+ {2.0s} 30. Kxe2 Ka8 {2.6s} 31. Kf2 a5 {1.6s} 32. Kg3 a4 {1.4s} 33. bxa4
+Be4 {2.0s} 34. h5 Bxc2 {1.4s} 35. Kf3 d3 {1.3s} 36. Ke3 Ka7 {1.5s} 37. Kd2
+c5 {1.3s} 38. h6 c4 {0.83s} 39. h7 Bxa4 {0.69s} 40. Rg8 c3+ {0.95s} 41. Kxc3
+d2 {1.4s} 42. Kxd2 Bb3 {1.1s} 43. Rg1 d5 {0.90s} 44. h3 Ka6 {0.80s} 45. Rg6+
+b6 {0.64s} 46. Rg3 Kb5 {0.78s} 47. h8=R Ba4 {2.4s} 48. h4 Kc5 {2.5s} 49. h5
+d4 {3.0s} 50. Ke1 Bc6 {3.6s} 51. Rb3 b5 {2.8s} 52. Rf8 Kc4 {3.8s} 53. Rb1
+Bd7 {3.5s} 54. Rd1 Bg4 {1.7s} 55. h6 d3 {1.6s} 56. Rd2 Bf5 {1.7s} 57. Kf1
+Be4 {3.0s} 58. Rf7 Kc3 {3.6s} 59. h7 Bxh7 {1.5s} 60. Rxh7 Kxd2 {0.90s} 61. Rd7
+Kc3 {0.80s} 62. Rd5 b4 {0.58s} 63. axb4 d2 {0.58s} 64. Ke2 Kxb4 {0.85s} 65. Kd1
+Kc4 {0.68s} 66. Rd8 Kc5 {0.65s} 67. Ra8 Kc6 {1.8s} 68. Ra1 Kc7 {1.1s} 69. Kc2
+Kc6 {1.3s} 70. Rd1 Kd7 {0.54s} 71. Rg1 Ke6 {1.4s} 72. Rd1 Kd7 {0.60s} 73. Ra1
+Kc7 {1.3s} 74. Rg1 Kd6 {1.4s} 75. Rf1 Kd5 {1.3s} 76. Rd1 Kd6 {0.59s} 77. Rf1
+Kd5 {1.3s} 78. Rd1 Kd6 {0.55s} 79. Kd3 Kd5 {0.88s} 80. Rh1 d1=Q+ {1.1s} 81. Rxd1
+Ke5 {0.72s} 82. Rh1 Kf4 {1.1s} 83. Kc4 Kg3 {1.1s} 84. Ra1 Kf3 {1.1s} 85. Rh1
+Kg3 {0.97s} 86. Ra1 Kf3 {1.1s} 87. Kd3 Kg3 {1.1s} 88. Rh1 Kf3 {0.98s} 89. Kc2
+Kg3 {1.4s} 90. Kd3 Kf3 {1.0s} 91. Kc2 Kg3 {1.4s} 92. Kd1 Kg2 {0.82s} 93. Rh6
+Kf2 {1.1s} 94. Rc6 Kg3 {1.1s} 95. Ke1 Kf3 {1.1s} 96. Rc1 Kg3 {0.91s} 97. Rb1
+Kf3 {0.82s} 98. Rb2 Kf4 {0.83s} 99. Rh2 Kf3 {0.94s} 100. Kd1 Kg3 {0.87s}
+101. Rh5 Kf2 {0.95s} 102. Rh6 Kf1 {1.0s} 103. Rg6 Kf2 {0.57s} 104. Rc6
+Kg3 {1.1s} 105. Ke1 Kf3 {1.2s} 106. Rc1 Kg3 {1.0s} 107. Rc2 Kf3 {0.98s} 108. Ra2
+Kg3 {0.91s} 109. Rd2 Kf3 {0.97s} 110. Ra2 Kg3 {0.87s} 111. Rb2 Kf3 {0.93s}
+112. Rb1 Kg3 {0.95s} 113. Rb6 Kf3 {0.99s} 114. Rb1 Kg3 {0.94s} 115. Rb6
+Kf3 {1.1s} 116. Rb2 Kf4 {0.83s} 117. Rh2 Kf3 {0.98s} 118. Kd1 Kg3 {0.86s}
+119. Rh5 Kf2 {0.98s} 120. Rh6 Kf1 {1.1s} 121. Rg6 Kf2 {0.62s} 122. Rb6
+Kf3 {1.0s} 123. Ke1 Ke4 {1.0s} 124. Rb1 Kf3 {1.3s} 125. Rb6 Ke4 {0.98s} 126. Rd6
+Ke5 {1.3s} 127. Rd2 Kf5 {0.95s} 128. Rh2 Ke5 {0.87s} 129. Kd1 Kf4 {0.99s}
+130. Kc1 Kg3 {1.2s} 131. Rh1 {Draw by fifty moves rule} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:05:04"]
+[GameEndTime "2025-05-08T14:05:10.851 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:00:06.067 GMT Summer Time"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "56"]
+[Termination "time forfeit"]
+[TimeControl "40/300"]
+
+1. e3 {5.2s} d5 2. Nc3 {13s} Nf6 3. d4 {7.0s} a6 4. Bd3 {19s} e6 5. Bd2 {22s} c5
+6. dxc5 {5.7s} Bxc5 7. Nf3 {23s} O-O 8. Qe2 {11s} Re8 9. Na4 {12s} Bd6
+10. Nc3 {9.4s} e5 11. e4 {15s} d4 12. Nd5 {8.4s} Nxd5 13. exd5 {6.2s} e4
+14. Bxe4 {3.3s} f5 15. O-O-O {5.5s} fxe4 16. Nxd4 {8.8s} Nd7 17. Ne6 {14s} Qe7
+18. Qxe4 {15s} Nf6 19. Qd4 {11s} a5 20. Rhe1 {14s} a4 21. Kb1 {15s} a3
+22. Ng5 {10s} Qf8 23. Rxe8 {4.6s} Nxe8 24. bxa3 {9.1s} Nf6 25. Bc3 {10.0s} Bf5
+26. Qb6 {5.5s} Ra6 27. Qxb7 {2.9s} Rxa3 28. Bb2 {8.2s} Ra8 {White loses on time}
+0-1
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-2"]
+[Black "config_11-3-4-6-13"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[GameDuration "00:08:17"]
+[GameEndTime "2025-05-08T14:10:31.063 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:02:13.201 GMT Summer Time"]
+[Opening "Queen's pawn"]
+[PlyCount "376"]
+[TimeControl "40/300"]
+
+1. d4 {book} e6 {6.0s} 2. Nf3 h6 {11s} 3. e4 c5 {7.9s} 4. d5 exd5 {2.8s} 5. exd5
+Qf6 {9.5s} 6. Nc3 Bd6 {5.9s} 7. Ne4 Qe7 {3.1s} 8. Qe2 Bc7 {4.0s} 9. d6
+Ba5+ {1.6s} 10. c3 Qe6 {2.2s} 11. a3 Kf8 {4.5s} 12. Nxc5 Qxd6 {3.1s} 13. Be3
+Qe7 {8.8s} 14. O-O-O Nc6 {6.2s} 15. Qc2 d6 {8.0s} 16. Ne4 Bf5 {6.4s} 17. Bd3
+Rd8 {5.4s} 18. Rhe1 a6 {7.7s} 19. Nxd6 Rxd6 {3.7s} 20. Bxf5 Bc7 {2.6s} 21. Be4
+Rxd1+ {3.2s} 22. Rxd1 Na5 {6.0s} 23. Bd5 Nf6 {5.3s} 24. Qf5 Nxd5 {5.1s} 25. Qxd5
+Kg8 {25s} 26. b4 Qf6 {7.1s} 27. Kc2 Nc6 {7.1s} 28. g3 Qg6+ {12s} 29. Rd3
+a5 {12s} 30. b5 a4 {5.9s} 31. Nh4 Qg4 {6.4s} 32. bxc6 Qe2+ {5.3s} 33. Bd2
+bxc6 {2.5s} 34. Qd7 Bb6 {2.9s} 35. f3 Bc5 {3.0s} 36. Qc8+ Bf8 {1.8s} 37. h3
+g6 {4.7s} 38. Rd8 Qe7 {2.6s} 39. Re8 Qxa3 {1.9s} 40. Kd3 Qd6+ {2.4s} 41. Kc2
+Qa3 {3.2s} 42. Kd3 Qd6+ {2.2s} 43. Ke2 Kh7 {3.0s} 44. f4 Bg7 {3.1s} 45. Nf3
+Rxe8+ {1.1s} 46. Qxe8 Qd5 {3.2s} 47. Qe3 Qb5+ {4.7s} 48. Qd3 Qb8 {3.6s} 49. Bc1
+c5 {9.7s} 50. c4 Qb7 {6.3s} 51. Ba3 Bb2 {5.7s} 52. Bxc5 Kg7 {13s} 53. g4
+Bf6 {8.9s} 54. Bd4 Bxd4 {1.5s} 55. Qxd4+ f6 {2.5s} 56. h4 a3 {4.4s} 57. g5
+a2 {1.2s} 58. gxf6+ Kh7 {1.4s} 59. f7 Qxf7 {1.4s} 60. Nd2 Qb7 {3.5s} 61. Qa1
+Qg2+ {2.0s} 62. Kd3 Qg3+ {1.6s} 63. Kc2 Qxf4 {1.3s} 64. Qxa2 Qf5+ {4.8s} 65. Kc1
+Qf2 {4.3s} 66. Qa5 Qe1+ {1.7s} 67. Kc2 Qe7 {2.6s} 68. Qd5 Kg7 {3.3s} 69. Qd4+
+Kh7 {2.1s} 70. c5 Qe1 {7.1s} 71. Kd3 Qe6 {2.7s} 72. Qd6 Qf5+ {2.9s} 73. Kc4
+Qc2+ {2.1s} 74. Kb4 Kg8 {1.4s} 75. Qd5+ Kg7 {1.1s} 76. c6 Qb2+ {1.6s} 77. Nb3
+Qc2 {1.5s} 78. Nd4 Qd2+ {1.6s} 79. Ka4 Qd1+ {1.6s} 80. Kb4 Qd2+ {1.4s} 81. Ka4
+Qd1+ {1.5s} 82. Kb5 Qb1+ {1.5s} 83. Ka6 Qa1+ {2.4s} 84. Kb7 Qb1+ {2.7s} 85. Kc8
+Qe1 {2.7s} 86. Nf3 Qe8+ {1.7s} 87. Kb7 Qe7+ {2.0s} 88. c7 Qb4+ {1.6s} 89. Kc8
+Qf8+ {1.9s} 90. Kd7 Qf4 {1.4s} 91. Qd4+ Qxd4+ {0.51s} 92. Nxd4 g5 {0.60s}
+93. Nf5+ Kg6 {0.72s} 94. Ne3 gxh4 {0.57s} 95. Kd6 h3 {0.84s} 96. Nf1 Kh7 {0.66s}
+97. Ke5 h5 {0.59s} 98. Ng3 h4 {0.69s} 99. Ne4 h2 {0.64s} 100. Nf2 Kg7 {0.68s}
+101. Nh1 Kh8 {0.56s} 102. Ke6 Kg7 {0.53s} 103. Ke5 Kh8 {0.56s} 104. Ke6
+Kg7 {0.51s} 105. Kd6 Kf6 {0.64s} 106. c8=Q Kg7 {0.77s} 107. Nf2 Kf7 {1.1s}
+108. Qa6 Kg6 {1.0s} 109. Qa8 Kf7 {1.7s} 110. Qa6 Kg6 {0.98s} 111. Qc6
+Kf7 {0.99s} 112. Qd5+ Kf8 {0.84s} 113. Nd3 h3 {0.99s} 114. Nf2 Kg7 {0.80s}
+115. Ke7 Kh7 {0.78s} 116. Kd7 Kg6 {1.0s} 117. Qg8+ Kf5 {1.1s} 118. Qd5+
+Kg6 {0.86s} 119. Qg8+ Kf5 {1.0s} 120. Qh7+ Kf6 {0.57s} 121. Qd3 h1=Q {0.68s}
+122. Nxh1 h2 {0.79s} 123. Kd6 Kg7 {0.59s} 124. Ke7 Kh8 {0.68s} 125. Kd8
+Kg8 {0.55s} 126. Qc3 Kf7 {0.83s} 127. Qc7+ Kg8 {0.61s} 128. Qxh2 Kg7 {0.67s}
+129. Nf2 Kf6 {0.72s} 130. Nh1 Kf5 {0.80s} 131. Nf2 Kf6 {0.71s} 132. Nh1
+Kf5 {0.78s} 133. Qh5+ Ke4 {0.83s} 134. Qg6+ Kd4 {1.1s} 135. Nf2 Ke3 {1.5s}
+136. Qg1 Kf3 {0.98s} 137. Qh2 Ke2 {0.86s} 138. Nd1+ Kxd1 {0.81s} 139. Qh5+
+Ke1 {0.81s} 140. Qh1+ Ke2 {0.75s} 141. Qd5 Ke3 {0.73s} 142. Qd6 Kf3 {0.81s}
+143. Qb4 Kg3 {0.84s} 144. Qc5 Kf3 {1.3s} 145. Qb4 Kg3 {0.80s} 146. Qc5
+Kf3 {1.2s} 147. Qc7 Ke3 {0.91s} 148. Kd7 Kf2 {3.0s} 149. Qd6 Ke3 {2.4s} 150. Kd8
+Kf3 {0.89s} 151. Qc7 Ke3 {1.1s} 152. Kd7 Kf2 {2.7s} 153. Qb8 Ke3 {1.7s}
+154. Qg3+ Kd2 {1.3s} 155. Qd6+ Ke3 {1.6s} 156. Kc8 Kf2 {1.9s} 157. Qd1
+Kg2 {1.2s} 158. Qa1 Kf2 {1.8s} 159. Qb1 Ke2 {1.8s} 160. Qa1 Kd2 {2.1s} 161. Qb1
+Ke2 {1.1s} 162. Qa1 Kd2 {2.0s} 163. Qe5 Kd3 {0.89s} 164. Qc7 Ke2 {1.6s} 165. Qf7
+Kd3 {1.0s} 166. Qc7 Ke2 {1.6s} 167. Qc6 Kf2 {2.7s} 168. Qe8 Kf1 {1.9s} 169. Qa4
+Kf2 {1.4s} 170. Qe8 Kf1 {1.4s} 171. Qc6 Ke2 {1.6s} 172. Qc7 Kf2 {1.8s} 173. Kd7
+Ke3 {2.2s} 174. Kd8 Kf3 {0.87s} 175. Qd6 Ke3 {0.99s} 176. Qc7 Kf3 {0.82s}
+177. Qd6 Ke3 {0.97s} 178. Qb4 Kf3 {0.76s} 179. Qb8 Ke3 {0.84s} 180. Qb4
+Kf3 {0.76s} 181. Qb8 Ke3 {0.85s} 182. Ke8 Kf3 {0.78s} 183. Qb4 Kg3 {0.85s}
+184. Kd7 Kh3 {2.0s} 185. Qc5 Kg3 {2.0s} 186. Kc7 Kf3 {2.1s} 187. Qb4 Ke3 {1.8s}
+188. Kb6 Kd3 {1.4s, Draw by fifty moves rule} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-2"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[GameDuration "00:07:52"]
+[GameEndTime "2025-05-08T14:13:08.639 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:05:15.885 GMT Summer Time"]
+[Opening "Sicilian"]
+[PlyCount "373"]
+[TimeControl "40/300"]
+[Variation "Closed"]
+
+1. e4 {book} c5 2. Nc3 {7.7s} a6 3. d4 {2.3s} cxd4 4. Qxd4 {3.7s} Nc6
+5. Qc5 {7.5s} e5 6. Qd5 {6.1s} Nf6 7. Qc4 {6.0s} b5 8. Nxb5 {5.8s} axb5
+9. Qxb5 {4.6s} Nxe4 10. c3 {12s} Ba6 11. Qd5 {3.3s} Nf6 12. Qf3 {2.5s} Bb7
+13. Bg5 {14s} h6 14. Bh4 {5.2s} Be7 15. Bb5 {5.8s} Qb6 16. Bxf6 {4.6s} Bxf6
+17. Qd5 {6.7s} O-O 18. Qb3 {13s} Rfb8 19. a4 {13s} Qd8 20. Bc4 {4.8s} Qf8
+21. Bd5 {3.9s} e4 22. Rd1 {7.7s} Na5 23. Qb5 {1.8s} Bc6 24. Qe2 {2.2s} Re8
+25. Qh5 {2.2s} e3 26. Kf1 {2.5s} Re5 27. Qf3 {2.5s} exf2 28. Bxc6 {2.2s} fxg1=Q+
+29. Rxg1 {1.5s} Nxc6 30. Rxd7 {2.8s} Re6 31. Rd5 {6.3s} Rae8 32. Rd1 {9.7s} Qc5
+33. g3 {13s} h5 34. Rh1 {16s} h4 35. gxh4 {6.2s} Bxh4 36. Rd5 {7.7s} Qb6
+37. Rb5 {6.2s} Qa7 38. Rh5 {4.1s} Qa6+ 39. Kg2 {3.1s} Qe2+ 40. Qxe2 {1.4s} Rxe2+
+41. Kh3 {1.8s} Be1 42. Kg4 {1.8s} Ne5+ 43. Kg5 {2.9s} Bd2+ 44. Kh4 {1.3s} f6
+45. Rf5 {2.5s} Kf8 46. Kg3 {3.0s} Bh6 47. Rd1 {5.0s} Bd2 48. a5 {5.8s} Rd8
+49. Rf2 {2.6s} Re3+ 50. Kg2 {1.4s} Red3 51. a6 {1.8s} R3d7 52. Re2 {2.3s} g5
+53. h3 {2.8s} Kg7 54. Re4 {2.9s} Kg6 55. h4 {3.1s} g4 56. Ra4 {4.3s} Kf5
+57. a7 {2.3s} Ra8 58. Ra5 {3.4s} Raxa7 59. Rc5 {3.5s} Kf4 60. Rf1+ {7.2s} Nf3
+61. Rc4+ {1.6s} Kf5 62. Rc5+ {2.7s} Kg6 63. h5+ {2.6s} Kh7 64. Rc8 {4.1s} Rd5
+65. Kg3 {3.2s} Rg5 66. Rb8 {7.7s} Rgg7 67. c4 {4.6s} f5 68. Rf8 {6.4s} Nd4
+69. Kg2 {3.9s} g3 70. Rd1 {3.2s} Bb4 71. h6 {5.0s} Rg6 72. Re8 {3.3s} Ne6
+73. Rb8 {3.1s} Bc5 74. Rf1 {3.3s} Nd4 75. Rc8 {2.5s} Bd6 76. c5 {2.1s} Be5
+77. Re1 {2.6s} Re7 78. Rd8 {2.2s} f4 79. Rxd4 {1.2s} f3+ 80. Kxf3 {1.4s} Rf7+
+81. Ke4 {1.4s} Bxd4 82. Kxd4 {2.4s} Rf8 83. Kc4 {1.7s} Rh8 84. Re7+ {1.4s} Kxh6
+85. Re4 {3.7s} g2 86. Re1 {1.2s} Rf8 87. Kd5 {1.3s} Rf4 88. c6 {1.1s} Rf8
+89. c7 {1.5s} Kg7 90. Re7+ {1.7s} Kh6 91. Re1 {1.2s} Kg7 92. Re7+ {1.8s} Kg8
+93. Re1 {1.2s} g1=Q 94. Rxg1 {0.80s} Rxg1 95. Kd6 {2.4s} Rc1 96. b4 {1.2s} Kf7
+97. b5 {0.85s} Ke8 98. b6 {0.74s} Rf6+ 99. Ke5 {0.53s} Rxb6 100. c8=Q+ {0.61s}
+Rxc8 101. Kf4 {1.3s} Rc5 102. Ke3 {1.9s} Rb7 103. Kd4 {1.8s} Rcc7
+104. Ke5 {1.1s} Rh7 105. Ke6 {1.6s} Rb6+ 106. Kf5 {0.81s} Rbb7 107. Ke6 {1.6s}
+Rb6+ 108. Kf5 {0.82s} Rhb7 109. Kg4 {1.0s} Ra6 110. Kf4 {1.6s} Rab6
+111. Ke3 {1.6s} Rh7 112. Kf4 {1.7s} Rbb7 113. Kg5 {1.7s} Rh8 114. Kf5 {1.0s} Ra7
+115. Ke6 {1.2s} Ra1 116. Kd6 {0.87s} Rb1 117. Ke6 {0.78s} Re1+ 118. Kd6 {0.64s}
+Ra1 119. Kc7 {0.79s} Rb1 120. Kc6 {0.78s} Ra1 121. Kc7 {0.86s} Rb1
+122. Kc6 {0.76s} Rbh1 123. Kc7 {0.85s} R1h6 124. Kc8 {0.69s} Rh1
+125. Kb8 {0.73s} R1h2 126. Kc7 {0.74s} R8h4 127. Kd6 {1.1s} Rh1 128. Kc6 {1.1s}
+R1h3 129. Kd6 {1.3s} Rh1 130. Kc6 {1.1s} R1h3 131. Kd6 {1.3s} Rh6+
+132. Kc5 {0.99s} R3h4 133. Kd5 {0.57s} Rh1 134. Ke5 {1.0s} Rh7 135. Kd6 {1.2s}
+R1h6+ 136. Kd5 {0.91s} Rc6 137. Kxc6 {0.99s} Ra7 138. Kd6 {0.86s} Ra8
+139. Kc7 {0.62s} Kf8 140. Kd7 {0.65s} Kg8 141. Kc7 {0.87s} Kf8 142. Kd7 {0.64s}
+Kg8 143. Kc7 {0.84s} Ra3 144. Kb8 {1.2s} Rc3 145. Kb7 {0.66s} Rc2
+146. Kb8 {0.60s} Rc3 147. Kb7 {0.68s} Rc2 148. Kb8 {0.60s} Rc1 149. Kb7 {0.74s}
+Rc3 150. Kb8 {0.65s} Rc1 151. Kb7 {0.68s} Rc3 152. Kb8 {0.62s} Rc2
+153. Kb7 {0.66s} Rf2 154. Kb8 {0.82s} Rc2 155. Kb7 {0.75s} Rf2 156. Kb8 {0.89s}
+Rf1 157. Kc7 {0.81s} Rf3 158. Kb8 {1.1s} Rf1 159. Kc7 {0.82s} Rf3
+160. Kb8 {1.2s} Rf2 161. Kc7 {0.74s} Rf1 162. Kb8 {1.1s} Rf2 163. Kc7 {0.72s}
+Rf1 164. Kb8 {1.1s} Rf8+ 165. Kc7 {0.66s} Ra8 166. Kd7 {0.89s} Rf8
+167. Kc7 {0.86s} Ra8 168. Kd7 {0.90s} Kh8 169. Kc7 {0.65s} Ra3 170. Kd8 {0.69s}
+Ra8+ 171. Kd7 {0.58s} Ra3 172. Kd8 {0.76s} Rg3 173. Kc8 {0.75s} Rg4
+174. Kd8 {0.70s} Rg3 175. Kc8 {0.67s} Rg2 176. Kb8 {0.63s} Rg1 177. Kc8 {0.72s}
+Rg4 178. Kd8 {0.70s} Rg2 179. Kc8 {0.69s} Rg3 180. Kd8 {0.62s} Rg2
+181. Kc8 {0.75s} Rg1 182. Kb8 {0.81s} Rc1 183. Kb7 {0.69s} Kg8 184. Kb8 {0.76s}
+Rc4 185. Kb7 {0.77s} Rd4 186. Kc8 {0.98s} Rd5
+187. Kb8 {0.77s, Draw by fifty moves rule} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-2"]
+[Black "config_11-3-4-6-13"]
+[Result "1-0"]
+[ECO "C40"]
+[GameDuration "00:03:52"]
+[GameEndTime "2025-05-08T14:14:28.730 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:10:36.091 GMT Summer Time"]
+[Opening "King's knight Opening"]
+[PlyCount "127"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 {5.1s} 2. Nf3 Bd6 {5.0s} 3. d4 Qf6 {3.1s} 4. Nc3 Bb4 {3.2s}
+5. Nxe5 Nc6 {5.3s} 6. Nf3 d6 {6.8s} 7. Bg5 Qe6 {3.9s} 8. Bd3 Qg4 {3.9s} 9. O-O
+Nxd4 {5.9s} 10. Bb5+ Nxb5 {2.6s} 11. Nxb5 Kf8 {4.2s} 12. a3 Bc5 {5.2s} 13. Nxc7
+f6 {4.7s} 14. h3 Qg3 {3.9s} 15. Bh4 Qg6 {2.4s} 16. Kh2 Rb8 {4.9s} 17. b4
+Qxe4 {2.7s} 18. bxc5 Ne7 {4.5s} 19. Re1 Qf4+ {2.1s} 20. Bg3 Qa4 {2.8s} 21. Nd4
+dxc5 {2.5s} 22. Ndb5 Bf5 {6.5s} 23. Bd6 Qc4 {4.3s} 24. a4 Bxc2 {5.6s} 25. Qd2
+Kg8 {5.2s} 26. Rxe7 Bf5 {10s} 27. Ree1 a6 {12s} 28. Nc3 Rd8 {12s} 29. f3
+h6 {12s} 30. Qf4 Qd4 {3.8s} 31. Rad1 Qxc3 {3.2s} 32. Qxf5 Qb3 {7.0s} 33. Qe6+
+Qxe6 {1.2s} 34. Nxe6 Re8 {1.8s} 35. Nc7 Rd8 {1.6s} 36. h4 c4 {2.4s} 37. Kh1
+c3 {2.9s} 38. h5 c2 {3.2s} 39. Rc1 Rxd6 {1.0s} 40. Rxc2 Kh7 {3.9s} 41. Rc5
+Rhd8 {5.5s} 42. Re7 Rd1+ {4.7s} 43. Kh2 R8d7 {3.4s} 44. Rxd7 Rxd7 {0.93s}
+45. Ne6 Rd6 {2.6s} 46. Nc7 Rd2 {3.7s} 47. Kh3 Rf2 {2.7s} 48. Ne6 Re2 {2.1s}
+49. Nf4 Rf2 {1.8s} 50. Ne6 Re2 {1.9s} 51. Nf4 Rf2 {1.8s} 52. Kg3 Rd2 {1.6s}
+53. a5 Rb2 {1.4s} 54. Rc8 Rb5 {1.4s} 55. Kh4 Rb4 {1.5s} 56. Kg3 Rb5 {1.3s}
+57. Kh4 Rb4 {1.3s} 58. g3 Ra4 {1.9s} 59. Kh3 Rxa5 {1.3s} 60. g4 Ra3 {1.6s}
+61. Kg3 Ra1 {1.6s} 62. Ng6 Rg1+ 63. Kf2 Rxg4 {0.51s} 64. Rh8# {White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-2"]
+[Result "1-0"]
+[ECO "C26"]
+[GameDuration "00:02:42"]
+[GameEndTime "2025-05-08T14:15:56.616 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:13:13.685 GMT Summer Time"]
+[Opening "Vienna"]
+[PlyCount "73"]
+[TimeControl "40/300"]
+[Variation "Falkbeer variation"]
+
+1. e4 {book} e5 2. Nc3 {10s} Nf6 3. Nf3 {6.4s} Nc6 4. Bb5 {7.3s} Bb4
+5. Nd5 {3.5s} Bc5 6. c3 {3.0s} Nxe4 7. d4 {2.2s} exd4 8. Qe2 {4.4s} f5
+9. Bf4 {5.2s} O-O 10. Bxc7 {4.3s} d3 11. Bxd3 {2.7s} Bxf2+ 12. Kf1 {3.1s} Qe8
+13. Bxe4 {6.8s} fxe4 14. Kxf2 {9.7s} Qg6 15. Qc4 {4.8s} b5 16. Ne7+ {1.4s} Kh8
+17. Nxg6+ {0.72s} hxg6 18. Qxe4 {1.5s} d5 19. Qxg6 {1.5s} b4 20. Qxc6 {0.98s}
+Bg4 21. Kg1 {2.2s} b3 22. h4 {2.6s} Bxf3 23. gxf3 {2.3s} bxa2 24. Bd6 {6.5s} d4
+25. cxd4 {4.2s} a6 26. Rxa2 {8.6s} a5 27. Ra1 {14s} a4 28. Re1 {14s} a3
+29. bxa3 {5.6s} Rxa3 30. Bxa3 {3.7s} Rg8 31. Qe4 {5.1s} g6 32. Bd6 {2.5s} Kh7
+33. f4 {3.4s} Rc8 34. Qb7+ {3.0s} Kg8 35. Qxc8+ {2.3s} Kh7 36. Re7+ {2.4s} Kh6
+37. Qh8# {White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-2"]
+[Black "config_11-3-4-6-13"]
+[Result "1-0"]
+[ECO "C40"]
+[GameDuration "00:04:12"]
+[GameEndTime "2025-05-08T14:18:46.075 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:14:33.752 GMT Summer Time"]
+[Opening "King's knight Opening"]
+[PlyCount "139"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 {5.2s} 2. Nf3 Bd6 {4.8s} 3. d4 Qf6 {3.2s} 4. Nc3 Bb4 {3.2s}
+5. Nxe5 Nc6 {5.2s} 6. Nf3 d6 {6.9s} 7. Bg5 Qe6 {4.1s} 8. Bd3 Qg4 {4.2s} 9. O-O
+Nxd4 {5.7s} 10. Bb5+ Nxb5 {2.6s} 11. Nxb5 Kf8 {4.1s} 12. Nxc7 Rb8 {5.9s} 13. a3
+Bc5 {3.4s} 14. b3 Nf6 {6.7s} 15. Be3 Qh5 {4.2s} 16. e5 Ne8 {3.6s} 17. b4
+Bxe3 {2.6s} 18. fxe3 Bf5 {2.6s} 19. exd6 Qh6 {4.7s} 20. Qd4 Nxd6 {3.2s} 21. c3
+Rc8 {6.2s} 22. Nd5 Be6 {13s} 23. Nf4 Bc4 {7.9s} 24. Rfd1 Nb5 {7.2s} 25. Qd7
+Re8 {6.3s} 26. Qxb7 Nxc3 {5.9s} 27. Rd7 Qf6 {8.1s} 28. Re1 Bb5 {10s} 29. Rc7
+Ba6 {7.6s} 30. Qxa7 Nb5 {8.0s} 31. Qc5+ Nd6 {4.4s} 32. Rc6 Bb7 {2.6s} 33. Rxd6
+Qe7 {2.3s} 34. Rdd1 Qxc5 {1.3s} 35. bxc5 Bxf3 {3.0s} 36. gxf3 g5 {1.3s} 37. Nd5
+Kg7 {1.5s} 38. c6 Re6 {2.4s} 39. c7 Rc8 {4.3s} 40. h3 h6 {2.2s} 41. a4
+Rd6 {3.6s} 42. e4 h5 {1.9s} 43. Kf2 h4 {3.2s} 44. Ke3 Kh7 {2.4s} 45. f4
+gxf4+ {0.96s} 46. Kxf4 Ra6 {3.6s} 47. Rd4 Rg6 {4.4s} 48. a5 Rg2 {5.1s} 49. a6
+Rf2+ {1.9s} 50. Ke3 Rh2 {2.4s} 51. Kf4 Rf2+ {1.4s} 52. Ke3 Rh2 {1.8s} 53. Nf6+
+Kg7 {1.5s} 54. Nh5+ Kh6 {1.1s} 55. Nf4 Rxc7 {1.4s} 56. Rd6+ Kh7 {2.5s} 57. Rg1
+Rhc2 {3.6s} 58. e5 R7c3+ {2.5s} 59. Nd3 Rh2 {1.9s} 60. Ke4 Rxh3 {1.9s} 61. a7
+Rc4+ {1.2s} 62. Rd4 f5+ {0.86s} 63. exf6 Rc8 {1.3s} 64. f7 Rh2 {3.3s} 65. Rg8
+Re2+ {1.2s} 66. Kd5 Re5+ {0.68s} 67. Nxe5 Rxg8 {0.65s} 68. Rxh4+ Kg7 {0.60s}
+69. Rg4+ Kh8 {0.53s} 70. fxg8=Q# {White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-2"]
+[Result "1-0"]
+[ECO "D20"]
+[GameDuration "00:02:11"]
+[GameEndTime "2025-05-08T14:18:12.737 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:16:01.656 GMT Summer Time"]
+[Opening "Queen's Gambit accepted"]
+[PlyCount "69"]
+[TimeControl "40/300"]
+[Variation "3.e4"]
+
+1. d4 {book} d5 2. c4 {4.8s} dxc4 3. e4 {4.7s} e5 4. Qa4+ {3.1s} Bd7
+5. Qxc4 {2.6s} Nc6 6. Nf3 {4.6s} exd4 7. Be2 {13s} Be6 8. Qb5 {3.9s} Bb4+
+9. Kd1 {5.9s} a6 10. Qxb7 {3.1s} Nge7 11. Bg5 {11s} d3 12. Bf1 {2.9s} O-O
+13. Bxe7 {4.4s} Qxe7 14. Qxc6 {5.8s} Bd7 15. Qd5 {8.7s} Rad8 16. Qb3 {7.1s} Qxe4
+17. a3 {4.9s} Bg4 18. axb4 {2.0s} Bxf3+ 19. gxf3 {1.8s} Qxf3+ 20. Kd2 {1.4s}
+Qxh1 21. Bxd3 {1.3s} Qf3 22. Kc2 {1.4s} c5 23. Bxh7+ {1.0s} Kh8 24. Qxf3 {1.7s}
+c4 25. Be4 {3.6s} f5 26. Bd5 {2.6s} Rxd5 27. Qxd5 {1.7s} Re8 28. Qxc4 {2.8s} f4
+29. Rxa6 {6.0s} f3 30. Nc3 {6.6s} Re2+ 31. Nxe2 {1.9s} fxe2 32. Qxe2 {1.5s} g6
+33. Qe8+ {1.8s} Kg7 34. Rxg6+ {0.50s} Kh7 35. Qg8# {White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-2"]
+[Black "config_11-3-4-6-13"]
+[Result "1/2-1/2"]
+[ECO "C20"]
+[GameDuration "00:06:09"]
+[GameEndTime "2025-05-08T14:24:27.193 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:18:17.766 GMT Summer Time"]
+[Opening "King's pawn"]
+[PlyCount "325"]
+[TimeControl "40/300"]
+[Variation "Mengarini's Opening"]
+
+1. e4 {book} e5 {5.6s} 2. a3 Bc5 {6.4s} 3. Bc4 Qh4 {3.6s} 4. Qf3 Nf6 {3.4s}
+5. Nc3 Nc6 {6.6s} 6. Nge2 Nd4 {8.3s} 7. Nxd4 Bxd4 {4.6s} 8. d3 a6 {5.4s} 9. Ne2
+d5 {4.7s} 10. exd5 Bg4 {5.9s} 11. Qg3 Qxg3 {4.7s} 12. Nxg3 b5 {6.0s} 13. Bb3
+O-O-O {5.5s} 14. h3 Bd7 {3.3s} 15. O-O Kb8 {5.2s} 16. Re1 Rhe8 {6.7s} 17. Kf1
+h6 {9.2s} 18. c3 Ba7 {6.7s} 19. f3 Bc8 {6.3s} 20. c4 Bd4 {6.3s} 21. Be3
+Bxb2 {4.4s} 22. Rab1 Bxa3 {6.9s} 23. Ra1 bxc4 {7.8s} 24. dxc4 Bb4 {11s} 25. Reb1
+a5 {8.1s} 26. Ba4 Nd7 {5.1s} 27. Bxd7 Bxd7 {1.5s} 28. Rxa5 Bc8 {1.8s} 29. Rxb4+
+Bb7 {0.72s} 30. Ne4 c6 {2.5s} 31. Ba7+ Kc8 {1.1s} 32. dxc6 Bxc6 {2.8s} 33. Rb8+
+Kc7 {1.3s} 34. Rb1 Bxe4 {2.8s} 35. fxe4 Rd2 {3.2s} 36. g3 Rh2 {3.3s} 37. Rb3
+Re6 {2.7s} 38. Bf2 f6 {1.9s} 39. g4 Rh1+ {3.0s} 40. Kg2 Rc1 {2.5s} 41. Ra4
+Rc2 {2.5s} 42. Kg3 Re8 {2.6s} 43. h4 Rb8 {1.7s} 44. Ra7+ Kc8 {0.89s} 45. Rxb8+
+Kxb8 {0.53s} 46. Rxg7 Rxc4 {0.63s} 47. h5 Rxe4 {0.68s} 48. Rg6 Rc4 {0.91s}
+49. Rxf6 Rc3+ {0.90s} 50. Kh4 Rc2 {0.95s} 51. Kg3 Rc3+ {0.86s} 52. Kh4
+Rc2 {0.89s} 53. Bg3 Ka8 {0.90s} 54. Kh3 Rd2 {0.95s} 55. Rf7 Rd3 {0.93s} 56. Rf6
+Re3 {0.72s} 57. Kg2 Re2+ {0.81s} 58. Kh3 Kb7 {0.68s} 59. Rf8 Kc6 {1.2s} 60. Rd8
+Kc5 {1.2s} 61. Ra8 Kc4 {1.6s} 62. Rd8 Kc3 {1.3s} 63. Rf8 e4 {1.3s} 64. Rf6
+e3 {0.88s} 65. Re6 Kc2 {1.3s} 66. Rd6 Rd2 {0.84s} 67. Rf6 e2 {1.1s} 68. Re6
+Rd3 {1.4s} 69. Kg2 Kd1 {2.3s} 70. Bf2 Kd2 {3.1s} 71. Re5 Kd1 {2.1s} 72. Re6
+Kd2 {3.1s} 73. Re5 Kd1 {2.2s} 74. Bg3 Kd2 {2.6s} 75. Re6 Kd1 {3.2s} 76. Bh4
+Kd2 {2.6s} 77. Bf2 Kd1 {2.5s} 78. Re5 Kd2 {2.9s} 79. Re7 Kd1 {2.4s} 80. Re4
+Kd2 {3.3s} 81. Re7 Kd1 {2.4s} 82. Re5 Kd2 {3.0s} 83. Re8 Kd1 {2.2s} 84. Re7
+Kd2 {3.6s} 85. Re8 Kd1 {2.2s} 86. Re7 Kd2 {3.2s} 87. Re4 Rb3 {2.5s} 88. Re8
+Rd3 {1.7s} 89. Re4 Rb3 {2.6s} 90. Re8 Rc3 {1.6s} 91. Rd8+ Kc2 {1.6s} 92. g5
+hxg5 {2.6s} 93. h6 g4 {2.9s} 94. h7 Rh3 {0.89s} 95. h8=R Rb3 {3.1s} 96. Rh2
+g3 {1.6s} 97. Bxg3 Rd3 {2.1s} 98. Rxd3 Kxd3 {1.1s} 99. Be1 Ke4 {0.82s} 100. Rh3
+Kf4 {1.1s} 101. Rc3 Ke4 {0.89s} 102. Rg3 Kf4 {1.0s} 103. Rc3 Ke4 {0.90s}
+104. Rg3 Kf4 {1.0s} 105. Rh3 Ke4 {0.94s} 106. Rc3 Kf4 {1.0s} 107. Kf2
+Kg5 {0.89s} 108. Kg2 Kf4 {1.1s} 109. Kf2 Kg5 {0.92s} 110. Kf3 Kh6 {0.85s}
+111. Rc1 Kh7 {1.3s} 112. Bf2 Kh8 {1.5s} 113. Kxe2 Kg8 {0.74s} 114. Rc6
+Kg7 {0.79s} 115. Bd4+ Kg8 {0.64s} 116. Bb2 Kf7 {0.73s} 117. Ke1 Ke8 {0.63s}
+118. Rc4 Kd7 {0.89s} 119. Rc3 Ke6 {0.71s} 120. Rc1 Kf5 {1.3s} 121. Ba1
+Kg5 {1.1s} 122. Bb2 Kh5 {1.4s} 123. Ba3 Kg5 {0.80s} 124. Bb2 Kh5 {1.4s} 125. Ba3
+Kg5 {0.80s} 126. Rb1 Kf5 {1.1s} 127. Bb2 Kf4 {1.4s} 128. Ba3 Kg3 {1.4s} 129. Rb6
+Kf3 {1.3s} 130. Rh6 Ke4 {1.1s} 131. Rg6 Kf5 {2.1s} 132. Rd6 Ke5 {2.4s} 133. Rb6
+Kf5 {1.6s} 134. Rd6 Ke5 {2.2s} 135. Rb6 Kf5 {1.4s} 136. Rb1 Ke5 {3.2s} 137. Rb2
+Kf5 {2.7s} 138. Rb1 Ke5 {1.9s} 139. Rb2 Kf5 {1.4s} 140. Bf8 Ke5 {1.2s} 141. Bb4
+Kd5 {1.1s} 142. Ba3 Ke5 {0.79s} 143. Bb4 Kd5 {0.88s} 144. Ba3 Ke5 {0.85s}
+145. Bf8 Kf5 {0.85s} 146. Rb1 Ke5 {1.1s} 147. Rb2 Kf5 {0.93s} 148. Rb1
+Ke5 {1.1s} 149. Rc1 Ke6 {0.94s} 150. Ba3 Kd7 {0.96s} 151. Rb1 Kc8 {0.97s}
+152. Bf8 Kc7 {0.72s} 153. Ba3 Kc8 {0.86s} 154. Bf8 Kc7 {0.73s} 155. Rb2
+Kc6 {0.73s} 156. Ra2 Kc7 {0.77s} 157. Rb2 Kc6 {0.98s} 158. Ra2 Kc7 {0.91s}
+159. Ra6 Kb7 {0.85s} 160. Rf6 Kc7 {0.93s} 161. Bc5 Kb7 {0.97s} 162. Bf8
+Kc7 {0.76s} 163. Rc6+ {Draw by fifty moves rule} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-3"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:05:14"]
+[GameEndTime "2025-05-08T14:24:05.777 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:18:51.105 GMT Summer Time"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "66"]
+[Termination "time forfeit"]
+[TimeControl "40/300"]
+
+1. e3 {5.7s} e5 2. Nc3 {13s} d5 3. a3 {10.0s} Nf6 4. d4 {22s} e4 5. f3 {12s} Bd6
+6. fxe4 {3.6s} dxe4 7. Qe2 {12s} a6 8. g3 {12s} O-O 9. Bg2 {12s} Re8
+10. Qf1 {13s} c5 11. Bd2 {4.2s} cxd4 12. exd4 {4.4s} Nc6 13. Nce2 {11s} e3
+14. Bc3 {3.5s} Rb8 15. d5 {5.7s} Ne5 16. O-O-O {6.3s} Neg4 17. Qf3 {8.9s} Ne4
+18. Kb1 {18s} Ngf2 19. Rf1 {9.6s} Bg4 20. Qxe3 {3.2s} Bc5 21. Bd4 {6.6s} Bxd4
+22. Nxd4 {3.8s} Nd6 23. Qxf2 {3.3s} Nc4 24. Qxf7+ {3.5s} Kh8 25. Nb3 {10.0s} Qb6
+26. d6 {6.0s} Ne3 27. d7 {6.1s} Bxd7 28. Qxd7 {5.2s} Nxc2 29. Kxc2 {16s} Rec8+
+30. Kb1 {3.4s} Qxb3 31. Be4 {16s} Rc4 32. Qd5 {7.7s} a5 33. Ne2 {14s}
+Re8 {White loses on time} 0-1
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-3"]
+[Black "config_11-3-4-6-13"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[GameDuration "00:04:02"]
+[GameEndTime "2025-05-08T14:28:13.774 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:24:10.801 GMT Summer Time"]
+[Opening "Queen's pawn"]
+[PlyCount "138"]
+[TimeControl "40/300"]
+
+1. d4 {book} e6 {6.2s} 2. e4 Nc6 {13s} 3. Nc3 Bb4 {9.1s} 4. Be2 Bxc3+ {9.0s}
+5. bxc3 Nf6 {6.4s} 6. e5 Ne4 {10s} 7. Qd3 d5 {7.5s} 8. Qe3 Bd7 {10s} 9. f3
+Qh4+ {3.8s} 10. g3 Nxg3 {3.4s} 11. Qf2 Nf5 {3.8s} 12. Bd3 Qxf2+ {3.1s} 13. Kxf2
+h6 {8.4s} 14. Ne2 Nh4 {7.7s} 15. a4 O-O-O {6.3s} 16. a5 a6 {4.8s} 17. h3
+g6 {5.0s} 18. Nf4 Kb8 {6.3s} 19. Rg1 Rhe8 {8.1s} 20. Rg4 g5 {3.5s} 21. Nh5
+f5 {4.5s} 22. exf6 e5 {5.2s} 23. Rxh4 gxh4 {1.6s} 24. Bxh6 Rh8 {2.9s} 25. Bg7
+Rxh5 {1.8s} 26. f7 e4 {2.4s} 27. fxe4 dxe4 {2.6s} 28. Bxe4 Rxa5 {1.5s} 29. Rxa5
+Nxa5 {1.5s} 30. f8=R Rxf8+ {0.90s} 31. Bxf8 Bxh3 {1.7s} 32. Be7 Nc4 {2.6s}
+33. Bxh4 Bd7 {6.3s} 34. d5 Bg4 {5.6s} 35. Bd3 Na3 {2.9s} 36. c4 Bd1 {1.4s}
+37. Ke3 Bxc2 {0.86s} 38. Bf1 Bb3 {2.6s} 39. Kd4 a5 {2.0s} 40. Kc3 a4 {1.1s}
+41. c5 Bxd5 {2.5s} 42. Kb2 Nc4+ {7.3s} 43. Bxc4 Bxc4 {1.2s} 44. c6 bxc6 {1.5s}
+45. Kc1 a3 {3.3s} 46. Kc2 c5 {6.4s} 47. Be1 Bg8 {2.8s} 48. Bh4 a2 {5.2s} 49. Kb2
+Bb3 {2.7s} 50. Bg3 c4 {1.7s} 51. Be1 c5 {0.91s} 52. Bc3 Kb7 {1.7s} 53. Bh8
+Kc8 {1.4s} 54. Bc3 Kb8 {1.6s} 55. Bh8 Kc8 {1.3s} 56. Bg7 Kb8 {2.6s} 57. Ka1
+Ka8 {0.73s} 58. Bc3 Kb8 {0.61s} 59. Bh8 Kb7 {0.71s} 60. Bf6 Kb8 {0.61s} 61. Bh8
+Kb7 {0.91s} 62. Bf6 Ka8 {1.1s} 63. Bb2 Kb8 {0.67s} 64. Bg7 Ka8 {0.70s} 65. Bh8
+Kb8 {0.81s} 66. Bf6 Ka8 {0.82s} 67. Be5 Kb7 {0.82s} 68. Bh8 Ka7 {0.76s} 69. Bf6
+Ka8 {0.89s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-3"]
+[Result "1-0"]
+[ECO "C25"]
+[GameDuration "00:02:36"]
+[GameEndTime "2025-05-08T14:27:08.908 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:24:32.235 GMT Summer Time"]
+[Opening "Vienna game"]
+[PlyCount "73"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 2. Nc3 {14s} Bc5 3. Qh5 {6.8s} Nc6 4. Bc4 {12s} g6 5. Qf3 {5.0s}
+Qe7 6. Nd5 {5.4s} Qd8 7. Ne2 {7.3s} d6 8. Nb6 {8.6s} Be6 9. Bxe6 {1.8s} Nf6
+10. Bxf7+ {1.9s} Kxf7 11. Nxa8 {1.7s} d5 12. Nxc7 {2.7s} Qxc7 13. exd5 {2.1s}
+Nb4 14. Kd1 {4.1s} Rc8 15. Nc3 {4.9s} Rd8 16. a3 {18s} e4 17. Nxe4 {3.8s} Bd4
+18. axb4 {2.9s} Rxd5 19. Nxf6 {9.5s} Qxc2+ 20. Kxc2 {2.8s} Rc5+ 21. bxc5 {1.7s}
+h6 22. Nh5+ {2.8s} Kg8 23. Qd5+ {2.9s} Kf8 24. Qd8+ {2.4s} Kf7 25. Rxa7 {2.0s}
+Ke6 26. Nf4+ {2.9s} Kf5 27. Nd3 {5.1s} Bf6 28. Qf8 {3.6s} Ke6 29. Re1+ {5.1s}
+Kd5 30. Qf7+ {2.5s} Kd4 31. Rxb7 {4.3s} Bg7 32. Qd7+ {2.0s} Kc4 33. Qf7+ {0.61s}
+Kd4 34. Qd7+ {2.0s} Kc4 35. Qe6+ {0.70s} Kd4 36. Rxg7 {0.75s} h5
+37. Rd7# {0.53s, White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-3"]
+[Black "config_11-3-4-6-13"]
+[Result "1/2-1/2"]
+[ECO "C40"]
+[GameDuration "00:03:15"]
+[GameEndTime "2025-05-08T14:30:29.335 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:27:13.942 GMT Summer Time"]
+[Opening "King's knight Opening"]
+[PlyCount "103"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 {5.4s} 2. Nf3 Bd6 {4.7s} 3. d4 Qf6 {3.2s} 4. Bg5 Qg6 {2.5s}
+5. dxe5 Bb4+ {4.0s} 6. c3 Qxe4+ {4.6s} 7. Be2 Bc5 {8.3s} 8. a3 Nc6 {10s} 9. O-O
+Nxe5 {5.2s} 10. Re1 Ng4 {7.9s} 11. Bd3 Nxf2 {1.2s} 12. Rxe4+ Nxe4+ {1.1s}
+13. Kf1 Nxg5 {3.0s} 14. Nxg5 d5 {10s} 15. Qe1+ Ne7 {3.2s} 16. b4 Bd6 {4.2s}
+17. g3 h6 {8.9s} 18. Nf3 Bg4 {5.0s} 19. Nbd2 Rd8 {6.7s} 20. Kg2 Bh5 {8.4s}
+21. h3 c6 {4.6s} 22. a4 Bxf3+ {2.8s} 23. Nxf3 a6 {3.0s} 24. Rd1 Kf8 {3.8s}
+25. a5 g6 {7.1s} 26. Bb1 h5 {8.5s} 27. h4 Kg7 {6.9s} 28. c4 Rhe8 {4.1s} 29. Qc3+
+Kg8 {2.5s} 30. Rf1 dxc4 {3.0s} 31. Qf6 Nd5 {4.1s} 32. Qg5 Ne3+ {9.8s} 33. Kg1
+Nxf1 {3.0s} 34. Bxg6 fxg6 {1.1s} 35. Qxg6+ Kh8 {0.80s} 36. Qf6+ Kg8 {1.2s}
+37. Ng5 Re7 {1.3s} 38. Qg6+ Rg7 {0.87s} 39. Qe6+ Kh8 {1.1s} 40. Qh6+ Kg8 {0.93s}
+41. Qe6+ Kh8 {1.1s} 42. Qf6 Be7 {1.9s} 43. Qh6+ Kg8 {0.84s} 44. Qe6+ Kf8 {1.3s}
+45. Qf5+ Ke8 {0.88s} 46. Kxf1 Rd1+ {2.0s} 47. Ke2 Rd5 {1.9s} 48. Qe6 Kd8 {1.9s}
+49. Nf7+ Ke8 {1.2s} 50. Ng5 Kd8 {2.0s} 51. Nf7+ Ke8 {1.0s}
+52. Ng5 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-3"]
+[Result "1-0"]
+[ECO "C25"]
+[GameDuration "00:02:46"]
+[GameEndTime "2025-05-08T14:31:05.430 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:28:18.804 GMT Summer Time"]
+[Opening "Vienna game"]
+[PlyCount "73"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 2. Nc3 {9.9s} c6 3. d4 {4.3s} d6 4. Be3 {3.9s} Nf6 5. h3 {6.2s}
+Be7 6. a3 {6.8s} O-O 7. Qf3 {6.3s} d5 8. dxe5 {6.8s} Nxe4 9. Bd3 {9.6s} f5
+10. Nge2 {9.0s} Nd7 11. Bd4 {6.7s} Bh4 12. e6 {5.9s} Ndc5 13. Bxc5 {2.6s} Nxc5
+14. Qe3 {2.3s} Nxe6 15. g3 {9.4s} d4 16. Qe5 {2.8s} Bf6 17. Qxf5 {2.1s} g6
+18. Qf3 {3.2s} dxc3 19. Bc4 {6.9s} Qd2+ 20. Kf1 {1.4s} Kg7 21. Bxe6 {6.2s} Bxe6
+22. bxc3 {9.2s} Rad8 23. Rb1 {10s} Bc8 24. Kg2 {5.6s} c5 25. Rhd1 {6.0s} Qxd1
+26. Rxd1 {1.2s} Rxd1 27. Nf4 {3.0s} Rdd8 28. Kg1 {3.4s} Rd2 29. a4 {3.9s} c4
+30. Kh2 {3.0s} Bd7 31. Qxb7 {1.5s} Rf7 32. Qxa7 {1.5s} Be5 33. Qb6 {2.7s} g5
+34. Nh5+ {1.0s} Kh8 35. Qd8+ {0.73s} Be8 36. Qxe8+ {0.50s} Rf8
+37. Qxf8# {0.50s, White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-3"]
+[Black "config_11-3-4-6-13"]
+[Result "1-0"]
+[ECO "C40"]
+[GameDuration "00:03:27"]
+[GameEndTime "2025-05-08T14:34:01.824 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:30:34.353 GMT Summer Time"]
+[Opening "King's knight Opening"]
+[PlyCount "147"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 {5.3s} 2. Nf3 Bd6 {4.3s} 3. d4 Qf6 {3.1s} 4. Nc3 Bb4 {3.1s}
+5. Nxe5 Nc6 {5.4s} 6. Nf3 d6 {6.8s} 7. Bg5 Qe6 {3.9s} 8. Bd3 Qg4 {3.0s} 9. h3
+Qxg2 {2.0s} 10. Rh2 Qxh2 {1.9s} 11. Nxh2 h6 {4.1s} 12. Bd2 Nxd4 {6.1s} 13. Qc1
+Bxh3 {6.8s} 14. Qd1 Nf6 {7.0s} 15. a3 Ba5 {6.3s} 16. b4 Bb6 {4.5s} 17. Be3
+O-O-O {3.5s} 18. a4 d5 {3.9s} 19. a5 dxe4 {2.9s} 20. Nxe4 Nxe4 {2.5s} 21. axb6
+cxb6 {3.7s} 22. Ra3 Nf5 {4.4s} 23. Qa1 Nxe3 {5.1s} 24. fxe3 Rhe8 {2.9s} 25. Rxa7
+Nc5 {4.8s} 26. Ra8+ Kc7 {1.0s} 27. Ra3 Rxe3+ {1.8s} 28. Kd2 Rde8 {2.4s} 29. Rc3
+Kb8 {1.8s} 30. Qg1 Nxd3 {2.0s} 31. Rxd3 Re2+ {4.2s} 32. Kc3 Rc8+ {1.6s} 33. Kb3
+Bf5 {2.9s} 34. Qg3+ Ka8 {2.6s} 35. Re3 Be6+ {4.0s} 36. Rxe6 fxe6 {1.4s} 37. c3
+g5 {2.8s} 38. Ng4 h5 {2.2s} 39. Nf6 h4 {2.6s} 40. Qxg5 h3 {3.8s} 41. Nd7
+h2 {0.90s} 42. Nxb6+ Kb8 {0.60s} 43. Qh6 Rd8 {2.2s} 44. Qh4 Re8 {2.4s} 45. b5
+e5 {1.9s} 46. Qh7 Rd2 {2.5s} 47. c4 Red8 {2.6s} 48. Nd5 Rc8 {3.3s} 49. b6
+Rg2 {2.8s} 50. Qh6 Rd8 {2.1s} 51. Qh7 Rc8 {3.2s} 52. Qh6 Rd8 {2.0s} 53. Kb4
+Rb2+ {4.2s} 54. Kc3 Rg2 {2.2s} 55. Kb4 Rb2+ {4.2s} 56. Ka3 Rg2 {1.5s} 57. Kb3
+Rg3+ {2.4s} 58. Nc3 Rg2 {1.1s} 59. c5 Rgd2 {4.1s} 60. Qh7 Rc8 {1.3s} 61. Nb5
+Rf8 {1.9s} 62. Nc3 Rc8 {1.3s} 63. Nb5 Rf8 {2.2s} 64. Kc3 Rg2 {1.9s} 65. Nd6
+Rg3+ {1.0s} 66. Kc4 Rf4+ {1.0s} 67. Kd5 Rd4+ {0.87s} 68. Ke6 Rxd6+ {0.71s}
+69. cxd6 Rc3 {0.90s} 70. Qxh2 Rc8 {0.82s} 71. d7 Rg8 {0.76s} 72. Qxe5+
+Ka8 {0.70s} 73. Qa5+ Kb8 {0.56s} 74. Qa7# {White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-3"]
+[Result "0-1"]
+[ECO "D35"]
+[GameDuration "00:04:08"]
+[GameEndTime "2025-05-08T14:35:19.370 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:31:10.444 GMT Summer Time"]
+[Opening "Queen's Gambit declined"]
+[PlyCount "86"]
+[TimeControl "40/300"]
+[Variation "3...Nf6"]
+
+1. d4 {book} d5 2. c4 {4.7s} e6 3. Nc3 {8.1s} Nf6 4. e3 {7.1s} c5 5. cxd5 {6.9s}
+exd5 6. dxc5 {3.9s} Bxc5 7. Qa4+ {23s} Nc6 8. Nf3 {17s} O-O 9. Bb5 {23s} Re8
+10. Bxc6 {4.2s} bxc6 11. Qxc6 {2.8s} Qa5 12. Qxa8 {4.8s} d4 13. Bd2 {4.8s} dxc3
+14. bxc3 {3.9s} Qb6 15. Ne5 {7.7s} Ba6 16. Qf3 {1.9s} Rxe5 17. a4 {7.3s} Rd5
+18. c4 {6.8s} Bxc4 19. Qf4 {8.4s} Bd3 20. Rc1 {12s} a6 21. h3 {9.1s} a5
+22. g3 {6.2s} g6 23. h4 {4.0s} Ba6 24. Bc3 {3.5s} Nh5 25. Qe4 {3.9s} Rd8
+26. Rg1 {6.0s} Ba3 27. Rb1 {4.4s} Qc5 28. Bd4 {7.1s} Bb4+ 29. Kd1 {1.6s} Qc8
+30. Rc1 {4.5s} Qb8 31. Rc2 {7.3s} Nf6 32. Qc6 {2.7s} Rd6 33. Qc7 {2.9s} Qe8
+34. Qa7 {5.1s} Qxa4 35. Kc1 {2.2s} Ne8 36. f4 {6.5s} Ba3+ 37. Kd2 {2.7s} h5
+38. Rb1 {4.5s} Bb4+ 39. Kc1 {1.1s} Bd3 40. Rc8 {2.3s} Rc6+ 41. Rxc6 {0.85s}
+Qxc6+ 42. Qc5 {1.6s} Qh1+ 43. Kb2 {0.84s} Qxb1# {Black mates} 0-1
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-3"]
+[Black "config_11-3-4-6-13"]
+[Result "1/2-1/2"]
+[ECO "C40"]
+[GameDuration "00:04:34"]
+[GameEndTime "2025-05-08T14:38:40.874 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:34:06.845 GMT Summer Time"]
+[Opening "King's knight Opening"]
+[PlyCount "246"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 {4.8s} 2. Nf3 Bd6 {4.4s} 3. d4 Qf6 {3.1s} 4. Bg5 Qg6 {2.3s}
+5. dxe5 Bb4+ {3.3s} 6. c3 Qxe4+ {4.2s} 7. Be2 Bc5 {8.0s} 8. a3 Nc6 {9.8s} 9. b4
+Bb6 {8.6s} 10. O-O Nxe5 {4.6s} 11. Re1 Ng4 {5.5s} 12. Bd3 Nxf2 {0.89s} 13. Rxe4+
+Nxe4+ {0.89s} 14. Kf1 Nxg5 {2.4s} 15. Nxg5 d5 {6.4s} 16. Qe1+ Ne7 {2.1s} 17. g3
+h6 {3.7s} 18. Nf3 Bh3+ {2.3s} 19. Ke2 a5 {3.9s} 20. Kd2 axb4 {2.6s} 21. cxb4
+Be6 {9.7s} 22. Nc3 d4 {15s} 23. Nb5 Nc6 {7.1s} 24. h3 h5 {8.8s} 25. Qe4
+h4 {6.9s} 26. g4 Nxb4 {6.3s} 27. Ng5 Nxd3 {4.4s} 28. Kxd3 O-O-O {2.9s} 29. a4
+Bd7 {3.7s} 30. Nxf7 Rhe8 {2.4s} 31. Nbd6+ cxd6 {0.82s} 32. Nxd6+ Kc7 {0.61s}
+33. Nxe8+ Rxe8 {1.0s} 34. Qf4+ Kc8 {2.3s} 35. Rc1+ Bc6 {1.3s} 36. Qf5+
+Kb8 {1.2s} 37. a5 Be4+ {1.1s} 38. Qxe4 Rxe4 {0.80s} 39. Kxe4 Bxa5 {1.3s} 40. Rc5
+Bd8 {1.4s} 41. Rc1 Bg5 {2.5s} 42. Rc5 Bf6 {1.4s} 43. g5 d3 {1.3s} 44. Kxd3
+Bd8 {1.2s} 45. g6 Bf6 {0.93s} 46. Kc4 Bb2 {1.1s} 47. Ra5 Bc1 {1.4s} 48. Rf5
+Bh6 {1.0s} 49. Rf7 Ka8 {0.90s} 50. Re7 Ka7 {0.99s} 51. Re4 Bg5 {1.1s} 52. Rg4
+Bf6 {0.77s} 53. Rf4 Bg5 {0.74s} 54. Rf7 Bh6 {0.98s} 55. Rf1 Kb8 {1.5s} 56. Rf5
+Bc1 {0.92s} 57. Rf7 Bh6 {1.0s} 58. Rf5 Bc1 {1.1s} 59. Rf7 Bh6 {0.81s} 60. Kd5
+Ka8 {0.80s} 61. Ke6 Kb8 {0.70s} 62. Kd7 Ka8 {0.93s} 63. Ke8 Kb8 {0.97s} 64. Kd7
+Ka8 {0.65s} 65. Rf1 Kb8 {1.0s} 66. Rf5 Ka8 {1.3s} 67. Rf1 Kb8 {1.2s} 68. Ra1
+Be3 {1.7s} 69. Rb1 Bc5 {2.3s} 70. Ra1 b6 {1.7s} 71. Rb1 Bf2 {1.6s} 72. Ra1
+Bc5 {1.4s} 73. Rb1 Bf2 {1.5s} 74. Rb2 Bc5 {1.3s} 75. Rg2 Kb7 {1.5s} 76. Re2
+Ka7 {1.2s} 77. Re1 Kb8 {1.4s} 78. Ra1 Bb4 {1.7s} 79. Rb1 Bc5 {0.76s} 80. Ra1
+Bb4 {1.7s} 81. Rb1 Bc5 {0.77s} 82. Ke8 Be3 {1.0s} 83. Kf7 Bd4 {2.3s} 84. Rb3
+Kc7 {1.2s} 85. Rb5 Kc8 {1.9s} 86. Rb1 Kc7 {1.4s} 87. Ke6 Kc6 {1.5s} 88. Rd1
+Kc5 {1.0s} 89. Rc1+ Kb5 {0.95s} 90. Kd5 Bc5 {1.1s} 91. Rc4 Be7 {0.69s} 92. Rf4
+Bg5 {0.96s} 93. Rf1 Bh6 {1.3s} 94. Rf7 Kb4 {1.4s} 95. Ra7 Kb5 {1.4s} 96. Rf7
+Kb4 {1.5s} 97. Rb7 Kb5 {1.4s} 98. Re7 Kb4 {1.3s} 99. Re4+ Kc3 {0.67s} 100. Rc4+
+Kd3 {0.82s} 101. Rxh4 Kc2 {1.6s} 102. Rxh6 b5 {0.62s} 103. Rh7 b4 104. h4
+b3 {0.51s} 105. Kd4 b2 {0.58s} 106. Rxg7 b1=Q {1.1s} 107. Rc7+ Kd2 {1.1s}
+108. g7 Qd3+ {2.2s} 109. Kc5 Qe3+ {1.8s} 110. Kb4 Qd4+ {2.0s} 111. Ka3
+Qa1+ {2.4s} 112. Kb3 Qb1+ {1.5s} 113. Ka4 Qa2+ {2.0s} 114. Kb4 Qb2+ {2.7s}
+115. Ka5 Qe5+ {1.5s} 116. Kb6 Qd4+ {1.5s} 117. Ka5 Qe5+ {1.5s} 118. Kb6
+Qd4+ {1.5s} 119. Kb7 Qd5+ {1.9s} 120. Ka7 Qd4+ {1.7s} 121. Kb8 Qd8+ {1.4s}
+122. Kb7 Qd5+ {2.3s} 123. Kb6 Qd4+ {1.3s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[GameDuration "00:06:47"]
+[GameEndTime "2025-05-08T14:42:11.816 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:35:24.386 GMT Summer Time"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "286"]
+[TimeControl "40/300"]
+
+1. e3 {5.0s} e5 2. Nc3 {11s} Nf6 3. e4 {12s} c6 4. a3 {6.2s} d5 5. Qe2 {5.5s} d4
+6. Na4 {8.6s} b5 7. Qf3 {4.6s} bxa4 8. Bc4 {7.5s} Ba6 9. Bxa6 {3.0s} Nxa6
+10. Qf5 {4.2s} Nd7 11. Ne2 {10s} Nac5 12. h3 {6.1s} Ne6 13. f4 {9.3s} d3
+14. cxd3 {3.6s} g6 15. Qg4 {1.8s} c5 16. h4 {3.0s} h5 17. Qh3 {1.5s} exf4
+18. b4 {2.0s} Bg7 19. e5 {2.3s} O-O 20. Bb2 {2.8s} Re8 21. bxc5 {2.9s} Ndxc5
+22. d4 {3.1s} Nb3 23. Rd1 {5.6s} Rb8 24. Kf1 {6.7s} Qd5 25. Kg1 {12s} Qb5
+26. Re1 {9.6s} a5 27. Qc3 {6.7s} Red8 28. Qh3 {12s} Qb6 29. Kh2 {3.9s} Kh7
+30. Rhg1 {7.0s} Qa7 31. Rd1 {8.2s} Nbxd4 32. Bxd4 {3.0s} Nxd4 33. Qd3 {2.5s} Ne6
+34. Qf3 {6.7s} Bxe5 35. d4 {5.4s} Bd6 36. d5 {7.7s} Ng7 37. Nxf4 {6.7s} Kg8
+38. Kh1 {5.6s} Re8 39. Rge1 {5.9s} Rxe1+ 40. Rxe1 {2.2s} Qd4 41. g3 {4.0s} Qc5
+42. Nd3 {3.6s} Qd4 43. Nf2 {5.5s} Qa7 44. Ne4 {3.8s} Be5 45. Nf6+ {3.1s} Bxf6
+46. Qxf6 {2.3s} Kh7 47. Qf4 {6.3s} Qd7 48. Qxb8 {1.3s} Qxd5+ 49. Kg1 {2.3s} Qc5+
+50. Kh1 {2.6s} Qxa3 51. Rf1 {5.3s} Nf5 52. Kh2 {1.2s} Qa2+ 53. Kg1 {3.1s} a3
+54. Rf2 {3.8s} Qa1+ 55. Kh2 {2.5s} Qd4 56. Re2 {5.1s} Ne3 57. Qb7 {3.8s} Kg7
+58. Qf3 {5.4s} Ng4+ 59. Kg2 {3.8s} Qc4 60. Re7 {6.6s} a2 61. Qd1 {3.5s} Qc3
+62. Qf1 {2.5s} Ne3+ 63. Rxe3 {0.65s} a1=Q 64. Rxc3 {0.75s} Qxc3 65. Qf2 {2.5s}
+a4 66. Kh1 {1.9s} a3 67. Qa2 {3.0s} Qb2 68. Qd5 {0.94s} a2 69. Qa8 {0.51s} g5
+70. hxg5 {0.94s} a1=R+ 71. Qxa1 Qxa1+ 72. Kg2 {0.73s} Qa5 73. Kg1 {0.79s} Qa7+
+74. Kg2 {0.94s} Qa5 75. Kg1 {1.1s} Qe1+ 76. Kg2 {0.69s} Qe8 77. Kf2 {1.5s} Qa4
+78. Kg2 {2.0s} Qa8+ 79. Kg1 {1.5s} Qa7+ 80. Kg2 {0.99s} Qa1 81. Kf3 {1.5s} Qh1+
+82. Ke3 {1.1s} Qe1+ 83. Kf3 {0.66s} h4 84. gxh4 {0.51s} Qe8 85. h5 {1.3s} Kh8
+86. Kf2 {1.1s} Qa4 87. g6 {0.97s} Kg8 88. gxf7+ {0.64s} Kxf7 89. h6 {0.81s} Kg6
+90. Kg2 {2.7s} Qh4 91. Kf1 {0.77s} Qh2 92. Ke1 {0.78s} Qb8 93. Kf2 {1.9s} Kxh6
+94. Kf3 {1.9s} Qd8 95. Ke3 {2.1s} Qb8 96. Kd3 {1.6s} Qh2 97. Kd4 {0.83s} Qb8
+98. Kc5 {1.4s} Qh2 99. Kc6 {0.64s} Qg1 100. Kc7 {0.74s} Qg6 101. Kd7 {1.2s} Kh5
+102. Kc7 {1.0s} Qg5 103. Kd6 {0.98s} Qg2 104. Ke7 {0.73s} Qf2 105. Kd6 {1.2s}
+Qg2 106. Ke7 {0.82s} Qf2 107. Kd6 {0.89s} Kg4 108. Kc7 {1.3s} Qg2
+109. Kb6 {1.6s} Qh2 110. Kc6 {1.2s} Qh5 111. Kd6 {0.84s} Kh4 112. Kd7 {1.4s} Qf3
+113. Kc7 {1.2s} Kh5 114. Kd7 {0.95s} Qf4 115. Kc8 {1.00s} Qg5 116. Kb7 {1.5s}
+Qg6 117. Kc7 {1.0s} Qg5 118. Kd6 {1.1s} Qa5 119. Kc6 {1.1s} Qd2 120. Kc7 {1.0s}
+Qg2 121. Kd7 {0.93s} Qc2 122. Ke7 {0.78s} Qg2 123. Kd7 {1.2s} Qc2
+124. Ke7 {0.93s} Qg6 125. Kd7 {0.88s} Qh6 126. Kc7 {0.87s} Qg6 127. Kd7 {1.3s}
+Qh6 128. Kc7 {1.0s} Qe3 129. Kb7 {1.1s} Qg5 130. Kb6 {1.0s} Qf4 131. Kc6 {1.2s}
+Qg3 132. Kb6 {0.76s} Qf4 133. Kc6 {0.93s} Qg3 134. Kb6 {0.95s} Qg5
+135. Kb7 {1.3s} Qd2 136. Kc8 {0.87s} Qa5 137. Kb7 {0.75s} Qg5 138. Kb6 {1.2s}
+Qg2 139. Kc7 {0.70s} Qd2 140. Kc8 {0.80s} Qf4 141. Kd7 {0.69s} Qc1
+142. Ke8 {0.68s} Qd2 143. Kf8 {0.75s} Qc1 {Draw by fifty moves rule} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-3"]
+[Black "config_11-3-4-6-13"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:04:49"]
+[GameEndTime "2025-05-08T14:43:35.335 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:38:45.927 GMT Summer Time"]
+[Opening "Queen's pawn"]
+[PlyCount "143"]
+[TimeControl "40/300"]
+
+1. d4 {book} e6 {6.0s} 2. e4 Nc6 {11s} 3. a3 d5 {5.1s} 4. e5 Bd7 {10.0s} 5. b3
+a6 {12s} 6. Nf3 f6 {6.8s} 7. Bd3 Be7 {4.7s} 8. Bb2 Nh6 {4.5s} 9. Nbd2 Nf5 {3.8s}
+10. g4 Nh6 {5.2s} 11. exf6 gxf6 {2.9s} 12. Rg1 Bd6 {5.8s} 13. g5 Nf7 {6.1s}
+14. h4 fxg5 {5.7s} 15. Nxg5 Qf6 {8.0s} 16. Qh5 Rg8 {4.6s} 17. O-O-O Rxg5 {6.7s}
+18. hxg5 Qf4 {6.6s} 19. Bxh7 Nxd4 {4.9s} 20. Rg4 Qxf2 {2.3s} 21. Rxd4
+Bxa3 {5.9s} 22. Bxa3 Qxd4 {4.2s} 23. Rf1 Qa1+ {3.1s} 24. Nb1 O-O-O {1.3s}
+25. Bb2 Qa2 {3.4s} 26. Qxf7 Be8 {3.8s} 27. Qf2 d4 {8.7s} 28. Bd3 Bh5 {4.1s}
+29. Qe1 Kb8 {3.1s} 30. g6 e5 {4.8s} 31. b4 Re8 {4.2s} 32. Na3 Qg8 {5.5s} 33. b5
+Bxg6 {3.1s} 34. Bxg6 Qxg6 {2.5s} 35. bxa6 Qxa6 {3.8s} 36. Rg1 Qc6 {7.6s} 37. Qd2
+b6 {9.0s} 38. Re1 Rf8 {7.2s} 39. Qd3 Rf2 {6.0s} 40. Rd1 Kb7 {4.6s} 41. Nc4
+Qg2 {4.6s} 42. Nd2 Kb8 {3.8s} 43. Ba3 Qg5 {5.0s} 44. Bb2 Rh2 {3.2s} 45. Qe4
+Rf2 {3.1s} 46. Ba3 Qg3 {3.2s} 47. Bb2 Qg5 {3.0s} 48. Ba3 Qg3 {4.0s} 49. Bb4
+c5 {2.8s} 50. Qc6 cxb4 {0.82s} 51. Qxb6+ Kc8 {2.1s} 52. Qc5+ Kb7 {1.8s}
+53. Qxb4+ Ka8 {3.6s} 54. Qa4+ Kb8 {1.7s} 55. Kb1 Qe3 {2.9s} 56. Nc4 Qc3 {4.1s}
+57. Qb5+ Kc8 {1.0s} 58. Qa4 e4 {2.5s} 59. Nd6+ Kb8 {1.3s} 60. Nxe4 Qf3 {1.6s}
+61. Qb5+ Ka7 {1.3s} 62. Qc5+ Kb7 {1.6s} 63. Qd5+ Kc8 {1.4s} 64. Qc4+ Kb7 {1.3s}
+65. Qd5+ Kc8 {1.3s} 66. Qc4+ Kb7 {1.3s} 67. Re1 d3 {2.1s} 68. Nd6+ Kb8 {1.3s}
+69. Re8+ Ka7 {1.0s} 70. Qc5+ Ka6 {1.0s} 71. Qb5+ Ka7 {1.0s}
+72. Qa5# {White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-4"]
+[Result "1/2-1/2"]
+[ECO "C25"]
+[GameDuration "00:04:03"]
+[GameEndTime "2025-05-08T14:46:20.897 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:42:16.948 GMT Summer Time"]
+[Opening "Vienna game"]
+[PlyCount "180"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 2. Nc3 {10s} Bc5 3. Qh5 {5.2s} Nc6 4. Bc4 {9.2s} g6
+5. Qf3 {3.4s} Nf6 6. d3 {6.2s} Nd4 7. Qd1 {2.3s} c6 8. Nf3 {6.3s} d5
+9. Nxe5 {4.5s} dxc4 10. dxc4 {5.3s} Qd6 11. Bf4 {4.7s} g5 12. Nxf7 {2.5s} Qxf4
+13. Nxh8 {2.2s} Be6 14. b4 {3.4s} Bxb4 15. Qxd4 {1.6s} g4 16. Kf1 {3.1s} Rd8
+17. Nd5 {3.2s} cxd5 18. cxd5 {2.9s} Nxe4 19. Qxa7 {3.0s} Bxd5 20. c3 {7.6s} Bxc3
+21. Ng6 {3.5s} hxg6 22. Qb6 {3.3s} Bc4+ 23. Kg1 {0.78s} Rd2 24. Re1 {2.6s} Be2
+25. Qxg6+ {0.82s} Kf8 26. Qb6 {2.1s} Qd6 27. Qxb7 {1.7s} Qd4 28. Qc8+ {1.1s} Kf7
+29. Qc7+ {1.0s} Kg6 30. Qc6+ {1.4s} Kf5 31. Qc8+ {0.86s} Ke5 32. Qe8+ {1.1s} Kf4
+33. Qf8+ {1.0s} Nf6 34. Qh6+ {1.3s} Kf5 35. h4 {1.9s} g3 36. Qg5+ {0.88s} Ke6
+37. Qxg3 {1.2s} Kd7 38. Qg7+ {4.6s} Kc6 39. Rh3 {7.7s} Rd1 40. Rxc3+ {1.4s} Qxc3
+41. Rxd1 {1.0s} Bxd1 42. Qe7 {7.7s} Bg4 43. f3 {7.8s} Bd7 44. Kh2 {5.3s} Kc7
+45. a4 {4.3s} Qd4 46. Qe1 {3.4s} Qd6+ 47. Kh1 {3.8s} Bxa4 48. Qa5+ {4.1s} Qb6
+49. Qxa4 {1.7s} Qb1+ 50. Kh2 {1.4s} Qb6 51. Qc4+ {2.1s} Kd6 52. Qf7 {1.7s} Qd8
+53. Qg6 {2.2s} Qh8 54. Qg3+ {1.5s} Ke7 55. Qe5+ {1.4s} Kf7 56. Qf4 {2.1s} Qg7
+57. h5 {1.8s} Qf8 58. Qc4+ {2.5s} Kg7 59. Qc7+ {1.9s} Kh8 60. Qe5 {1.8s} Kh7
+61. Qf5+ {1.4s} Kh8 62. Qe5 {2.0s} Qd8 63. Kh1 {2.2s} Kh7 64. Kh2 {2.0s} Ne8
+65. Qf5+ {1.6s} Kh8 66. Qf8+ {1.7s} Kh7 67. Qf7+ {1.4s} Ng7 68. Qg6+ {1.6s} Kh8
+69. Kh3 {1.4s} Qd7+ 70. Kh2 {1.1s} Qc7+ 71. Kh3 {1.5s} Qa7 72. h6 {1.7s} Qd7+
+73. Kh2 {0.90s} Ne8 74. Kh1 {3.8s} Qe7 75. g3 {3.5s} Qe5 76. h7 {1.9s} Qe1+
+77. Kg2 {0.75s} Ng7 78. Kh2 {3.0s} Qd1 79. Qe4 {2.9s} Qd2+ 80. Kh3 {1.7s} Qd7+
+81. Kg2 {1.8s} Nf5 82. f4 {2.4s} Kxh7 83. Qc2 {4.3s} Qb7+ 84. Kh3 {1.1s} Qd7
+85. g4 {1.3s} Kg6 86. Qb1 {1.1s} Kf6 87. Qb6+ {1.0s} Ke7 88. Qb1 {2.1s} Kf6
+89. Qb6+ {0.88s} Ke7 90. Qb1 {2.0s} Kf6 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-4"]
+[Black "config_11-3-4-6-13"]
+[Result "1-0"]
+[ECO "C24"]
+[GameDuration "00:05:02"]
+[GameEndTime "2025-05-08T14:48:42.789 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:43:40.364 GMT Summer Time"]
+[Opening "Bishop's Opening"]
+[PlyCount "75"]
+[Termination "time forfeit"]
+[TimeControl "40/300"]
+[Variation "Berlin defense"]
+
+1. e4 {book} e5 {5.9s} 2. Bc4 Nf6 {12s} 3. Nf3 Nxe4 {4.0s} 4. Nxe5 Qe7 {3.3s}
+5. Bxf7+ Kd8 {1.6s} 6. d4 Qf6 {3.3s} 7. O-O Bd6 {6.2s} 8. Bd5 Bxe5 {3.9s}
+9. dxe5 Qxe5 {2.3s} 10. Re1 d6 {4.9s} 11. Rxe4 Qf6 {9.0s} 12. a3 c6 {15s}
+13. Ba2 Bd7 {14s} 14. Nc3 d5 {14s} 15. Rf4 Qg6 {18s} 16. h4 Re8 {9.5s} 17. Rd4
+h6 {20s} 18. Be3 Na6 {13s} 19. h5 Qf6 {9.1s} 20. Rf4 Qe5 {11s} 21. Rd4 Kc8 {13s}
+22. Bf4 Qf6 {14s} 23. Bg3 Nc5 {10s} 24. b4 Ne6 {6.8s} 25. Rd3 Nf4 {6.9s}
+26. Bxf4 Qxf4 {4.5s} 27. Rf3 Qg5 {8.3s} 28. Rg3 Qf6 {8.1s} 29. Rf3 Qg5 {6.6s}
+30. Rg3 Qf6 {8.6s} 31. Bxd5 cxd5 {4.5s} 32. Nxd5 Qb2 {11s} 33. Rc3+ Kb8 {4.1s}
+34. Rb1 Bg4 {2.7s} 35. f3 Bxf3 {1.9s} 36. Rxf3 Qa2 {3.3s} 37. c3 Rd8 {4.8s}
+38. Rf5 {Black loses on time} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-4"]
+[Result "1-0"]
+[ECO "C25"]
+[GameDuration "00:02:13"]
+[GameEndTime "2025-05-08T14:48:39.681 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:46:25.935 GMT Summer Time"]
+[Opening "Vienna game"]
+[PlyCount "83"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 2. Nc3 {9.6s} Bc5 3. Qh5 {4.9s} Nc6 4. Bc4 {8.5s} g6
+5. Qf3 {3.1s} Nf6 6. d3 {6.5s} Nd4 7. Qd1 {2.3s} c6 8. Nf3 {5.6s} d5
+9. Nxe5 {3.8s} dxc4 10. dxc4 {5.4s} Qd6 11. Bf4 {5.3s} g5 12. Nxf7 {2.7s} Qxf4
+13. Nxh8 {2.5s} Be6 14. b4 {3.9s} Bxb4 15. Qxd4 {1.8s} g4 16. Kf1 {3.1s} Rd8
+17. Nd5 {3.4s} cxd5 18. cxd5 {2.7s} Nxe4 19. Qxa7 {2.9s} Bxd5 20. c3 {7.4s} Bxc3
+21. Ng6 {3.6s} hxg6 22. Qb6 {4.2s} Bf7 23. Rb1 {4.0s} Nd2+ 24. Kg1 {2.5s} Ne4
+25. Rf1 {5.0s} Rd2 26. Qxb7 {2.3s} Kf8 27. h3 {3.1s} g3 28. Qc8+ {1.2s} Be8
+29. fxg3 {1.1s} Bd4+ 30. Kh2 {0.87s} Rxg2+ 31. Kxg2 {0.54s} Qf6 32. Rxf6+ {1.2s}
+Nxf6 33. Re1 {3.7s} g5 34. Qc4 {2.5s} g4 35. hxg4 {1.6s} Bf7 36. Qb4+ {1.6s} Kg7
+37. Qxd4 {1.3s} Bxa2 38. Re7+ {3.3s} Bf7 39. g5 {2.2s} Kf8 40. Qxf6 {1.4s} Kg8
+41. Qxf7+ Kh8 42. Qf8# {0.53s, White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-4"]
+[Black "config_11-3-4-6-13"]
+[Result "1/2-1/2"]
+[ECO "C20"]
+[GameDuration "00:03:47"]
+[GameEndTime "2025-05-08T14:52:32.039 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:48:44.703 GMT Summer Time"]
+[Opening "King's pawn"]
+[PlyCount "87"]
+[TimeControl "40/300"]
+[Variation "Mengarini's Opening"]
+
+1. e4 {book} e5 {3.4s} 2. a3 Bc5 {6.4s} 3. Nf3 Qf6 {5.2s} 4. Nc3 Nc6 {4.5s}
+5. Nd5 Qd6 {2.4s} 6. b4 Bd4 {3.8s} 7. c3 Bb6 {3.3s} 8. d4 Qg6 {5.4s} 9. dxe5
+Qxe4+ {1.8s} 10. Be2 Nge7 {4.8s} 11. O-O Nxd5 {4.5s} 12. Bd3 Qg4 {4.0s} 13. c4
+Nf4 {6.6s} 14. Bxf4 Qxf4 {3.9s} 15. c5 Bxc5 {2.8s} 16. bxc5 Nd4 {7.5s} 17. Nxd4
+Qxd4 {2.9s} 18. Rc1 c6 {5.5s} 19. Rc4 Qb2 {5.9s} 20. Re1 g6 {15s} 21. Re3
+a6 {6.8s} 22. h4 h5 {4.9s} 23. Rf4 b5 {7.4s} 24. cxb6 Qxb6 {4.5s} 25. Bc4
+Rf8 {7.6s} 26. Rf6 Qc5 {8.7s} 27. Qd3 Rb8 {5.5s} 28. Kh2 Rb2 {7.3s} 29. a4
+Rb4 {11s} 30. Re4 Rxa4 {3.6s} 31. f3 Ra1 {5.2s} 32. Qd2 Qg1+ {6.8s} 33. Kg3
+Rc1 {13s} 34. Qa5 Rc2 {6.2s} 35. Be2 c5 {8.0s} 36. Rb6 Ke7 {5.8s} 37. Rf6
+Bb7 {6.6s} 38. Qc7 Qe1+ {2.7s} 39. Kh2 Bxe4 {2.4s} 40. Qd6+ Ke8 {1.1s} 41. Qb8+
+Ke7 {1.0s} 42. Qd6+ Ke8 {1.3s} 43. Qb8+ Ke7 {0.82s}
+44. Qd6+ {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-4"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[GameDuration "00:05:10"]
+[GameEndTime "2025-05-08T14:53:58.209 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:48:47.807 GMT Summer Time"]
+[Opening "Queen's pawn game"]
+[PlyCount "266"]
+[TimeControl "40/300"]
+
+1. d4 {book} Nf6 2. c3 {6.3s} d5 3. Bg5 {14s} Ne4 4. Bh4 {11s} g5 5. Bg3 {3.5s}
+h5 6. Be5 {4.4s} f6 7. Bg3 {3.9s} h4 8. Qa4+ {2.7s} Bd7 9. Qb4 {2.0s} hxg3
+10. fxg3 {2.8s} Qc8 11. Qa5 {2.5s} Nc6 12. Qxd5 {1.9s} Nd6 13. Nd2 {8.4s} g4
+14. O-O-O {6.8s} Bh6 15. Qh5+ {3.7s} Nf7 16. Kb1 {3.2s} Bg5 17. Qxh8+ {2.5s}
+Nxh8 18. h3 {3.0s} Nf7 19. hxg4 {1.3s} Nce5 20. dxe5 {1.4s} Kf8 21. exf6 {2.9s}
+Bxf6 22. Ne4 {2.9s} Bg7 23. Nf3 {5.2s} Bxg4 24. Nh4 {5.6s} Kg8 25. Nf2 {5.6s}
+Be6 26. e4 {6.2s} a6 27. Ng6 {3.3s} Qe8 28. Rh5 {4.9s} a5 29. Nf4 {5.8s} Qc6
+30. Bb5 {13s} Qb6 31. Rd2 {6.8s} Bh6 32. Ka1 {7.8s} Bxf4 33. gxf4 {8.2s} a4
+34. f5 {13s} Bb3 35. f6 {8.7s} c6 36. fxe7 {5.4s} Qe3 37. Rd8+ {5.7s} Rxd8
+38. axb3 {3.5s} Re8 39. Bc4 {4.1s} Qc1+ 40. Ka2 {1.1s} Rxe7 41. bxa4 {3.2s} Kf8
+42. Rf5 {5.4s} Kg7 43. Bxf7 {5.9s} Rxf7 44. Nd3 {1.5s} Qh6 45. Rxf7+ {1.5s} Kxf7
+46. Nc5 {2.5s} Ke7 47. Nxb7 {1.4s} Qh8 48. Na5 {0.80s} Qa8 49. b4 {0.62s} Kd7
+50. Ka3 {1.3s} c5 51. Nc4 {1.0s} Qg8 52. Nb6+ {1.2s} Kc6 53. a5 {0.89s} Qg3
+54. bxc5 {0.79s} Qe1 55. a6 {1.0s} Qxc3+ 56. Ka2 {1.1s} Qc2+ 57. Ka1 {0.80s}
+Qxc5 58. Nd5 {1.2s} Qd4+ 59. Ka2 {0.69s} Qxe4 60. Nf6 {0.83s} Qc2+
+61. Ka1 {0.92s} Qc3+ 62. Kb1 {0.68s} Qxf6 63. g3 {1.5s} Qc3 64. g4 {0.78s} Kd7
+65. a7 {0.85s} Qb3+ 66. Kc1 {0.82s} Qb7 67. a8=Q {0.84s} Qxa8 68. Kb1 {1.7s} Qd8
+69. Kb2 {1.4s} Kc8 70. Kc2 {1.9s} Qd7 71. g5 {0.79s} Kc7 72. Kb2 {1.4s} Kc8
+73. Kc3 {1.6s} Qd8 74. g6 {0.75s} Qg8 75. Kd4 {0.82s} Qe8 76. g7 {0.55s} Qg8
+77. Ke3 {0.63s} Kd7 78. Kf3 {0.72s} Ke7 79. Kg3 {1.0s} Kf7 80. Kh3 {0.84s} Ke7
+81. Kg3 {0.67s} Kf7 82. Kh3 {0.68s} Qd8 83. Kg3 {2.0s} Kxg7 84. Kf3 {1.5s} Kh6
+85. Ke3 {1.6s} Qb8 86. Kd3 {1.8s} Qd8+ 87. Kc3 {1.4s} Qb8 88. Kd3 {1.5s} Qd8+
+89. Kc3 {1.5s} Kg5 90. Kb4 {1.2s} Kf6 91. Kc5 {1.2s} Qd1 92. Kc6 {0.70s} Qh5
+93. Kb6 {1.1s} Qh2 94. Kb7 {0.76s} Ke6 95. Kc8 {0.62s} Ke7 96. Kb7 {0.59s} Qe5
+97. Kc8 {0.72s} Qh2 98. Kb7 {0.57s} Qe5 99. Kc8 {0.58s} Qb2 100. Kc7 {0.59s} Kf8
+101. Kc6 {0.88s} Ke7 102. Kc7 {0.58s} Kf8 103. Kc6 {0.78s} Qa1 104. Kb6 {0.96s}
+Qh8 105. Kc7 {0.78s} Qh6 106. Kb7 {0.89s} Ke8 107. Kc7 {0.74s} Kf8
+108. Kb7 {0.78s} Ke8 109. Kc7 {1.1s} Qh4 110. Kb8 {0.88s} Kd7 111. Kb7 {0.60s}
+Qf6 112. Kb8 {0.52s} Qe7 113. Kb7 {0.65s} Qe8 114. Kb6 {0.68s} Qe6+
+115. Kb7 {0.74s} Qe8 116. Kb6 {0.69s} Qg8 117. Kc5 {0.98s} Kc7 118. Kb4 {0.97s}
+Kd7 119. Kc5 {1.1s} Kc7 120. Kb4 {1.0s} Kd6 121. Kb5 {1.2s} Qg1 122. Ka6 {0.54s}
+Qg5 123. Kb6 {0.62s} Ke6 124. Kc6 {0.96s} Ke7 125. Kc7 {0.67s} Ke8
+126. Kc6 {0.83s} Qh4 127. Kb6 {0.89s} Ke7 128. Kc6 {0.91s} Kf8 129. Kb6 {0.96s}
+Ke8 130. Kc6 {1.1s} Ke7 131. Kb6 {0.79s} Ke8 132. Kc6 {0.93s} Ke7
+133. Kb6 {0.82s} Qd4+ {Draw by fifty moves rule} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-4"]
+[Black "config_11-3-4-6-13"]
+[Result "0-1"]
+[ECO "C20"]
+[GameDuration "00:04:53"]
+[GameEndTime "2025-05-08T14:57:30.350 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:52:37.071 GMT Summer Time"]
+[Opening "King's pawn"]
+[PlyCount "138"]
+[TimeControl "40/300"]
+[Variation "Mengarini's Opening"]
+
+1. e4 {book} e5 {7.3s} 2. a3 Bc5 {7.6s} 3. Nf3 Qf6 {5.7s} 4. Nc3 Nc6 {4.3s}
+5. Nd5 Qd6 {2.6s} 6. b4 Bd4 {3.9s} 7. c3 Bb6 {3.4s} 8. d4 Qg6 {5.0s} 9. dxe5
+Qxe4+ {1.6s} 10. Be2 Nge7 {4.6s} 11. c4 Nxd5 {4.1s} 12. cxd5 Nxe5 {2.6s} 13. O-O
+h6 {3.5s} 14. Re1 Ng4 {3.7s} 15. Bd3 Bxf2+ {1.0s} 16. Kf1 Qxe1+ {1.0s} 17. Nxe1
+d6 {3.8s} 18. Nf3 Be3 {6.6s} 19. h3 Nf2 {2.1s} 20. Qc2 Nxd3 {2.7s} 21. Bxe3
+Bf5 {3.0s} 22. Qc3 O-O-O {1.9s} 23. Qd2 Rhe8 {2.8s} 24. Kg1 Kb8 {3.6s} 25. Rf1
+Be4 {5.1s} 26. Nd4 a6 {5.3s} 27. a4 Re7 {6.3s} 28. Rd1 Re5 {7.9s} 29. a5
+Rxd5 {5.2s} 30. Rf1 Bg6 {10s} 31. Kh2 Re8 {9.1s} 32. Bg1 c5 {8.2s} 33. bxc5
+dxc5 {11s} 34. Ne2 c4 {13s} 35. Qa2 Rh5 {8.9s} 36. Qd2 Rg5 {11s} 37. h4
+Rg4 {9.0s} 38. Kh3 Ree4 {7.8s} 39. g3 h5 {7.8s} 40. Be3 Re6 {7.7s} 41. Nc3
+f6 {4.5s} 42. Nd5 Re5 {8.8s} 43. Nc3 Rxa5 {5.1s} 44. Nb1 Ra1 {11s} 45. Qc3
+Ra2 {5.7s} 46. Nd2 b5 {6.9s} 47. Rf3 b4 {8.8s} 48. Ba7+ Kxa7 {1.3s} 49. Rxf6
+bxc3 {0.92s} 50. Rxg6 Rxg6 {0.97s} 51. Nxc4 c2 {1.3s} 52. Nd6 Rxd6 {1.2s} 53. g4
+c1=Q {1.8s} 54. gxh5 Rd4 {2.1s} 55. h6 Qxh6 {0.57s} 56. h5 g6 {0.54s} 57. Kg3
+gxh5 {0.67s} 58. Kf3 Qd6 {1.2s} 59. Ke3 Qe5+ {0.64s} 60. Kf3 Qc7 {0.53s} 61. Ke3
+Qd7 {0.51s} 62. Kf3 Qb7+ {0.64s} 63. Ke3 Qd7 {0.68s} 64. Kf3 Qd5+ {1.2s} 65. Ke3
+Qd6 {0.86s} 66. Kf3 Qc6+ {0.75s} 67. Ke3 Qd6 {0.64s} 68. Kf3 Qc6+ {0.68s}
+69. Ke3 Qe4# {1.3s, Black mates} 0-1
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-4"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:05:22"]
+[GameEndTime "2025-05-08T14:59:25.823 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:54:03.247 GMT Summer Time"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "206"]
+[TimeControl "40/300"]
+
+1. e3 {4.8s} e5 2. Nc3 {12s} d5 3. a3 {9.1s} c6 4. d4 {5.7s} e4 5. Bd2 {14s} Nf6
+6. f3 {12s} Bd6 7. Be2 {5.5s} O-O 8. f4 {5.5s} Re8 9. Rb1 {9.4s} a5
+10. Nh3 {9.8s} Bxh3 11. gxh3 {2.1s} b5 12. Ra1 {9.1s} Nbd7 13. Kf1 {12s} Nb6
+14. Rg1 {11s} a4 15. Qe1 {12s} Nc4 16. Bxc4 {3.2s} bxc4 17. Qh4 {8.9s} g6
+18. Rc1 {6.9s} Bf8 19. Qg5 {6.8s} h6 20. Qh4 {4.3s} Kh7 21. f5 {5.7s} Be7
+22. Ne2 {4.2s} Rg8 23. Qf4 {3.5s} Nh5 24. fxg6+ {1.8s} fxg6 25. Qf7+ {1.7s} Rg7
+26. Qe6 {2.9s} Bd6 27. Nf4 {4.6s} Qf6 28. Qxf6 {3.9s} Nxf6 29. Rg2 {4.5s} Ne8
+30. Bb4 {5.5s} Bxf4 31. exf4 {2.3s} Rf7 32. Kg1 {2.4s} Ng7 33. Bd6 {2.3s} Nf5
+34. Be5 {2.7s} Nh4 35. Rg3 {4.2s} Nf5 36. Rg4 {3.5s} Rb7 37. Rg2 {2.9s} Rxb2
+38. Kh1 {6.3s} Ra7 39. Rcg1 {4.3s} Nh4 40. Rg4 {3.0s} Nf3 41. Rc1 {2.6s} Rab7
+42. Bd6 {4.6s} Nxd4 43. Rcg1 {3.2s} Rb1 44. Rxg6 {1.1s} Nf3 45. Rg7+ {1.2s} Rxg7
+46. Rxb1 {2.4s} Rf7 47. Rb8 {8.4s} c3 48. f5 {4.7s} e3 49. Re8 {1.9s} d4
+50. Be5 {1.4s} Nxe5 51. Rxe5 {0.63s} Rb7 52. f6 {1.5s} Kg6 53. Re6 {1.6s} Kf7
+54. Re4 {1.2s} c5 55. Kg2 {1.6s} Kxf6 56. Rf4+ {1.2s} Ke5 57. Kf3 {1.6s} e2
+58. Re4+ {1.4s} Kd6 59. Rxe2 {1.6s} Rf7+ 60. Kg2 {1.3s} Rg7+ 61. Kf1 {1.3s} Rf7+
+62. Kg2 {0.79s} h5 63. Re8 {1.6s} Rg7+ 64. Kh1 {2.3s} Rg6 65. Ra8 {1.1s} Re6
+66. Ra6+ {1.8s} Kd5 67. Rxe6 {1.0s} d3 68. Re3 {0.54s} c4 69. cxd3 {0.85s} Kd4
+70. Re7 {1.1s} c2 71. Re1 {0.88s} cxd3 72. Kg1 {2.2s} d2 73. Rf1 {0.73s} d1=Q
+74. Kg2 {0.62s} Qxf1+ 75. Kxf1 {0.54s} Kc3 76. Kg2 {0.52s} Kb2 77. Kf3 {0.68s}
+h4 78. Ke4 {0.63s} c1=Q 79. Kd5 {0.87s} Qc3 80. Kd6 {0.60s} Kc2 81. Kd7 {0.56s}
+Qa1 82. Kc8 {0.76s} Qxa3 83. Kd7 {0.63s} Qc3 84. Ke7 {0.74s} a3 85. Kf8 {1.00s}
+Qc4 86. Ke8 {0.80s} Qa6 87. Kf8 {1.3s} Qc4 88. Ke8 {0.88s} Qa6 89. Kf8 {1.0s}
+Qg6 90. Ke7 {0.83s} Qc6 91. Kf8 {1.1s} Qg6 92. Ke7 {0.70s} Qc6 93. Kf8 {0.77s}
+a2 94. Kg7 {0.67s} a1=Q+ 95. Kg8 {0.71s} Qb1 96. Kh8 {1.1s} Qb8+ 97. Kh7 {0.52s}
+Qh1 98. Kg6 {1.2s} Qg8+ 99. Kh6 {1.0s} Qc6+ 100. Kh5 {0.62s} Qf7+
+101. Kg5 {0.77s} Qg8+ 102. Kh5 {0.86s} Qcg6+ 103. Kxh4 Q6h7# {Black mates} 0-1
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-4"]
+[Black "config_11-3-4-6-13"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[GameDuration "00:07:22"]
+[GameEndTime "2025-05-08T15:04:57.983 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:57:35.384 GMT Summer Time"]
+[Opening "Queen's pawn"]
+[PlyCount "368"]
+[TimeControl "40/300"]
+
+1. d4 {book} e6 {6.5s} 2. e4 Nc6 {12s} 3. Nc3 Bb4 {11s} 4. Nf3 Bxc3+ {6.5s}
+5. bxc3 d5 {6.3s} 6. e5 Nge7 {8.1s} 7. Bd3 Bd7 {3.4s} 8. O-O a6 {7.1s} 9. a3
+h6 {6.9s} 10. g3 b6 {6.0s} 11. h3 Bc8 {6.5s} 12. Kh2 Bb7 {7.9s} 13. a4 Qd7 {13s}
+14. Ba3 Rc8 {5.0s} 15. h4 Rd8 {4.3s} 16. h5 a5 {4.7s} 17. Qe2 g6 {3.8s} 18. Nh4
+g5 {3.2s} 19. Ng2 Rc8 {3.8s} 20. f3 Rd8 {3.9s} 21. Qf2 Rc8 {3.8s} 22. Qe2
+Rd8 {3.7s} 23. Ne3 Rc8 {3.8s} 24. Ng4 Kf8 {2.9s} 25. Nf6 Qd8 {2.1s} 26. f4
+Ra8 {3.7s} 27. fxg5 hxg5 {2.9s} 28. Qg4 Ba6 {2.6s} 29. Bxa6 Rxa6 {1.6s} 30. Qxg5
+Nxe5 {1.5s} 31. dxe5 c5 {2.2s} 32. h6 Ng6 {2.4s} 33. Kg2 Nxe5 {3.2s} 34. h7
+Ng6 {3.3s} 35. Qh6+ Ke7 {2.4s} 36. Bc1 Kd6 {6.2s} 37. Bg5 Kc6 {9.8s} 38. c4
+dxc4 {3.6s} 39. Rad1 Qe7 {5.0s} 40. c3 Raa8 {6.9s} 41. Qh3 Rad8 {5.8s} 42. Rde1
+Rd3 {6.0s} 43. Qg4 Rxc3 {5.5s} 44. Ne4 Rc2+ {3.2s} 45. Rf2 f5 {2.7s} 46. Qf3
+Ne5 {2.9s} 47. Qh5 Qxh7 {3.4s} 48. Qxh7 Rxh7 {1.2s} 49. Rxc2 Nd3 {1.9s} 50. Rf1
+fxe4 {1.0s} 51. Re2 Rg7 {1.5s} 52. Bf6 Rg4 {2.5s} 53. Ba1 Kd5 {2.3s} 54. Bc3
+e5 {3.6s} 55. Kh3 Rg6 {3.9s} 56. Rf8 Ke6 {2.5s} 57. Rh8 Kf6 {3.6s} 58. Rh4
+Kf7 {1.7s} 59. Kh2 e3 {2.5s} 60. Rxe3 Rf6 {1.6s} 61. Re2 Kg8 {2.8s} 62. g4
+Rf4 {2.0s} 63. Kg3 Rf1 {2.8s} 64. Rh5 Rg1+ {3.1s} 65. Kh4 Rc1 {3.1s} 66. Bxe5
+Rh1+ {1.0s} 67. Bh2 Nf4 {1.7s} 68. Rg5+ Kh7 {0.72s} 69. Rc2 Ne6 {1.7s} 70. Re5
+Nf8 {1.4s} 71. Kg3 Ng6 {1.5s} 72. Ree2 Rb1 {3.0s} 73. g5 Kg7 {3.0s} 74. Kg4
+Rb4 {1.9s} 75. Kh5 c3 {2.5s} 76. Bg3 Rxa4 {1.6s} 77. Re1 Rc4 {2.3s} 78. Rf1
+a4 {3.8s} 79. Re1 a3 {4.4s} 80. Rf1 b5 {5.4s} 81. Re2 c2 {3.7s} 82. Rc1
+a2 {1.7s} 83. Ree1 b4 {0.98s} 84. Re8 b3 {1.7s} 85. Rb8 Rb4 {1.5s} 86. Ra8
+Rb7 {1.9s} 87. Re1 Kh7 {2.5s} 88. Rh1 Kg7 {1.4s} 89. Rf1 Kh7 {2.4s} 90. Kg4
+a1=Q {2.2s} 91. Raxa1 b2 {6.3s} 92. Rh1+ Kg7 {1.5s} 93. Bd6 Rb4+ {1.7s} 94. Kf5
+Nh4+ {1.2s} 95. Ke6 Kg6 {1.8s} 96. Rab1 Re4+ {0.97s} 97. Kd5 Rd4+ {1.2s} 98. Kc6
+c1=Q {0.92s} 99. Rbxc1 Rxd6+ {0.97s} 100. Kxd6 Nf5+ {0.83s} 101. Ke5 Ng3 {1.1s}
+102. Rce1 Nxh1 {1.0s} 103. Rxh1 c4 {0.94s} 104. Kd4 Kxg5 {1.1s} 105. Rb1
+Kh6 {0.76s} 106. Rxb2 Kh5 {1.0s} 107. Rh2+ Kg6 {0.70s} 108. Rh1 Kf7 {1.1s}
+109. Rd1 Kg6 {1.2s} 110. Kd5 Kh5 {1.2s} 111. Kd4 Kg5 {1.2s} 112. Rh1 Kg4 {1.2s}
+113. Kc3 Kg3 {1.3s} 114. Rh5 Kf3 {0.90s} 115. Rh1 Kg3 {1.3s} 116. Rh5
+Kf3 {0.84s} 117. Rh2 Kg3 {1.0s} 118. Rh6 Kf3 {1.2s} 119. Re6 Kg3 {1.0s} 120. Re1
+Kf3 {1.2s} 121. Re6 Kg3 {1.3s} 122. Re1 Kf3 {1.3s} 123. Re7 Kg3 {1.4s} 124. Rf7
+Kh2 {1.2s} 125. Rf8 Kg3 {1.1s} 126. Rf7 Kh2 {0.98s} 127. Rf8 Kg3 {0.98s}
+128. Re8 Kf3 {1.2s} 129. Re1 Kg3 {0.99s} 130. Re6 Kf3 {1.8s} 131. Rg6 Kf4 {1.2s}
+132. Rg1 Kf3 {1.3s} 133. Rg6 Kf4 {1.1s} 134. Rg1 Kf3 {1.3s} 135. Kxc4
+Kf4 {0.80s} 136. Rh1 Kg3 {1.0s} 137. Kd3 Kf3 {1.2s} 138. Kc2 Kg3 {1.5s} 139. Kd3
+Kf3 {0.84s} 140. Kc2 Kg3 {1.4s} 141. Kd1 Kg2 {1.0s} 142. Rh5 Kg3 {0.75s}
+143. Re5 Kf2 {1.3s} 144. Re8 Kg1 {1.4s} 145. Rf8 Kg2 {0.80s} 146. Rf5
+Kg3 {0.83s} 147. Rh5 Kf2 {1.1s} 148. Rh6 Kf1 {1.2s} 149. Rg6 Kf2 {0.59s}
+150. Rc6 Kg3 {0.96s} 151. Ke1 Kf3 {0.91s} 152. Rc1 Kg3 {0.98s} 153. Rb1
+Kf3 {0.84s} 154. Rb2 Kf4 {0.78s} 155. Rh2 Kf3 {0.91s} 156. Rb2 Kf4 {0.85s}
+157. Rh2 Kf3 {1.1s} 158. Kd1 Kg3 {0.86s} 159. Rh5 Kf2 {0.82s} 160. Rh6
+Kf1 {0.90s} 161. Rg6 Kf2 {0.61s} 162. Rc6 Kg3 {0.96s} 163. Ke1 Kf3 {0.81s}
+164. Rc1 Kg3 {0.77s} 165. Rb1 Kf3 {0.78s} 166. Rb6 Ke4 {1.4s} 167. Kd1
+Kf3 {1.6s} 168. Ke1 Ke4 {1.0s} 169. Kd1 Kf3 {1.4s} 170. Rh6 Kf2 {1.1s} 171. Rh8
+Kf3 {0.96s} 172. Rh2 Kg3 {1.0s} 173. Rh6 Kf2 {1.3s} 174. Rh8 Kf3 {0.96s}
+175. Rh1 Kg3 {0.78s} 176. Kc1 Kf3 {0.92s} 177. Kd1 Kg3 {0.90s} 178. Kc1
+Kf3 {0.86s} 179. Kb1 Kg3 {0.89s} 180. Rc1 Kg2 {1.4s} 181. Rc7 Kf2 {1.2s}
+182. Rc1 Kg2 {0.86s} 183. Rc7 Kf2 {1.1s} 184. Rc1
+Kg2 {0.79s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-4"]
+[Result "0-1"]
+[ECO "B02"]
+[GameDuration "00:05:02"]
+[GameEndTime "2025-05-08T15:04:32.937 GMT Summer Time"]
+[GameStartTime "2025-05-08T14:59:30.858 GMT Summer Time"]
+[Opening "Alekhine's defense"]
+[PlyCount "54"]
+[Termination "time forfeit"]
+[TimeControl "40/300"]
+
+1. e4 {book} Nf6 2. e5 {7.1s} Nd5 3. c4 {7.3s} Nb4 4. a3 {11s} N4c6
+5. Nc3 {7.8s} Nxe5 6. f4 {4.6s} Nec6 7. Nf3 {8.5s} e6 8. d4 {10.0s} Ne7
+9. Bd3 {12s} d5 10. cxd5 {6.6s} Nxd5 11. Qe2 {5.2s} Be7 12. Nxd5 {4.4s} exd5
+13. Bd2 {4.5s} O-O 14. O-O-O {16s} a6 15. Kb1 {16s} a5 16. h3 {23s} a4
+17. Bc2 {27s} b6 18. Qd3 {22s} g6 19. Qc3 {18s} b5 20. Rhe1 {19s} Ra6
+21. Ne5 {19s} Rb6 22. Qf3 {13s} Nc6 23. Ng4 {7.8s} Nxd4 24. Nh6+ {3.6s} Kg7
+25. Bc3 {7.0s} c5 26. Bxd4+ {10s} cxd4 27. Rxd4 {5.4s}
+Kxh6 {White loses on time} 0-1
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-4"]
+[Black "config_11-3-4-6-13"]
+[Result "1-0"]
+[ECO "C24"]
+[GameDuration "00:05:00"]
+[GameEndTime "2025-05-08T15:09:38.767 GMT Summer Time"]
+[GameStartTime "2025-05-08T15:04:37.967 GMT Summer Time"]
+[Opening "Bishop's Opening"]
+[PlyCount "65"]
+[Termination "time forfeit"]
+[TimeControl "40/300"]
+[Variation "Berlin defense"]
+
+1. e4 {book} e5 {5.8s} 2. Bc4 Nf6 {12s} 3. Nf3 Nxe4 {4.2s} 4. Nxe5 Qe7 {3.0s}
+5. Bxf7+ Kd8 {1.9s} 6. d4 Qf6 {3.7s} 7. O-O Bd6 {8.1s} 8. Bd5 Bxe5 {4.3s}
+9. dxe5 Qxe5 {2.7s} 10. Re1 d6 {5.7s} 11. Rxe4 Qf6 {7.9s} 12. a3 c6 {15s}
+13. Ba2 Bd7 {14s} 14. Nc3 d5 {14s} 15. Rf4 Qg6 {21s} 16. h4 Re8 {8.9s} 17. Rd4
+h6 {22s} 18. Be3 Na6 {13s} 19. h5 Qf6 {11s} 20. Rf4 Qe5 {11s} 21. Rd4 Kc8 {14s}
+22. Bf4 Qf6 {16s} 23. Bg3 Nc5 {9.1s} 24. b4 Ne6 {6.6s} 25. Rd3 Nf4 {7.0s}
+26. Bxf4 Qxf4 {4.8s} 27. Rf3 Qg5 {8.6s} 28. Rg3 Qf6 {8.4s} 29. Rf3 Qg5 {6.2s}
+30. Rg3 Qf6 {7.4s} 31. Bxd5 cxd5 {4.2s} 32. Nxd5 Qb2 {12s}
+33. c3 {Black loses on time} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-5"]
+[Result "1-0"]
+[ECO "C25"]
+[GameDuration "00:05:49"]
+[GameEndTime "2025-05-08T15:10:52.911 GMT Summer Time"]
+[GameStartTime "2025-05-08T15:05:03.039 GMT Summer Time"]
+[Opening "Vienna game"]
+[PlyCount "137"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 2. Nc3 {13s} Bc5 3. Qh5 {5.6s} d6 4. Na4 {11s} Nf6 5. Qh4 {2.0s}
+Bd4 6. Nf3 {7.5s} Bd7 7. Nc3 {3.0s} Nc6 8. Bb5 {4.1s} Ne7 9. Nxd4 {1.8s} exd4
+10. Bxd7+ {2.7s} Qxd7 11. Qg5 {4.5s} dxc3 12. Qxg7 {1.7s} cxd2+ 13. Bxd2 {2.0s}
+Rg8 14. Qxf6 {2.1s} Qg4 15. Be3 {5.4s} Qxg2 16. O-O-O {2.6s} Qxe4 17. Rhg1 {13s}
+Qe5 18. Rxg8+ {4.5s} Nxg8 19. Qh4 {4.7s} Qf5 20. Re1 {11s} Kd7 21. Kb1 {14s} Ne7
+22. Bd2 {10s} Nc6 23. Rg1 {14s} Re8 24. Be3 {15s} Re4 25. Qh6 {7.9s} Re6
+26. Qf8 {7.5s} Rg6 27. Re1 {16s} Re6 28. a3 {9.2s} b6 29. h3 {7.9s} b5
+30. Qg7 {9.4s} a5 31. Qh8 {8.4s} a4 32. h4 {7.0s} Re5 33. Qf8 {8.7s} Re8
+34. Qg7 {3.8s} Re4 35. Qf8 {4.7s} Re8 36. Qg7 {3.3s} Re4 37. Qf8 {5.0s} Re5
+38. Rd1 {9.3s} Ne7 39. Qa8 {8.4s} Nc6 40. Rd3 {12s} Re8 41. Qb7 {6.8s} Rb8
+42. Qa6 {5.1s} h5 43. Rc3 {9.1s} Qd5 44. Bc1 {7.3s} Rg8 45. Qb7 {3.7s} Rg1
+46. f3 {1.4s} Rd1 47. Qa8 {1.5s} Rg1 48. Re3 {2.0s} Qe6 49. Rxe6 {0.90s} fxe6
+50. c3 {2.0s} d5 51. f4 {1.5s} d4 52. Qb7 {1.6s} d3 53. Qxb5 {1.8s} d2
+54. Qd3+ {0.89s} Nd4 55. Qxd4+ {0.78s} Kc8 56. Qxg1 {1.2s} d1=Q 57. Qxd1 {0.64s}
+Kb7 58. Qxh5 {1.4s} e5 59. fxe5 {1.4s} Ka7 60. Be3+ {1.2s} Kb7 61. Qf3+ {1.8s}
+c6 62. Qf7+ {1.4s} Kc8 63. Qe8+ {1.2s} Kc7 64. Bc5 {2.1s} Kb7 65. h5 {1.1s} Kc7
+66. h6 {1.2s} Kb7 67. h7 {1.6s} Kc7 68. h8=Q {0.58s} Kb7
+69. Qc8# {1.4s, White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-5"]
+[Black "config_11-3-4-6-13"]
+[Result "0-1"]
+[ECO "C40"]
+[GameDuration "00:04:34"]
+[GameEndTime "2025-05-08T15:14:18.133 GMT Summer Time"]
+[GameStartTime "2025-05-08T15:09:43.817 GMT Summer Time"]
+[Opening "King's knight Opening"]
+[PlyCount "116"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 {8.4s} 2. Nf3 Bd6 {5.4s} 3. d4 Qf6 {4.3s} 4. Bg5 Qg6 {4.0s}
+5. Nc3 Bb4 {5.0s} 6. dxe5 Qxe4+ {4.1s} 7. Be2 Bxc3+ {2.7s} 8. bxc3 h6 {7.0s}
+9. Be3 Ne7 {9.2s} 10. Bd3 Qg4 {5.9s} 11. O-O Qh5 {9.5s} 12. Re1 Nd5 {6.4s}
+13. Bd2 Nc6 {9.5s} 14. c4 Nde7 {5.9s} 15. Rb1 a6 {9.1s} 16. a3 Rb8 {7.7s} 17. h3
+b6 {11s} 18. Bc3 Bb7 {11s} 19. Be4 Nd8 {9.2s} 20. Bxb7 Nxb7 {8.7s} 21. Bb4
+Nc6 {4.1s} 22. Bd6 cxd6 {3.6s} 23. exd6+ Kf8 {2.8s} 24. Rxb6 Qa5 {9.5s} 25. Rb3
+Kg8 {8.3s} 26. Qd5 Qxd5 {3.6s} 27. cxd5 Nca5 {2.5s} 28. Rb4 Rd8 {3.8s} 29. Rb6
+Nc5 {7.7s} 30. Re7 Nc4 {16s} 31. Rb4 Nxd6 {5.3s} 32. Ne5 Kf8 {5.7s} 33. Nxf7
+Nxf7 {3.2s} 34. d6 Nxd6 {4.2s} 35. Re3 Kg8 {3.5s} 36. Rg4 Rf8 {3.7s} 37. Re7
+Nf5 {2.1s} 38. Re5 d6 {2.2s} 39. Rxf5 Rxf5 {0.85s} 40. c4 Kh7 {2.5s} 41. Rd4
+Rd8 {3.4s} 42. Rd5 Rf4 {4.3s} 43. g3 Rf3 {3.0s} 44. a4 Ne4 {3.2s} 45. Rd4
+Re8 {2.6s} 46. Rxe4 Rxe4 {1.2s} 47. Kg2 Rb3 {1.1s} 48. f3 Re1 {2.3s} 49. Kf2
+Rbe3 {1.7s} 50. g4 R3e2+ {1.5s} 51. Kg3 Kg8 {2.0s} 52. f4 Rc2 {2.4s} 53. f5
+Rg1+ {1.7s} 54. Kh4 Kf7 {1.0s} 55. a5 Rxc4 {0.86s} 56. Kh5 d5 {1.2s} 57. h4
+Rgxg4 {0.52s} 58. f6 Rxh4# {Black mates} 0-1
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-5"]
+[Result "1-0"]
+[ECO "D31"]
+[GameDuration "00:04:13"]
+[GameEndTime "2025-05-08T15:15:11.056 GMT Summer Time"]
+[GameStartTime "2025-05-08T15:10:57.941 GMT Summer Time"]
+[Opening "Queen's Gambit declined"]
+[PlyCount "73"]
+[TimeControl "40/300"]
+[Variation "3.Nc3"]
+
+1. d4 {book} d5 2. c4 {6.3s} e6 3. Nc3 {7.4s} dxc4 4. Qa4+ {8.0s} Nc6
+5. a3 {9.5s} Qxd4 6. Nf3 {12s} Qb6 7. Qxc4 {19s} Nf6 8. e3 {25s} e5 9. Ng5 {19s}
+Nd8 10. Qa4+ {15s} Bd7 11. Qd1 {18s} h6 12. Nf3 {9.4s} Nc6 13. Nd2 {22s} Be6
+14. Bb5 {12s} a6 15. Nc4 {9.7s} Qc5 16. b4 {4.9s} Rd8 17. Qf3 {4.1s} Qxb5
+18. Nxb5 {2.0s} axb5 19. Nd2 {2.9s} Bg4 20. Qg3 {1.7s} Bf5 21. f4 {4.2s} Be7
+22. fxe5 {3.0s} Ng4 23. e4 {3.2s} Be6 24. Bb2 {3.1s} O-O 25. h3 {3.5s} Bg5
+26. Nf3 {2.1s} Rd3 27. hxg4 {4.1s} Bxg4 28. Qxg4 {2.9s} Nxb4 29. axb4 {2.9s}
+Re3+ 30. Kf2 {2.7s} Rxf3+ 31. gxf3 {5.3s} h5 32. Qxg5 {2.9s} h4 33. Rag1 {2.5s}
+g6 34. Qxh4 {0.69s} Kg7 35. Rxg6+ {0.55s} fxg6 36. e6+ Kg8
+37. Qh8# {0.76s, White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-5"]
+[Black "config_11-3-4-6-13"]
+[Result "0-1"]
+[ECO "C40"]
+[GameDuration "00:04:05"]
+[GameEndTime "2025-05-08T15:18:29.154 GMT Summer Time"]
+[GameStartTime "2025-05-08T15:14:23.173 GMT Summer Time"]
+[Opening "King's knight Opening"]
+[PlyCount "104"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 {4.8s} 2. Nf3 Bd6 {4.3s} 3. d4 Qf6 {3.2s} 4. Bg5 Qg6 {2.2s}
+5. Nc3 Bb4 {3.7s} 6. dxe5 Qxe4+ {3.4s} 7. Be2 Bxc3+ {2.2s} 8. bxc3 h6 {7.0s}
+9. Be3 Ne7 {8.0s} 10. O-O Nf5 {8.1s} 11. Bc5 Nc6 {8.4s} 12. Re1 Nd8 {16s}
+13. Bd3 Qc6 {2.4s} 14. Bb4 a5 {3.3s} 15. Ba3 Ne7 {2.9s} 16. Rb1 Ne6 {5.3s}
+17. Bxe7 Kxe7 {13s} 18. Nd4 Nxd4 {3.1s} 19. cxd4 Qc3 {14s} 20. d5 Kf8 {13s}
+21. Re3 Qc5 {15s} 22. Rb5 Qa7 {11s} 23. Qf3 Qd4 {9.3s} 24. h3 c6 {13s} 25. Re4
+Qa1+ {2.4s} 26. Kh2 cxb5 {1.9s} 27. d6 Qxa2 {3.5s} 28. c3 Qb3 {5.7s} 29. Rf4
+Kg8 {3.4s} 30. c4 bxc4 {2.2s} 31. Rxc4 a4 {4.7s} 32. Qf5 a3 {3.8s} 33. f4
+a2 {2.1s} 34. Rc1 b5 {1.9s} 35. Be4 a1=Q {1.9s} 36. Rxa1 Rxa1 {1.9s} 37. h4
+Qa2 {3.2s} 38. h5 b4 {3.7s} 39. Bc2 b3 {3.4s} 40. Bd3 b2 {3.1s} 41. Be4
+Re1 {3.4s} 42. Bd3 Qa1 {3.9s} 43. e6 dxe6 {2.0s} 44. d7 Rh1+ {1.2s} 45. Kg3
+Qe1+ {1.5s} 46. Kf3 Bb7+ {1.4s} 47. Be4 Rf1+ {0.97s} 48. Kg4 exf5+ {0.67s}
+49. Bxf5 Qe2+ {0.88s} 50. Kh4 Rxf4+ {0.96s} 51. g4 g5+ {0.70s} 52. hxg6
+Qh2# {2.4s, Black mates} 0-1
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-5"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[GameDuration "00:09:57"]
+[GameEndTime "2025-05-08T15:25:13.368 GMT Summer Time"]
+[GameStartTime "2025-05-08T15:15:16.097 GMT Summer Time"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "454"]
+[TimeControl "40/300"]
+
+1. e3 {5.1s} e5 2. Nc3 {13s} d5 3. a3 {9.5s} Nf6 4. d4 {22s} e4 5. f3 {12s} Nc6
+6. Bb5 {11s} Bd6 7. fxe4 {5.7s} dxe4 8. d5 {7.0s} a6 9. dxc6 {4.2s} axb5
+10. cxb7 {3.4s} Bxb7 11. Nxb5 {8.5s} Ra6 12. Qd4 {7.5s} O-O 13. Ne2 {5.1s} Ng4
+14. h4 {6.4s} c5 15. Qc3 {5.3s} Be5 16. Qxc5 {5.2s} Rf6 17. Bd2 {9.0s} Rc6
+18. Qb4 {3.2s} Rxc2 19. Nbd4 {2.8s} Rc7 20. Nf5 {14s} Ba6 21. Qxe4 {4.9s} h5
+22. Rd1 {12s} Qf6 23. Ba5 {12s} Rc4 24. Rd4 {12s} Rc5 25. Bb4 {7.9s} Bxd4
+26. Qxd4 {5.5s} Rxf5 27. Bxf8 {2.6s} Kxf8 28. Qa7 {2.6s} g6 29. e4 {2.0s} Re5
+30. Nc3 {3.4s} Kg7 31. Qd4 {6.3s} Kh7 32. Nd5 {7.8s} Qc6 33. Kd1 {5.2s} Qd7
+34. Re1 {7.1s} Qd6 35. Kc2 {5.3s} Re6 36. Qa7 {7.3s} Ne5 37. Kb1 {14s} Bd3+
+38. Ka1 {5.8s} Bc4 39. Rd1 {5.8s} Bb3 40. Re1 {3.8s} Bxd5 41. exd5 {1.9s} Qxd5
+42. Qf2 {3.8s} Qd7 43. Qc2 {9.1s} Qd4 44. Qe4 {6.4s} Nc6 45. Qb1 {1.4s} Rxe1
+46. Qxe1 {2.1s} Kg7 47. g3 {3.6s} Kf8 48. Qc1 {3.1s} Ne7 49. Qc7 {1.3s} f5
+50. Qb7 {2.5s} Kf7 51. Qc7 {2.3s} Ke6 52. Qc1 {3.6s} Kd6 53. Qe1 {4.0s} Kd7
+54. Qh1 {3.3s} Qd5 55. Qf1 {3.9s} Qb3 56. Qa6 {1.6s} Qd1+ 57. Ka2 {0.98s} Qd5+
+58. Ka1 {1.7s} Qc5 59. Qb7+ {2.3s} Ke6 60. Qh1 {4.2s} Qe5 61. Qf3 {2.6s} Kf7
+62. Qb3+ {2.4s} Kf8 63. Qb4 {2.8s} Qxg3 64. Ka2 {2.4s} Qe5 65. Ka1 {2.5s} Qg3
+66. Ka2 {2.9s} Qe5 67. Ka1 {3.1s} Ke8 68. Qa4+ {2.4s} Kd8 69. Qb4 {2.3s} Ke8
+70. Qa4+ {2.2s} Kd8 71. Qb4 {2.0s} f4 72. Kb1 {2.3s} f3 73. a4 {2.2s} f2
+74. Qb6+ {0.64s} Kc8 75. Qa6+ {1.1s} Kd8 76. Qb6+ {1.0s} Kc8 77. Qa6+ {1.1s} Kc7
+78. Qa7+ {1.0s} Kc6 79. Qa6+ {1.3s} Kd7 80. Qa7+ {1.4s} Kc6 81. Qa6+ {1.4s} Kd5
+82. Qa5+ {1.6s} Ke4 83. Qa6 {1.3s} Kf3 84. Qd3+ {2.0s} Kg4 85. Qc4+ {1.6s} Kg3
+86. Qd3+ {3.6s} Kg4 87. Qc4+ {1.5s} Kg3 88. Qd3+ {3.2s} Kxh4 89. Qc4+ {2.9s} Kg3
+90. Qd3+ {3.1s} Kh4 91. Qc4+ {2.5s} Kg5 92. Qc1+ {3.2s} Kf5 93. Ka2 {5.0s} Kf6
+94. Qf1 {4.0s} Qe6+ 95. b3 {1.4s} Qe1 96. Qa6+ {0.93s} Qe6 97. Qd3 {2.2s} Nf5
+98. Qc3+ {1.8s} Kf7 99. Qf3 {1.4s} f1=R 100. Qxf1 {1.4s} h4 101. Qf3 {2.7s} Qd6
+102. Qb7+ {2.9s} Kf6 103. Qg2 {3.3s} Kf7 104. Qb7+ {2.3s} Kf6 105. Qg2 {3.7s} g5
+106. a5 {4.2s} g4 107. Qe2 {4.2s} g3 108. Kb1 {3.0s} Qd4 109. a6 {2.3s} Qg1+
+110. Kb2 {1.6s} Qc5 111. Qd2 {3.3s} Qe5+ 112. Ka2 {1.8s} Ne7 113. a7 {1.2s} Qe4
+114. Qd6+ {2.9s} Kf7 115. Qd1 {4.2s} g2 116. Qh5+ {2.0s} Kg7 117. Qd1 {1.8s} h3
+118. Qa1+ {3.4s} Kf7 119. Qd1 {2.2s} Kg7 120. Qa1+ {4.0s} Kf7 121. Qd1 {2.5s}
+Ke6 122. Ka3 {2.5s} h2 123. Kb2 {1.1s} Qe5+ 124. Kc2 {1.0s} Qe4+ 125. Kb2 {1.0s}
+h1=Q 126. a8=Q {0.75s} Qe5+ 127. Ka3 {0.90s} Qa1+ 128. Kb4 {0.88s} Qe1+
+129. Qxe1+ {0.74s} Qxe1+ 130. Kb5 {1.0s} Qf1+ 131. Kb4 {1.6s} Qe2
+132. Qa1 {1.6s} Kf7 133. Qa7 {2.7s} Qe1+ 134. Kb5 {0.72s} Qf1+ 135. Kb4 {0.69s}
+Qe1+ 136. Kb5 {0.68s} Qf1+ 137. Kb4 {0.67s} Qe2 138. Ka3 {2.2s} Qe1
+139. Qc7 {0.92s} Qa1+ 140. Kb4 {0.84s} Qe1+ 141. Kb5 {1.0s} Qe4 142. Qc5 {2.7s}
+Qf5 143. Qxf5+ Nxf5 144. Kc6 Ke6 145. b4 {0.53s} Kf6 146. b5 {0.60s} Ke6
+147. b6 {0.58s} Ne7+ 148. Kc7 Nd5+ 149. Kd8 Nxb6 150. Kc7 Kf5 151. Kxb6 Kg4
+152. Kc7 {0.50s} Kf3 153. Kd8 {0.56s} Kg3 154. Kc8 {0.56s} Kf2 155. Kd8 {0.53s}
+Kg1 156. Kc8 {0.51s} Kh1 157. Kd8 Kh2 158. Kc8 Kh3 159. Kd8 {0.56s} Kh4
+160. Kc8 {0.59s} Kg3 161. Kd8 {0.56s} Kf3 162. Kc8 {0.55s} Kf4 163. Kd8 {0.52s}
+Kf3 164. Kc8 {0.55s} Kf2 165. Kd8 {0.50s} Kg1 166. Kc8 Kh2 167. Kd8 Kg3
+168. Kc8 {0.54s} Kh3 169. Kd8 {0.51s} Kg4 170. Kc8 {0.61s} Kf3 171. Kd8 {0.55s}
+Kf4 172. Kc8 {0.54s} Ke4 173. Kd8 {0.55s} Kf4 174. Kc8 {0.53s} Ke4
+175. Kd8 {0.53s} Ke3 176. Kc8 {0.54s} Ke2 177. Kd8 {0.51s} g1=R 178. Kc7 {0.90s}
+Rg2 179. Kd8 {0.85s} Rf2 180. Kc8 {0.90s} Rg2 181. Kd8 {0.82s} Ke1
+182. Kc8 {0.99s} Rf2 183. Kd8 {1.1s} Kd1 184. Kc8 {0.90s} Ke1 185. Kd8 {1.0s}
+Rg2 186. Kc8 {0.92s} Rd2 187. Kb8 {0.72s} Rf2 188. Kc8 {0.87s} Ke2
+189. Kd8 {0.89s} Ke1 190. Kc8 {0.98s} Ke2 191. Kd8 {0.97s} Kd1 192. Kc8 {1.0s}
+Re2 193. Kb8 {0.93s} Kc2 194. Kc7 {0.72s} Kd1 195. Kc8 {1.3s} Rf2
+196. Kb8 {0.89s} Rg2 197. Kc8 {0.91s} Re2 198. Kb8 {0.95s} Rg2 199. Kc8 {0.82s}
+Rf2 200. Kb8 {0.88s} Rf3 201. Kc8 {0.82s} Ke1 202. Kd8 {0.95s} Rc3
+203. Ke8 {0.80s} Rc2 204. Kf8 {0.95s} Kd2 205. Ke8 {0.74s} Kd1 206. Kf8 {1.1s}
+Kd2 207. Ke8 {0.71s} Ke1 208. Kf8 {1.4s} Kd1 209. Ke8 {0.99s} Rb2
+210. Kd8 {0.79s} Rc2 211. Ke8 {0.80s} Rf2 212. Kd8 {0.92s} Re2 213. Kc8 {0.93s}
+Ke1 214. Kb8 {0.88s} Re3 215. Kc8 {1.2s} Ke2 216. Kb8 {1.00s} Ke1
+217. Kc8 {0.99s} Ke2 218. Kb8 {0.75s} Re5 219. Kc7 {0.85s} Kd1 220. Kd8 {1.3s}
+Re1 221. Kc8 {0.71s} Re3 222. Kd8 {0.82s} Kc1 223. Kc7 {1.0s} Kb2
+224. Kd8 {1.5s} Kc1 225. Kc7 {0.87s} Rc3+ 226. Kb8 {0.89s} Rc4 227. Kb7 {0.78s}
+Rc7+ {Draw by fifty moves rule} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-5"]
+[Black "config_11-3-4-6-13"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:05:30"]
+[GameEndTime "2025-05-08T15:24:04.246 GMT Summer Time"]
+[GameStartTime "2025-05-08T15:18:34.190 GMT Summer Time"]
+[Opening "Queen's pawn"]
+[PlyCount "267"]
+[TimeControl "40/300"]
+
+1. d4 {book} e6 {5.8s} 2. e4 Nc6 {12s} 3. a3 d5 {5.9s} 4. e5 Bd7 {13s} 5. Nf3
+f6 {6.1s} 6. Bb5 fxe5 {2.5s} 7. Bxc6 Bxc6 {2.4s} 8. Nxe5 Qh4 {7.5s} 9. O-O
+Bd6 {13s} 10. Re1 Ne7 {4.9s} 11. g3 Qh3 {4.0s} 12. Bg5 Bxe5 {1.9s} 13. Rxe5
+Ng6 {9.2s} 14. Re3 Qf5 {3.7s} 15. h4 Rf8 {5.0s} 16. Qe2 e5 {4.2s} 17. a4
+h6 {5.0s} 18. Bf4 O-O-O {3.2s} 19. Bxe5 Rf7 {4.3s} 20. f4 Qh3 {8.1s} 21. Qh2
+Qxh2+ {6.0s} 22. Kxh2 Re8 {5.3s} 23. Nd2 a6 {7.5s} 24. Nf3 Bd7 {10s} 25. h5
+Nf8 {5.3s} 26. Kg2 Bg4 {7.0s} 27. Rh1 Nd7 {5.4s} 28. b3 b6 {8.1s} 29. Rh4
+Nf6 {3.5s} 30. Rh1 Nxh5 {4.7s} 31. Nh2 Bf5 {6.3s} 32. g4 Be4+ {2.3s} 33. Rxe4
+dxe4 {1.1s} 34. gxh5 Kb8 {3.1s} 35. c3 e3 {4.3s} 36. b4 Rf5 {6.2s} 37. Re1
+Rxh5 {1.2s} 38. Rxe3 Kb7 {2.9s} 39. Nf3 Re6 {3.7s} 40. Kf2 Rh3 {2.0s} 41. f5
+Re7 {2.0s} 42. c4 c6 {3.4s} 43. a5 bxa5 {2.1s} 44. bxa5 Ka8 {2.0s} 45. c5
+Re8 {1.7s} 46. Bxg7 Rxe3 {1.1s} 47. Kxe3 Rg3 {1.4s} 48. Bxh6 Rh3 {1.1s} 49. Bg5
+Rg3 {3.0s} 50. Bh6 Rh3 {1.2s} 51. Bg5 Rg3 {2.8s} 52. Kf4 Rg2 {1.6s} 53. f6
+Rb2 {0.56s} 54. f7 Rb8 {0.76s} 55. Ne5 Rf8 {0.96s} 56. Kf5 Kb7 {0.99s} 57. Ke6
+Rb8 {1.6s} 58. d5 cxd5 {0.96s} 59. Kxd5 Rf8 {1.3s} 60. Kd6 Rc8 {1.3s} 61. Ke6
+Kb8 {2.1s} 62. c6 Ka7 {1.3s} 63. Be3+ Ka8 {0.83s} 64. Bh6 Ka7 {0.84s} 65. Be3+
+Ka8 {0.92s} 66. Bh6 Ka7 {0.92s} 67. Bf4 Ka8 {1.3s} 68. Bc1 Ka7 {1.3s} 69. Bb2
+Ka8 {1.2s} 70. Ba1 Ka7 {1.2s} 71. Bd4+ Ka8 {0.95s} 72. Ba1 Ka7 {1.1s} 73. Kd7
+Kb8 {1.5s} 74. Bc3 Rc7+ {1.5s} 75. Kd6 Rc8 {0.76s} 76. Nd7+ Ka7 {0.83s} 77. c7
+Ra8 {0.79s} 78. Be5 Rc8 {0.76s} 79. Bc3 Ra8 {0.69s} 80. Be5 Rc8 {0.71s} 81. Ke6
+Kb7 {1.1s} 82. Bd6 Rh8 {0.66s} 83. Bf4 Rc8 {0.64s} 84. Be5 Ka7 {0.79s} 85. Nf6
+Rf8 {0.97s} 86. Nd5 Kb7 {1.2s} 87. Ne7 Ra8 {0.69s} 88. c8=Q+ Rxc8 89. Nxc8
+Kxc8 {0.58s} 90. Bf6 Kb8 91. Be7 Kc8 {0.54s} 92. Bf6 Kb8 {0.51s} 93. Be5+
+Kb7 {0.56s} 94. Kf6 Kc6 {0.53s} 95. f8=Q Kb5 {0.90s} 96. Bc3 Kc4 {1.0s} 97. Qf7+
+Kxc3 {1.4s} 98. Qe6 Kd3 {0.89s} 99. Qf7 Kc3 {2.0s} 100. Qd5 Kb2 {0.91s}
+101. Qb7+ Kc3 {0.94s} 102. Qg7 Kd2 {1.8s} 103. Qg5+ Ke2 {0.91s} 104. Qg2+
+Kd3 {0.70s} 105. Qd5+ Ke3 {0.75s} 106. Qf5 Ke2 {0.76s} 107. Qe4+ Kf1 {0.81s}
+108. Qd5 Ke2 {0.95s} 109. Qe6+ Kf3 {0.77s} 110. Qf5+ Ke3 {0.93s} 111. Qd5
+Ke2 {1.1s} 112. Qh5+ Ke3 {1.1s} 113. Qg4 Kd3 {0.79s} 114. Qh5 Ke3 {1.1s}
+115. Qg4 Kd3 {0.69s} 116. Qh4 Kc3 {1.1s} 117. Qh5 Kd3 {1.5s} 118. Qh4
+Kc3 {0.96s} 119. Qh5 Kd3 {1.2s} 120. Qe5 Kd2 {0.80s} 121. Qd6+ Ke3 {0.77s}
+122. Qxa6 Kf3 {1.4s} 123. Kg6 Kf2 {2.1s} 124. Kg7 Kf3 {1.4s} 125. Kg6 Kf2 {1.9s}
+126. Kg7 Kf3 {1.3s} 127. Qb6 Ke4 {2.5s} 128. Qb2 Kf3 {1.5s} 129. Qb1 Ke2 {2.0s}
+130. a6 Kf3 {0.79s} 131. a7 Kg3 {1.2s} 132. a8=Q Kf4 {2.0s} 133. Qae4+
+Kg5 {0.83s} 134. Qb5# {White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-5"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[GameDuration "00:06:28"]
+[GameEndTime "2025-05-08T15:30:38.064 GMT Summer Time"]
+[GameStartTime "2025-05-08T15:24:09.278 GMT Summer Time"]
+[Opening "Scandinavian (centre counter) defense"]
+[PlyCount "296"]
+[TimeControl "40/300"]
+
+1. e4 {book} d5 2. Qe2 {4.4s} dxe4 3. Qxe4 {5.7s} Nf6 4. Qe5 {12s} Nc6
+5. Bb5 {15s} Bd7 6. Qc3 {13s} Nd5 7. Qc5 {8.1s} Nf4 8. Kf1 {7.0s} e5
+9. Qc4 {3.3s} Qg5 10. g3 {4.8s} Qh5 11. f3 {9.9s} Ne6 12. g4 {8.2s} Qg6
+13. h4 {7.9s} h5 14. gxh5 {4.4s} Rxh5 15. Ne2 {8.3s} a6 16. Bxc6 {6.8s} Bxc6
+17. Rg1 {9.3s} Qf6 18. Nbc3 {6.2s} Bxf3 19. Ke1 {8.5s} Qxh4+ 20. Qxh4 {0.89s}
+Rxh4 21. Rf1 {4.6s} Bc6 22. a3 {7.9s} Be7 23. d3 {9.6s} Rh2 24. Kd1 {16s} Rh4
+25. Be3 {9.6s} Rd8 26. Bf2 {7.8s} Rh6 27. Bg3 {13s} e4 28. d4 {4.8s} e3
+29. Be5 {6.8s} a5 30. Rc1 {9.8s} a4 31. b4 {6.2s} b6 32. b5 {5.7s} Bb7
+33. Nxa4 {4.0s} f6 34. Bg3 {2.4s} Nxd4 35. Bxc7 {1.1s} Bf3 36. Bxd8 {1.4s} Bxe2+
+37. Ke1 {0.89s} Bxf1 38. Kxf1 {1.6s} Bxd8 39. Kg2 {1.4s} Nxb5 40. Re1 {1.9s}
+Rg6+ 41. Kh3 {0.91s} Rh6+ 42. Kg2 {0.85s} Rg6+ 43. Kh3 {0.80s} f5
+44. Rxe3+ {0.68s} Be7 45. Re5 {0.93s} Nd4 46. c4 {0.89s} f4 47. Re1 {1.0s} Rh6+
+48. Kg2 {1.2s} Kd8 49. Re5 {2.4s} Nc6 50. Rf5 {1.7s} Kc7 51. Rf7 {2.2s} f3+
+52. Kg1 {3.2s} Kd8 53. Rxg7 {1.1s} Bf8 54. Rg8 {0.92s} Ke7 55. Nxb6 {1.7s} Kf7
+56. Rg5 {1.5s} Nd4 57. Nd7 {1.3s} Be7 58. Ne5+ {1.2s} Kf6 59. Kf1 {1.8s} Rh1+
+60. Rg1 {0.93s} Rxg1+ 61. Kxg1 {1.5s} Kxe5 62. a4 {0.74s} Bg5 63. a5 {0.86s} Kf5
+64. a6 {0.72s} Nc6 65. Kf2 {1.3s} Ke4 66. Kg1 {1.0s} Kd4 67. Kf2 {0.97s} Ke4
+68. Kg1 {0.89s} Bf4 69. c5 {0.84s} Bg5 70. Kh2 {0.82s} Bf6 71. Kg1 {0.97s} Bg5
+72. Kh2 {0.81s} Bf6 73. Kg1 {1.2s} Bh4 74. Kh2 {0.72s} Bg5 75. Kg1 {0.83s} Bf4
+76. Kf2 {0.63s} Be3+ 77. Kg3 {0.56s} Bg1 78. Kh3 {0.75s} Bxc5 79. Kg3 {0.95s}
+Bg1 80. Kh4 {0.70s} Kd4 81. Kg3 {1.2s} Ke4 82. Kh4 {0.97s} Kf4 83. Kh5 {0.71s}
+f2 84. Kg6 {0.59s} f1=Q 85. Kg7 {0.84s} Qg2+ 86. Kf7 {1.1s} Qd5+ 87. Kf8 {1.6s}
+Qf5+ 88. Kg7 {0.83s} Qg4+ 89. Kf7 {0.93s} Qd7+ 90. Kg6 {0.83s} Qd6+
+91. Kf7 {1.5s} Ne5+ 92. Kg8 {0.59s} Qb8+ 93. Kg7 {0.78s} Qa7+ 94. Kh8 {0.99s}
+Qa8+ 95. Kg7 {1.2s} Qa7+ 96. Kh8 {0.82s} Qa8+ 97. Kg7 {0.86s} Nd3 98. Kg6 {1.2s}
+Qxa6+ 99. Kg7 {1.4s} Qa7+ 100. Kg6 {1.5s} Qa6+ 101. Kg7 {1.1s} Bd4+
+102. Kf7 {1.1s} Qc4+ 103. Kf8 {1.4s} Qc5+ 104. Kf7 {1.2s} Qd5+ 105. Ke7 {1.4s}
+Qe5+ 106. Kd7 {1.2s} Qg7+ 107. Kc6 {1.3s} Qg2+ 108. Kd7 {2.2s} Qd5+
+109. Kc8 {1.4s} Qc5+ 110. Kb8 {1.3s} Qd6+ 111. Kc8 {0.80s} Qc5+ 112. Kb8 {1.1s}
+Qe5+ 113. Kc8 {0.70s} Nc1 114. Kd7 {1.3s} Na2 115. Kc6 {1.3s} Nc1
+116. Kd7 {0.77s} Na2 117. Kc6 {1.1s} Qe4+ 118. Kd7 {1.1s} Qe2 119. Kd8 {1.8s}
+Qe5 120. Kd7 {1.0s} Qe2 121. Kd8 {2.2s} Qe5 122. Kd7 {0.76s} Ke3
+123. Kc8 {0.83s} Nc1 124. Kd7 {1.4s} Qb5+ 125. Ke7 {1.8s} Qg5+ 126. Kd7 {2.1s}
+Na2 127. Kc8 {1.4s} Nc1 128. Kd7 {1.3s} Na2 129. Kc8 {1.2s} Nc3 130. Kd7 {0.96s}
+Ne4 131. Kc8 {1.2s} Nd2 132. Kd7 {1.1s} Nb1 133. Kc8 {1.3s} Nd2 134. Kd7 {1.2s}
+Kf4 135. Kc8 {1.1s} Ne4 136. Kd7 {0.93s} Nf2 137. Kc6 {1.5s} Ne4
+138. Kd7 {0.78s} Nc5+ 139. Kd6 {1.3s} Nb3 140. Kd7 {1.3s} Nc5+ 141. Kd6 {1.1s}
+Nb3 142. Kd7 {1.1s} Qg7+ 143. Kc6 {1.9s} Na5+ 144. Kb5 {1.0s} Nb7
+145. Kc4 {1.6s} Nc5 146. Kd5 {1.1s} Nb3 147. Kc6 {1.1s} Na5+ 148. Kb5 {1.3s}
+Nb3 {Draw by fifty moves rule} 1/2-1/2
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-5"]
+[Black "config_11-3-4-6-13"]
+[Result "1-0"]
+[ECO "C40"]
+[GameDuration "00:05:38"]
+[GameEndTime "2025-05-08T15:30:57.204 GMT Summer Time"]
+[GameStartTime "2025-05-08T15:25:18.407 GMT Summer Time"]
+[Opening "King's knight Opening"]
+[PlyCount "159"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 {6.0s} 2. Nf3 Bd6 {4.4s} 3. d4 Qf6 {3.4s} 4. Nc3 Bb4 {3.2s}
+5. Nxe5 Nc6 {5.0s} 6. Nf3 d6 {6.3s} 7. Qd3 Bg4 {7.5s} 8. Bg5 Qg6 {4.1s} 9. Be3
+Bxc3+ {5.0s} 10. bxc3 Nf6 {7.4s} 11. Nd2 Bd7 {9.4s} 12. f3 O-O-O {3.5s} 13. c4
+Kb8 {7.9s} 14. a3 Rhe8 {3.5s} 15. c3 d5 {3.8s} 16. cxd5 Nxd5 {4.2s} 17. Kf2
+Nxe3 {4.8s} 18. Qxe3 Ne7 {11s} 19. g3 Nd5 {6.8s} 20. Qd3 Nb6 {14s} 21. c4
+Ba4 {13s} 22. Rc1 Qf6 {5.1s} 23. d5 c6 {11s} 24. Qc3 Qh6 {6.8s} 25. h4
+cxd5 {7.0s} 26. cxd5 Rc8 {7.4s} 27. Qb2 Rxc1 {5.4s} 28. Qxc1 f5 {5.2s} 29. Bh3
+fxe4 {3.8s} 30. Nxe4 Qh5 {4.1s} 31. Qf4+ Ka8 {2.9s} 32. Nd6 Qxd5 {3.9s} 33. Nxe8
+Qa2+ {3.0s} 34. Kg1 Bxe8 {3.9s} 35. Qd4 Bd7 {5.6s} 36. Bg2 Qb3 {4.7s} 37. Kh2
+Qa2 {4.5s} 38. Re1 g6 {4.4s} 39. Qh8+ Nc8 {2.6s} 40. Qxh7 Bf5 {7.4s} 41. Qg7
+Qf2 {9.3s} 42. Rf1 Qd2 {13s} 43. a4 a6 {7.4s} 44. f4 Be4 {3.1s} 45. Rg1
+Bc6 {4.2s} 46. Qe5 Nd6 {2.7s} 47. Qe1 Qa2 {3.5s} 48. g4 Bd5 {5.6s} 49. a5
+Bc6 {5.8s} 50. Qg3 Ne4 {4.6s} 51. Qe3 Nf6 {4.3s} 52. Kg3 Bxg2 {1.9s} 53. Rxg2
+Qb1 {6.4s} 54. Re2 Qd1 {5.5s} 55. Qf3 Qg1+ {6.6s} 56. Kh3 Nxg4 {1.6s} 57. Qg2
+Qxg2+ {2.8s} 58. Rxg2 Ne3 {0.62s} 59. Rg5 Kb8 {0.54s} 60. Rxg6 Nd5 {0.61s}
+61. Rg4 Ka8 {0.56s} 62. f5 Ne3 {0.69s} 63. Rg5 Kb8 {0.54s} 64. h5 Ka8 {0.56s}
+65. f6 Ng4 {0.61s} 66. Rxg4 Ka7 {0.53s} 67. f7 b6 {0.58s} 68. f8=Q Kb7 {0.74s}
+69. Qf7+ Kc6 {0.64s} 70. Qe8+ Kc7 {0.69s} 71. Rg7+ Kd6 {0.63s} 72. h6
+bxa5 {1.8s} 73. h7 Kd5 {0.88s} 74. h8=Q Kc4 {2.0s} 75. Rg1 a4 {1.6s} 76. Qxa4+
+Kd5 {0.94s} 77. Qd8+ Ke6 {0.80s} 78. Qad7+ Ke5 79. Q8e7+ Kf4
+80. Qg4# {White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "config_11-3-4-6-13"]
+[Black "Stockfish-5"]
+[Result "1-0"]
+[ECO "B02"]
+[GameDuration "00:02:25"]
+[GameEndTime "2025-05-08T15:33:08.285 GMT Summer Time"]
+[GameStartTime "2025-05-08T15:30:43.091 GMT Summer Time"]
+[Opening "Alekhine's defense"]
+[PlyCount "47"]
+[TimeControl "40/300"]
+
+1. e4 {book} Nf6 2. e5 {7.0s} Nd5 3. c4 {6.8s} Nb4 4. a3 {12s} N4c6
+5. Nc3 {6.9s} d6 6. exd6 {4.4s} Qxd6 7. Nb5 {19s} Qd8 8. d4 {10s} a6
+9. Qa4 {6.6s} e5 10. dxe5 {6.7s} Nxe5 11. Nxc7+ {1.8s} Ke7 12. Bg5+ {7.5s} f6
+13. Nxa8 {4.4s} fxg5 14. Rd1 {13s} Bd7 15. Qb4+ {2.4s} Kf7 16. Qxb7 {4.4s} Qa5+
+17. b4 {2.3s} Qxa3 18. Rxd7+ {2.5s} Nbxd7 19. Qd5+ {4.1s} Kf6 20. Nc7 {1.7s}
+Bxb4+ 21. Ke2 {6.1s} Qb2+ 22. Ke3 {5.6s} Bc5+ 23. Ke4 {3.6s} Rd8
+24. Qe6# {4.9s, White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.05.08"]
+[Round "1"]
+[White "Stockfish-5"]
+[Black "config_11-3-4-6-13"]
+[Result "1-0"]
+[ECO "C40"]
+[GameDuration "00:07:04"]
+[GameEndTime "2025-05-08T15:38:07.053 GMT Summer Time"]
+[GameStartTime "2025-05-08T15:31:02.211 GMT Summer Time"]
+[Opening "King's knight Opening"]
+[PlyCount "275"]
+[TimeControl "40/300"]
+
+1. e4 {book} e5 {5.6s} 2. Nf3 Bd6 {4.6s} 3. d4 Qf6 {3.1s} 4. Bg5 Qg6 {2.3s}
+5. Nc3 Bb4 {3.3s} 6. Bd2 Bxc3 {1.6s} 7. Bxc3 Nc6 {3.1s} 8. Qd3 exd4 {2.7s}
+9. Nxd4 a6 {3.6s} 10. Nf5 Nf6 {8.7s} 11. a3 d5 {6.7s} 12. Nxg7+ Qxg7 {3.0s}
+13. exd5 Ne7 {6.5s} 14. d6 Bf5 {5.6s} 15. Qd4 cxd6 {3.9s} 16. Qxf6 Qxf6 {3.1s}
+17. Bxf6 Rg8 {2.9s} 18. O-O-O Nc8 {8.0s} 19. g3 Rg6 {11s} 20. Bc3 Ne7 {6.2s}
+21. Bg2 Rb8 {7.0s} 22. b3 Rc8 {7.1s} 23. Kb2 Re6 {15s} 24. Rd2 b5 {6.0s} 25. Rc1
+f6 {6.5s} 26. Bh1 d5 {5.6s} 27. Bg2 Rec6 {6.1s} 28. Ba5 Kf8 {3.3s} 29. c3
+Be4 {4.3s} 30. Bf1 Kg8 {6.1s} 31. Rd4 Nf5 {6.9s} 32. Rdd1 Re8 {8.7s} 33. g4
+Nd6 {8.0s} 34. Rd2 Nb7 {7.8s} 35. Bb4 Bf3 {8.2s} 36. h3 Be4 {8.5s} 37. h4
+Bf3 {8.3s} 38. Rd4 h6 {7.2s} 39. Rf4 Be4 {4.2s} 40. f3 Bh7 {4.0s} 41. Rd4
+Re3 {5.0s} 42. f4 h5 {2.9s} 43. g5 Be4 {2.4s} 44. Rd2 fxg5 {3.7s} 45. fxg5
+Nc5 {8.1s} 46. Rcd1 Ne6 {4.8s} 47. Rf2 Nc5 {7.6s} 48. Rfd2 Ne6 {4.6s} 49. Rf2
+Nc5 {8.3s} 50. Bxc5 Rxc5 {2.0s} 51. Rc1 Rc6 {3.5s} 52. Be2 Bg6 {2.6s} 53. Bf3
+Rc5 {2.5s} 54. b4 Rc8 {1.1s} 55. Bxd5+ Kh8 {1.8s} 56. Bb7 Rc7 {1.8s} 57. Bxa6
+Bd3 {1.6s} 58. Rd2 Kg7 {1.4s} 59. Rf2 Ra7 {2.0s} 60. Bc8 Bg6 {3.5s} 61. Rd1
+Be8 {2.7s} 62. Bf5 Rf7 {3.0s} 63. Rdd2 Rc7 {3.8s} 64. Rd3 Re1 {1.8s} 65. Rd4
+Rf7 {1.7s} 66. Rdd2 Re3 {3.9s} 67. Bc2 Rc7 {1.4s} 68. Rd3 Rxd3 {1.2s} 69. Bxd3
+Kg8 {2.5s} 70. Rf6 Re7 {2.4s} 71. Rf3 Re1 {2.9s} 72. Rf6 Re3 {2.1s} 73. Bc2
+Re2 {3.3s} 74. Kc1 Re1+ {2.6s} 75. Kb2 Re2 {3.2s} 76. Rb6 Bf7 {1.2s} 77. Rd6
+Kf8 {1.6s} 78. Rf6 Kg8 {1.3s} 79. Rd6 Kf8 {1.3s} 80. Rf6 Kg8 {1.1s} 81. g6
+Be8 {1.1s} 82. Rd6 Kf8 {1.0s} 83. Kc1 Kg7 {1.3s} 84. Rd8 Re6 {2.3s} 85. Kb2
+Re2 {1.8s} 86. Kc1 Re7 {1.8s} 87. Kb2 Re2 {1.9s} 88. Rd6 Kf8 {0.68s} 89. Kb1
+Kg7 {0.93s} 90. Kc1 Re1+ {2.1s} 91. Kb2 Re2 {1.2s} 92. Kc1 Re1+ {2.5s} 93. Kb2
+Re2 {1.5s} 94. Rb6 Kh8 {1.4s} 95. Rb8 Kg7 {1.0s} 96. Kc1 Bxg6 {1.4s} 97. Bxg6
+Kxg6 {1.6s} 98. Rb6+ Kh7 99. Rxb5 Kg6 {0.74s} 100. Rg5+ Kh6 {0.62s} 101. a4
+Rh2 {1.6s} 102. Rc5 Rh1+ {0.82s} 103. Kb2 Rh2+ {0.82s} 104. Kb3 Rxh4 {0.70s}
+105. Re5 Kg7 {1.3s} 106. Re1 Kf7 {1.2s} 107. Rd1 Ke8 {1.1s} 108. a5 Re4 {1.5s}
+109. a6 Re7 {1.7s} 110. c4 Re3+ {3.2s} 111. Ka4 Re2 {1.6s} 112. Rg1 Kf7 {1.8s}
+113. Rf1+ Kg8 {1.3s} 114. Rf3 h4 {2.0s} 115. b5 Rc2 {1.6s} 116. Kb4 Rb2+ {1.2s}
+117. Kc5 Re2 {1.5s} 118. b6 Re5+ {0.98s} 119. Kd4 Rg5 {1.7s} 120. b7 Rg4+ {1.0s}
+121. Kd5 Rg5+ {0.80s} 122. Ke4 Rg4+ {0.85s} 123. Kf5 Rxc4 {0.73s} 124. b8=Q+
+Kh7 {1.3s} 125. Qb7+ Kh6 {0.99s} 126. Qb6+ Kh7 {1.00s} 127. a7 Ra4 {1.5s}
+128. Qc7+ Kg8 {1.3s} 129. Qd8+ Kh7 {0.93s} 130. Qe7+ Kh6 {1.0s} 131. Qd6+
+Kh7 {0.83s} 132. Qe7+ Kh6 {0.86s} 133. Qd6+ Kh7 {0.67s} 134. Qd7+ Kh6 {0.70s}
+135. Qc6+ Kh7 {0.62s} 136. Qxa4 Kg7 {0.75s} 137. Qd7+ Kh8
+138. a8=Q# {White mates} 1-0

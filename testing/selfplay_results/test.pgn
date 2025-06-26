@@ -1,0 +1,110 @@
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.04.14"]
+[Round "1"]
+[White "surge_material"]
+[Black "surge_pawns"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:10:33"]
+[GameEndTime "2025-04-14T20:36:04.296 GMT Summer Time"]
+[GameStartTime "2025-04-14T20:25:30.918 GMT Summer Time"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "141"]
+[TimeControl "40/300"]
+
+1. e3 {4.6s} e5 {6.7s} 2. Nc3 {6.8s} c6 {12s} 3. Qh5 {3.8s} Qa5 {9.4s}
+4. Nf3 {8.4s} d6 {5.1s} 5. Ng5 {8.5s} g6 {5.8s} 6. Qh4 {7.1s} d5 {6.5s}
+7. d4 {7.8s} Be7 {8.4s} 8. dxe5 {4.8s} Bf5 {5.1s} 9. Bd2 {5.6s} Na6 {10.0s}
+10. e4 {10s} Bxg5 {5.3s} 11. Qxg5 {4.3s} Nb4 {6.4s} 12. O-O-O {8.1s} h6 {3.2s}
+13. Qf4 {3.6s} dxe4 {2.9s} 14. g4 {8.2s} e3 {5.7s} 15. Bxe3 {6.9s} Bxc2 {7.7s}
+16. Rd6 {4.8s} Nxa2+ {8.3s} 17. Kxc2 {4.6s} Nxc3 {3.9s} 18. e6 {9.2s}
+fxe6 {3.1s} 19. Rxe6+ {5.4s} Ne7 {2.7s} 20. Qf6 {6.8s} Qa4+ {2.0s}
+21. Kxc3 {1.6s} Qa5+ {1.9s} 22. Kc2 {1.4s} Qa4+ {1.9s} 23. Kb1 {2.1s}
+Qd1+ {3.6s} 24. Bc1 {0.80s} O-O-O {1.6s} 25. Rxe7 {5.2s} Kb8 {5.5s}
+26. Re3 {6.7s} Rhf8 {6.3s} 27. Qxg6 {5.7s} Rxf2 {6.9s} 28. Bg2 {6.7s} Qd7 {6.6s}
+29. Qe4 {10s} Ka8 {8.7s} 30. Rf1 {13s} Rxf1 {2.4s} 31. Bxf1 {3.1s} Rg8 {15s}
+32. Be2 {7.8s} h5 {18s} 33. Qc4 {5.1s} Rd8 {7.4s} 34. gxh5 {4.5s} Qh7+ {4.2s}
+35. Rd3 {6.6s} Rd5 {5.2s} 36. Qc2 {4.0s} Rxd3 {1.5s} 37. Bxd3 {2.5s} Qxh5 {2.4s}
+38. Bg6 {5.5s} Qh8 {2.8s} 39. Qg2 {8.6s} a5 {2.9s} 40. Qd2 {6.8s} Qf6 {1.6s}
+41. Qg2 {3.8s} c5 {4.4s} 42. Be4 {4.3s} Ka7 {1.0s} 43. Bd2 {5.3s} Qb6 {3.5s}
+44. Qf2 {4.6s} a4 {5.8s} 45. Be3 {3.9s} Qd8 {1.8s} 46. Bxc5+ {1.8s} Kb8 {2.6s}
+47. Qf4+ {8.5s} Ka8 {1.5s} 48. Qf3 {5.3s} Kb8 {3.1s} 49. Qf4+ {5.9s} Ka8 {1.7s}
+50. Qf3 {5.2s} Kb8 {4.1s} 51. h3 {10s} b6 {6.5s} 52. Qf4+ {7.9s} Kc8 {1.0s}
+53. Bd6 {2.6s} Kd7 {2.2s} 54. Bf5+ {5.4s} Kc6 {0.88s} 55. Be4+ {6.0s} Kd7 {1.4s}
+56. Be5 {6.0s} Qg8 {4.1s} 57. Qf5+ {5.9s} Qe6 {0.78s} 58. Bc6+ {1.3s}
+Kxc6 {0.80s} 59. Qxe6+ {1.0s} Kc5 {0.87s} 60. Bg7 {2.0s} b5 {0.84s}
+61. Be5 {1.3s} b4 {0.61s} 62. Bg7 {2.1s} a3 {0.93s} 63. bxa3 {1.2s} bxa3
+64. Qe7+ {1.3s} Kd5 {0.77s} 65. Qxa3 {1.3s} Ke4 {0.81s} 66. Qc3 {3.5s}
+Kf4 {0.66s} 67. Qd3 {1.9s} Kg5 {0.55s} 68. Qe4 {1.2s} Kh5 69. Qe6 {0.60s}
+Kg5 {0.85s} 70. Qf6+ {0.77s} Kh5 71. Qh6# {0.55s, White mates} 1-0
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.04.14"]
+[Round "2"]
+[White "surge_even"]
+[Black "surge_pawns"]
+[Result "0-1"]
+[ECO "C23"]
+[GameDuration "00:06:31"]
+[GameEndTime "2025-04-14T20:42:36.350 GMT Summer Time"]
+[GameStartTime "2025-04-14T20:36:05.140 GMT Summer Time"]
+[Opening "Bishop's Opening"]
+[PlyCount "108"]
+[TimeControl "40/300"]
+
+1. e4 {6.6s} e5 {7.4s} 2. Bc4 {13s} Qg5 {4.4s} 3. Qf3 {5.2s} Nf6 {3.9s}
+4. Nc3 {5.7s} Bb4 {5.6s} 5. h4 {4.9s} Qg6 {4.2s} 6. h5 {3.2s} Qg5 {4.0s}
+7. d4 {3.8s} Qg4 {2.9s} 8. Bd2 {4.4s} exd4 {4.3s} 9. h6 {3.9s} dxc3 {1.8s}
+10. bxc3 {2.6s} Bc5 {4.6s} 11. hxg7 {4.8s} Qxg7 {3.0s} 12. Rh6 {9.5s} Ng4 {2.0s}
+13. Rh5 {2.9s} Bxf2+ {3.7s} 14. Kf1 {4.1s} Nc6 {65s} 15. Bg5 {7.9s} Nce5 {7.8s}
+16. Qf5 {3.0s} Nxc4 {3.5s} 17. Nf3 {5.0s} Nge3+ {3.2s} 18. Kxf2 {1.5s}
+Nxf5 {2.2s} 19. exf5 {3.4s} Qxc3 {4.5s} 20. Re1+ {1.5s} Qxe1+ {1.2s}
+21. Nxe1 {1.2s} d5 {2.4s} 22. Nf3 {5.9s} Bxf5 {5.5s} 23. Nd4 {3.3s} Bxc2 {3.3s}
+24. Nxc2 {2.1s} Rg8 {2.3s} 25. Nb4 {2.6s} c6 {3.2s} 26. Nd3 {3.1s} h6 {3.6s}
+27. Rxh6 {3.4s} f6 {2.4s} 28. Bxf6 {2.4s} Rf8 {3.3s} 29. Nc5 {4.7s} Ne5 {2.3s}
+30. Kg1 {2.0s} Ng4 {1.2s} 31. Rh7 {1.1s} Nxf6 {1.3s} 32. Rxb7 {1.5s} d4 {3.2s}
+33. Ne6 {2.2s} d3 {1.8s} 34. Nc7+ {1.3s} Kd8 {0.81s} 35. Nxa8 {1.0s} d2 {2.4s}
+36. Rb8+ {1.1s} Ke7 {0.61s} 37. Rb1 {0.82s} Rxa8 {1.9s} 38. g3 {3.2s} Rg8 {2.4s}
+39. Kg2 {3.3s} Nd5 {5.4s} 40. Kf2 {5.4s} Nc3 {4.8s} 41. Rh1 {1.6s} c5 {4.1s}
+42. Rh7+ {1.4s} Kd8 {1.4s} 43. Rh1 {1.2s} Re8 {2.3s} 44. g4 {1.1s} c4 {3.3s}
+45. g5 {1.0s} Ne4+ {1.3s} 46. Kf3 {1.8s} c3 {1.7s} 47. Rb1 {2.9s} Kc7 {1.8s}
+48. Rf1 {3.4s} c2 {1.9s} 49. Kg2 {2.1s} Nxg5 {2.0s} 50. Rf5 {0.88s} c1=Q {1.1s}
+51. Rd5 {1.3s} Re2+ {2.4s} 52. Kg3 {0.54s} Qg1+ {2.9s} 53. Kh4 {0.61s}
+Nf3+ {1.3s} 54. Kh5 {0.83s} Rh2# {1.3s, Black mates} 0-1
+
+[Event "My Tournament"]
+[Site "?"]
+[Date "2025.04.14"]
+[Round "3"]
+[White "surge_even"]
+[Black "surge_material"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[GameDuration "00:08:39"]
+[GameEndTime "2025-04-14T20:51:16.568 GMT Summer Time"]
+[GameStartTime "2025-04-14T20:42:36.934 GMT Summer Time"]
+[Opening "French defense"]
+[PlyCount "104"]
+[TimeControl "40/300"]
+
+1. e4 {6.9s} e6 {4.9s} 2. Nc3 {21s} a6 {8.4s} 3. a3 {17s} Nc6 {6.0s} 4. d4 {16s}
+Nge7 {6.8s} 5. h4 {9.3s} d5 {3.8s} 6. exd5 {3.2s} Nxd5 {3.1s} 7. Ne4 {9.2s}
+Nb6 {9.2s} 8. c3 {10s} Qd5 {7.2s} 9. Qf3 {14s} Be7 {7.9s} 10. Bd3 {11s} e5 {11s}
+11. c4 {10s} Qxd4 {5.1s} 12. Ne2 {11s} Qd8 {4.4s} 13. Ng5 {6.0s} f5 {3.8s}
+14. c5 {7.0s} Bxc5 {5.6s} 15. Bxf5 {6.3s} Rf8 {3.4s} 16. Qh5+ {6.4s} g6 {1.7s}
+17. Bxg6+ {2.7s} hxg6 {0.78s} 18. Qxg6+ {1.3s} Ke7 {1.2s} 19. Ne4 {3.4s}
+Qd5 {3.3s} 20. Nxc5 {4.3s} Qxc5 {3.3s} 21. Bg5+ {4.4s} Kd7 {1.2s} 22. Rd1+ {12s}
+Nd4 {2.0s} 23. Qh7+ {6.2s} Ke8 {2.0s} 24. Qg6+ {5.1s} Rf7 {1.6s} 25. Nxd4 {6.1s}
+exd4 {3.8s} 26. f3 {8.0s} Qf5 {4.1s} 27. Rxd4 {2.6s} Be6 {2.4s} 28. Qg8+ {4.1s}
+Rf8 {0.76s} 29. Qg7 {3.7s} Qf7 {3.8s} 30. Qh6 {3.1s} Nd5 {3.7s} 31. h5 {4.2s}
+c5 {2.2s} 32. Re4 {5.4s} Kd7 {2.2s} 33. Kf2 {5.8s} Rae8 {2.7s} 34. Rd1 {4.6s}
+Kc7 {5.0s} 35. Rxd5 {5.4s} Bxd5 {1.5s} 36. Rf4 {2.5s} Qg8 {2.4s} 37. Rg4 {2.7s}
+Kc8 {3.8s} 38. Qd6 {3.5s} Re6 {1.7s} 39. Qg3 {3.4s} Qh7 {3.6s} 40. Kg1 {11s}
+Qb1+ {4.6s} 41. Kh2 {2.8s} Qxb2 {3.3s} 42. Rf4 {4.8s} Rh8 {3.2s} 43. Bh4 {5.1s}
+Rc6 {5.7s} 44. Qg4+ {2.9s} Be6 {4.2s} 45. Qg6 {2.7s} Rg8 {2.0s} 46. Bf6 {1.6s}
+Qd2 {2.7s} 47. Bg5 {0.74s} Qd6 {2.3s} 48. Qh6 {1.2s} Qe5 {4.3s} 49. Bf6 {1.7s}
+Qe3 {4.6s} 50. Bg5 {4.6s} Qe5 {5.0s} 51. Bf6 {1.6s} Qe3 {4.8s} 52. Bg5 {5.2s}
+Qe5 {4.0s, Draw by 3-fold repetition} 1/2-1/2
+

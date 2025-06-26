@@ -1,0 +1,304 @@
+[Event "Knockout_v3"]
+[Site "?"]
+[Date "2025.04.19"]
+[Round "1"]
+[White "config-1_9_7_6_8"]
+[Black "config-15_1_1_1_1"]
+[Result "0-1"]
+[ECO "E70"]
+[GameDuration "00:05:59"]
+[GameEndTime "2025-04-19T12:37:56.156 GMT Summer Time"]
+[GameStartTime "2025-04-19T12:31:56.572 GMT Summer Time"]
+[Opening "King's Indian"]
+[PlyCount "68"]
+[TimeControl "40/600"]
+[Variation "Accelerated Averbakh system"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} g6 {book} 3. Nc3 {17s} Bg7 {5.1s}
+4. e4 {13s} d6 {5.2s} 5. Bg5 {31s} Nbd7 {4.9s} 6. Bd3 {21s} h6 {3.9s}
+7. e5 {7.2s} hxg5 {2.7s} 8. exf6 {7.3s} Bxf6 {3.7s} 9. Bc2 {19s} c5 {3.6s}
+10. Nf3 {9.8s} g4 {3.7s} 11. Nd2 {6.4s} Rh5 {4.8s} 12. Qxg4 {4.8s} cxd4 {8.5s}
+13. Nb5 {13s} Nc5 {14s} 14. Qf4 {9.5s} d3 {16s} 15. Bd1 {7.9s} Rf5 {8.6s}
+16. Qe3 {5.6s} Re5 {5.3s} 17. Bf3 {1.2s} Rxe3+ {1.1s} 18. fxe3 {1.1s} Be6 {8.0s}
+19. Nd4 {3.7s} Bd7 {6.6s} 20. Bd5 {2.9s} e6 {4.0s} 21. Bxb7 {1.6s} Rb8 {1.9s}
+22. Nc6 {2.1s} Bxc6 {1.6s} 23. Bxc6+ {0.92s} Kf8 {2.0s} 24. Nb3 {2.9s}
+Bxb2 {1.5s} 25. Nxc5 {3.6s} Qa5+ {2.7s} 26. Kd1 {1.6s} Qxc5 {2.5s}
+27. Rb1 {3.5s} Qxc4 {1.4s} 28. Ke1 {2.5s} Bc3+ {3.6s} 29. Kf2 {1.3s}
+Qxa2+ {1.4s} 30. Kg3 {0.93s} Rxb1 {3.3s} 31. Rxb1 {0.92s} Qxb1 {4.8s}
+32. h4 {2.7s} d2 {4.7s} 33. Bf3 {1.6s} Be5+ {4.1s} 34. Kg4 {1.7s}
+Qf5# {5.0s, Black mates} 0-1
+
+[Event "Knockout_v3"]
+[Site "?"]
+[Date "2025.04.19"]
+[Round "1"]
+[White "config-15_1_1_1_1"]
+[Black "config-1_9_7_6_8"]
+[Result "1-0"]
+[ECO "E61"]
+[GameDuration "00:08:14"]
+[GameEndTime "2025-04-19T12:46:10.221 GMT Summer Time"]
+[GameStartTime "2025-04-19T12:37:56.180 GMT Summer Time"]
+[Opening "King's Indian defense, 3.Nc3"]
+[PlyCount "151"]
+[TimeControl "40/600"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} g6 {book} 3. Nc3 {10s} c5 {10s}
+4. dxc5 {3.3s} Qa5 {12s} 5. e3 {5.8s} Nc6 {15s} 6. Bd2 {9.7s} Qxc5 {7.8s}
+7. Rc1 {19s} a6 {11s} 8. Na4 {11s} Qe5 {8.1s} 9. Nb6 {16s} Rb8 {3.9s}
+10. Bc3 {6.2s} Qc5 {7.7s} 11. Nxc8 {5.0s} Rxc8 {3.8s} 12. a3 {11s} e5 {6.4s}
+13. b4 {10s} Qb6 {3.4s} 14. c5 {11s} Bxc5 {1.8s} 15. bxc5 {3.1s} Qxc5 {2.2s}
+16. Bb4 {3.7s} Qb6 {3.4s} 17. Qd6 {14s} Ne4 {1.9s} 18. Qxe5+ {1.1s} Nxe5 {0.81s}
+19. Rxc8+ {0.56s} Qd8 20. Rxd8+ {0.72s} Kxd8 {0.78s} 21. f3 {1.9s} Kc8 {1.2s}
+22. fxe4 {0.97s} Re8 {2.4s} 23. Nf3 {3.3s} b5 {1.3s} 24. Nxe5 {1.2s} Rxe5 {1.0s}
+25. Bd2 {1.1s} Rc5 {1.9s} 26. Kd1 {2.7s} Kb7 {2.0s} 27. Bd3 {2.3s} Rg5 {2.7s}
+28. Rg1 {1.8s} f6 {2.2s} 29. Be1 {3.5s} Rc5 {3.0s} 30. Bb4 {2.2s} Rc6 {2.5s}
+31. Rf1 {2.1s} h6 {4.1s} 32. h4 {2.9s} Kb8 {2.6s} 33. Rf3 {2.9s} Kb7 {2.8s}
+34. Rf1 {2.0s} Kb8 {2.4s} 35. Be1 {2.1s} Kb7 {3.6s} 36. Ke2 {2.4s} h5 {4.4s}
+37. Bb4 {2.9s} Kb8 {2.9s} 38. Kf2 {3.0s} Ka7 {2.3s} 39. Rd1 {2.4s} Kb8 {1.8s}
+40. Ba5 {3.0s} g5 {3.6s} 41. hxg5 {0.90s} fxg5 {2.1s} 42. Kg1 {2.7s} h4 {3.1s}
+43. Re1 {2.8s} g4 {3.5s} 44. Rd1 {2.5s} Rd6 {1.6s} 45. Bc3 {1.7s} Rc6 {1.4s}
+46. Be1 {2.8s} h3 {1.3s} 47. gxh3 {1.0s} gxh3 {1.5s} 48. Bg3+ {2.6s} Ka8 {2.1s}
+49. e5 {2.3s} Ka7 {2.3s} 50. Bf5 {1.6s} Kb6 {1.8s} 51. Bxh3 {1.4s} Rc2 {2.3s}
+52. Bf5 {1.7s} Ra2 {3.3s} 53. a4 {1.2s} b4 {2.1s} 54. Bb1 {1.4s} Rb2 {1.2s}
+55. Bf5 {2.6s} Ka5 {1.4s} 56. Be1 {3.0s} Kxa4 {1.1s} 57. Rxd7 {2.2s} a5 {0.89s}
+58. e6 {3.3s} Re2 {1.5s} 59. e7 {1.7s} Rxe1+ {0.74s} 60. Kf2 {0.86s} Rh1 {1.3s}
+61. e8=Q {1.7s} Ka3 {3.8s} 62. Qe4 {9.4s} Rh2+ {4.7s} 63. Kg1 {8.8s} Rb2 {6.0s}
+64. Be6 {4.3s} a4 {2.2s} 65. Rd1 {3.3s} b3 {2.2s} 66. Bg4 {4.3s} Rc2 {2.0s}
+67. Ra1+ {3.5s} Ra2 {1.3s} 68. Rd1 {2.7s} Rc2 {2.5s} 69. Ra1+ {3.3s} Ra2 {1.1s}
+70. Qe7+ {2.0s} Kb2 {0.53s} 71. Qe5+ {1.3s} Kc2 72. Bd1+ {1.1s} Kd2 {0.73s}
+73. Qd4+ {1.2s} Ke1 74. Qb4+ {0.62s} Rd2 75. Qh4+ {0.67s} Rf2
+76. Qxf2# {White mates} 1-0
+
+[Event "Knockout_v3"]
+[Site "?"]
+[Date "2025.04.19"]
+[Round "1"]
+[White "config-1_9_7_6_8"]
+[Black "config-15_1_1_1_1"]
+[Result "0-1"]
+[ECO "B10"]
+[GameDuration "00:08:20"]
+[GameEndTime "2025-04-19T12:54:30.347 GMT Summer Time"]
+[GameStartTime "2025-04-19T12:46:10.244 GMT Summer Time"]
+[Opening "Caro-Kann defense"]
+[PlyCount "126"]
+[TimeControl "40/600"]
+
+1. e4 {book} c6 {book} 2. Nc3 {12s} e6 {4.8s} 3. a3 {21s} d6 {5.8s} 4. d4 {16s}
+Nd7 {12s} 5. Bc4 {31s} b5 {3.2s} 6. Bxb5 {5.6s} cxb5 {2.7s} 7. d5 {6.6s}
+e5 {2.9s} 8. Qe2 {13s} Ba6 {4.8s} 9. Bd2 {11s} Qc8 {9.0s} 10. Qf3 {6.2s}
+Ne7 {3.9s} 11. Nge2 {8.3s} Ng6 {8.4s} 12. O-O-O {11s} Be7 {13s} 13. Ng3 {11s}
+Nh4 {4.5s} 14. Qg4 {4.8s} g6 {5.8s} 15. Bg5 {7.6s} Bxg5+ {2.2s} 16. Qxg5 {1.5s}
+Nxg2 {2.8s} 17. Nf5 {4.3s} gxf5 {2.3s} 18. a4 {3.7s} Nf4 {3.7s} 19. Qg7 {3.3s}
+Rf8 {2.6s} 20. axb5 {1.8s} Bb7 {4.3s} 21. Rhg1 {4.3s} fxe4 {3.0s}
+22. Nxe4 {6.8s} Qc7 {4.7s} 23. Kb1 {3.2s} f5 {3.6s} 24. Nxd6+ {2.5s} Qxd6 {1.6s}
+25. Rg3 {8.9s} Bxd5 {5.1s} 26. b3 {9.9s} Rb8 {5.5s} 27. b6 {6.3s} Qxb6 {4.2s}
+28. Rxd5 {2.6s} Nxd5 {2.5s} 29. f4 {3.4s} N5f6 {4.5s} 30. fxe5 {3.1s}
+Nxe5 {4.4s} 31. Rc3 {6.7s} Rf7 {5.3s} 32. Qh8+ {2.9s} Kd7 {3.1s} 33. Qxb8 {1.4s}
+Qxb8 {1.7s} 34. Re3 {3.4s} Rf8 {8.1s} 35. Re1 {5.2s} Ne4 {7.2s} 36. Rd1+ {10s}
+Ke8 {4.5s} 37. Kb2 {7.8s} Nc4+ {6.9s} 38. Ka2 {2.6s} Ne3 {8.6s} 39. Rd3 {1.2s}
+Qb6 {1.9s} 40. c4 {1.2s} Rg8 {3.0s} 41. Rxe3 {0.84s} Qxe3 {1.1s} 42. Ka3 {2.1s}
+Nd2 {2.8s} 43. Kb4 {0.78s} Qxb3+ {1.5s} 44. Kc5 {0.58s} Qxc4+ {1.9s} 45. Kd6
+Rg6+ {0.73s} 46. Ke5 f4 {0.95s} 47. h4 {0.56s} h5 {0.61s} 48. Kf5 Kf7 {0.54s}
+49. Ke5 Rc6 {0.52s} 50. Kf5 {0.54s} Rg6 {0.87s} 51. Ke5 Rc6 {0.84s} 52. Kf5
+Kg7 {0.79s} 53. Kg5 {0.74s} Rg6+ {0.95s} 54. Kf5 {0.61s} a5 {0.71s}
+55. Ke5 {0.68s} Rc6 {0.97s} 56. Kf5 {0.73s} Rg6 {0.79s} 57. Ke5 Rc6 {1.3s}
+58. Kf5 {0.87s} Rf6+ {0.86s} 59. Kg5 {0.57s} Rg6+ {0.66s} 60. Kf5 {0.68s}
+Re6 {0.68s} 61. Kg5 {0.71s} Rg6+ {0.85s} 62. Kf5 {0.52s} Rc6 {0.55s}
+63. Kg5 {0.55s} Rc5# {0.59s, Black mates} 0-1
+
+[Event "Knockout_v3"]
+[Site "?"]
+[Date "2025.04.19"]
+[Round "1"]
+[White "config-15_1_1_1_1"]
+[Black "config-1_9_7_6_8"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[GameDuration "00:10:52"]
+[GameEndTime "2025-04-19T13:05:22.876 GMT Summer Time"]
+[GameStartTime "2025-04-19T12:54:30.451 GMT Summer Time"]
+[Opening "Caro-Kann defense"]
+[PlyCount "267"]
+[TimeControl "40/600"]
+
+1. e4 {book} c6 {book} 2. Nc3 {8.0s} e6 {7.6s} 3. d4 {8.1s} g6 {15s}
+4. Nf3 {14s} Bg7 {9.1s} 5. Bf4 {12s} Qb6 {5.3s} 6. Bd6 {6.6s} Bf8 {4.2s}
+7. Be5 {6.1s} Qxb2 {2.6s} 8. d5 {6.4s} Bb4 {11s} 9. Bxh8 {3.6s} Bxc3+ {1.5s}
+10. Bxc3 {1.1s} Qxc3+ {2.0s} 11. Ke2 {1.3s} Nf6 {8.4s} 12. dxe6 {3.8s}
+Nxe4 {3.5s} 13. exf7+ {3.0s} Kxf7 {6.9s} 14. Qd4 {4.9s} Qxc2+ {4.7s}
+15. Ke1 {4.1s} c5 {8.2s} 16. Bc4+ {4.4s} Ke7 {3.2s} 17. Qg7+ {1.1s} Kd8 {1.9s}
+18. Qh8+ {1.4s} Kc7 {1.2s} 19. Qe5+ {2.3s} d6 {3.4s} 20. Qg7+ {1.3s} Nd7 {2.2s}
+21. Bb5 {5.5s} Qxf2+ {1.7s} 22. Kd1 {1.2s} Qxg2 {3.2s} 23. Rf1 {5.9s} Kb8 {11s}
+24. Rc1 {15s} Nf2+ {12s} 25. Ke2 {5.1s} Ng4+ {7.2s} 26. Ke1 {4.5s} Ne3 {10s}
+27. Rf2 {8.3s} Qh1+ {7.6s} 28. Kd2 {3.6s} Nf5 {4.9s} 29. Qh8 {3.4s} Qxf3 {2.7s}
+30. Rxf3 {2.6s} Nd4 {6.2s} 31. Bxd7 {1.8s} Nxf3+ {0.86s} 32. Kd1 {2.6s}
+Kc7 {1.7s} 33. Bh3 {2.4s} Bxh3 {1.2s} 34. Qxa8 {1.8s} Bc8 {5.1s} 35. Qxa7 {1.9s}
+Bf5 {0.95s} 36. Qa5+ {2.2s} Kc6 {2.6s} 37. Qa4+ {2.0s} Kc7 {3.6s} 38. Qf4 {5.3s}
+Ne5 {2.2s} 39. Rxc5+ {5.1s} dxc5 {1.2s} 40. Qxe5+ {1.3s} Kb6 {2.2s}
+41. Kc1 {5.1s} c4 {2.2s} 42. Qd6+ {3.0s} Ka7 {2.0s} 43. Qa3+ {3.0s} Kb8 {0.99s}
+44. Qf8+ {1.9s} Ka7 {2.1s} 45. Qa3+ {2.7s} Kb8 {1.1s} 46. Qf8+ {1.8s} Ka7 {2.2s}
+47. Qe7 {3.5s} Kb8 {3.2s} 48. Qd8+ {2.4s} Bc8 {1.3s} 49. Qd6+ {5.0s} Ka8 {1.7s}
+50. Qd8 {1.8s} Kb8 {1.3s} 51. Qd6+ {3.5s} Ka8 {1.2s} 52. Qf8 {1.5s} Kb8 {1.2s}
+53. a3 {4.1s} g5 {2.4s} 54. Qd6+ {2.9s} Ka8 {0.79s} 55. Qf8 {1.4s} Kb8 {1.2s}
+56. Qd8 {2.7s} g4 {2.0s} 57. Qd6+ {2.3s} Ka8 {1.0s} 58. Qf8 {1.4s} Kb8 {1.1s}
+59. Qd6+ {2.3s} Ka8 {0.85s} 60. Qf8 {1.6s} Kb8 {1.1s} 61. Qd8 {2.2s} h5 {1.7s}
+62. Qd6+ {1.9s} Ka8 {1.1s} 63. Qf8 {1.4s} Kb8 {0.90s} 64. Qd6+ {3.2s}
+Ka8 {0.79s} 65. Qe7 {2.2s} h4 {1.5s} 66. Qf8 {1.4s} Kb8 {0.84s} 67. Qd6+ {1.9s}
+Ka8 {0.66s} 68. Qf8 {1.6s} Kb8 {0.79s} 69. Qd6+ {1.9s} Ka8 {0.84s}
+70. Qd8 {1.4s} Kb8 {0.82s} 71. Kd2 {3.0s} b5 {1.1s} 72. Qb6+ {1.8s} Bb7 {0.76s}
+73. Qxb5 {1.2s} g3 {1.2s} 74. hxg3 {1.5s} hxg3 {1.0s} 75. Qxc4 {1.4s} g2 {1.5s}
+76. Qg8+ {0.92s} Ka7 {0.95s} 77. Qg3 {2.3s} Bc6 {1.2s} 78. Kc3 {2.0s} Kb7 {1.5s}
+79. Kb2 {1.7s} Bd5 {1.9s} 80. Qg6 {1.5s} Bc6 {1.6s} 81. Qg7+ {1.4s} Kb8 {1.4s}
+82. Qg6 {1.8s} Kb7 {1.3s} 83. Qg7+ {1.3s} Kb8 {1.6s} 84. Ka1 {1.7s} Ka8 {1.1s}
+85. Qg6 {0.93s} Ka7 {1.1s} 86. Qg7+ {1.1s} Kb8 {1.2s} 87. Qg6 {1.1s} Ka7 {1.1s}
+88. Qg7+ {0.79s} Kb8 {1.2s} 89. Kb2 {1.2s} Kc8 {1.1s} 90. Qg4+ {1.8s} Kb7 {1.3s}
+91. Ka1 {1.4s} Ka7 {1.3s} 92. a4 {1.4s} Be4 {1.1s} 93. a5 {1.5s} Ka6 {1.1s}
+94. Qe2+ {0.87s} Kxa5 {0.76s} 95. Qd2+ {1.1s} Ka6 {1.0s} 96. Qe2+ {0.91s}
+Ka7 {0.78s} 97. Qe3+ {0.96s} Ka6 {0.93s} 98. Qg5 {1.2s} Bd5 {1.7s}
+99. Qg4 {1.1s} Kb6 {1.1s} 100. Qg7 {0.99s} Kc5 {1.5s} 101. Qa7+ {0.80s}
+Kc4 {1.1s} 102. Qa2+ {1.3s} Kb4 {0.93s} 103. Qd2+ {1.1s} Kc4 {0.88s}
+104. Qc2+ {1.4s} Kb5 {0.98s} 105. Qe2+ {1.3s} Kb6 {1.0s} 106. Qg4 {1.1s}
+Kc7 {1.2s} 107. Qg5 {1.2s} Bc6 {1.5s} 108. Qg7+ {1.2s} Kb8 {1.2s}
+109. Kb2 {1.1s} Kc8 {1.0s} 110. Qg6 {1.7s} Kb7 {1.3s} 111. Qg7+ {1.3s}
+Ka6 {1.7s} 112. Qg6 {3.5s} Kb7 {1.1s} 113. Qg7+ {1.2s} Ka6 {1.7s}
+114. Kc2 {4.0s} Bd5 {1.7s} 115. Qg4 {1.9s} Bc6 {1.6s} 116. Qg6 {2.1s} Ka5 {1.7s}
+117. Qh5+ {2.1s} Ka6 {1.6s} 118. Qg6 {2.0s} Ka5 {1.9s} 119. Kb2 {2.2s}
+Kb6 {2.0s} 120. Ka2 {2.9s} Kb7 {1.3s} 121. Kb2 {1.7s} Ka7 {1.5s} 122. Qg4 {2.0s}
+Kb7 {1.5s} 123. Ka1 {1.3s} Kb8 {1.0s} 124. Qg6 {1.2s} Kb7 {1.0s}
+125. Qh7+ {1.0s} Kb8 {0.97s} 126. Qg6 {1.1s} Kb7 {0.98s} 127. Qg7+ {1.3s}
+Kb8 {1.2s} 128. Kb2 {1.2s} Kc8 {1.0s} 129. Qg4+ {1.5s} Kb7 {1.4s}
+130. Ka1 {1.3s} Kb8 {1.2s} 131. Qg7 {0.95s} Ka8 {0.91s} 132. Qg8+ {0.89s}
+Ka7 {0.95s} 133. Qh7+ {0.97s} Kb8 {0.92s}
+134. Qg6 {0.83s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "Knockout_v3"]
+[Site "?"]
+[Date "2025.04.19"]
+[Round "1"]
+[White "config-1_9_7_6_8"]
+[Black "config-15_1_1_1_1"]
+[Result "0-1"]
+[ECO "C65"]
+[GameDuration "00:06:17"]
+[GameEndTime "2025-04-19T13:11:40.219 GMT Summer Time"]
+[GameStartTime "2025-04-19T13:05:22.911 GMT Summer Time"]
+[Opening "Ruy Lopez"]
+[PlyCount "86"]
+[TimeControl "40/600"]
+[Variation "Berlin defense"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {3.3s}
+4. Qe2 {9.0s} Bd6 {3.1s} 5. Bxc6 {4.6s} dxc6 {2.7s} 6. Nc3 {18s} Nd7 {11s}
+7. a3 {24s} Qf6 {6.0s} 8. d3 {20s} h6 {8.6s} 9. Be3 {24s} a6 {9.8s}
+10. Nd2 {23s} b5 {6.2s} 11. Qh5 {20s} Nc5 {13s} 12. a4 {10s} b4 {13s}
+13. Bxc5 {8.0s} Bxc5 {4.1s} 14. d4 {3.0s} Bxd4 {2.7s} 15. Nf3 {4.2s} g6 {3.8s}
+16. Nxd4 {2.8s} gxh5 {2.1s} 17. Nf3 {3.8s} bxc3 {1.7s} 18. b3 {3.8s} Bg4 {2.8s}
+19. O-O-O {1.4s} Qf4+ {3.7s} 20. Kb1 {1.4s} h4 {3.8s} 21. Rd3 {3.5s} h3 {2.7s}
+22. g3 {2.9s} Qxe4 {1.7s} 23. Re1 {1.8s} Qh7 {1.7s} 24. Nxe5 {1.5s} Be6 {2.3s}
+25. Ng4 {1.9s} Qg6 {2.1s} 26. Ne5 {1.9s} Qf5 {3.1s} 27. Nd7 {4.0s} Qxf2 {1.6s}
+28. Nf6+ {2.0s} Qxf6 {1.3s} 29. Rdd1 {1.5s} Qf2 {3.3s} 30. a5 {1.7s} Rb8 {1.6s}
+31. Re5 {1.7s} Rxb3+ {1.7s} 32. Kc1 {1.5s} Rb8 {3.2s} 33. Re4 {1.6s} Rb5 {3.7s}
+34. Ree1 {2.0s} Rg8 {1.6s} 35. Re4 {1.9s} h5 {2.4s} 36. Ree1 {1.9s} Qxh2 {1.5s}
+37. Re3 {2.6s} Rxg3 {2.9s} 38. Ree1 {1.4s} Qf2 {2.3s} 39. Rd8+ {1.5s}
+Kxd8 {2.6s} 40. Rd1+ {2.1s} Ke8 {3.4s} 41. Rd8+ {1.1s} Kxd8 {3.6s} 42. Kd1
+Rxa5 {0.79s} 43. Kc1 {0.55s} Ra1# {0.51s, Black mates} 0-1
+
+[Event "Knockout_v3"]
+[Site "?"]
+[Date "2025.04.19"]
+[Round "1"]
+[White "config-15_1_1_1_1"]
+[Black "config-1_9_7_6_8"]
+[Result "1-0"]
+[ECO "C64"]
+[GameDuration "00:08:58"]
+[GameEndTime "2025-04-19T13:20:38.496 GMT Summer Time"]
+[GameStartTime "2025-04-19T13:11:40.238 GMT Summer Time"]
+[Opening "Ruy Lopez"]
+[PlyCount "77"]
+[TimeControl "40/600"]
+[Variation "Classical defense, 4.c3"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Bc5 {11s}
+4. c3 {9.6s} Qf6 {7.3s} 5. d4 {5.7s} exd4 {4.8s} 6. b4 {5.3s} dxc3 {6.2s}
+7. bxc5 {8.6s} Nge7 {7.6s} 8. Qd3 {25s} Qg6 {5.2s} 9. Nxc3 {6.0s} Qxg2 {2.5s}
+10. Rg1 {3.7s} Qh3 {3.1s} 11. Rg3 {11s} Qe6 {4.2s} 12. Be3 {25s} Qf6 {8.3s}
+13. Bg5 {11s} Qe6 {4.6s} 14. O-O-O {17s} Qg6 {10s} 15. Bf4 {11s} Qf6 {5.0s}
+16. Bg5 {11s} Qg6 {5.9s} 17. Bf4 {12s} Qf6 {4.0s} 18. Qe3 {18s} Ng6 {7.3s}
+19. Bxc7 {14s} Na5 {15s} 20. Nd4 {16s} b6 {5.5s} 21. Nd5 {16s} Qh4 {4.4s}
+22. Nf5 {14s} Qxh2 {2.4s} 23. Nxg7+ {11s} Kf8 {1.9s} 24. Rg5 {15s} h6 {3.7s}
+25. Rxg6 {8.8s} Qh4 {4.0s} 26. Bd6+ {9.3s} Kg8 {2.7s} 27. Nf6+ {15s} Qxf6 {1.3s}
+28. Rxf6 {4.1s} Rh7 {9.4s} 29. Nf5 {3.7s} Bb7 {4.8s} 30. Nxh6+ {6.4s} Kh8 {2.1s}
+31. Be5 {6.7s} Rg7 {2.8s} 32. Rfd6 {7.8s} f6 {6.5s} 33. Bxf6 {6.9s} Kh7 {3.4s}
+34. Qh3 {11s} Bxe4 {4.6s} 35. Nf7+ {6.9s} Kg8 {3.9s} 36. Qh8+ {8.7s}
+Kxf7 {0.64s} 37. Qxg7+ {0.56s} Ke8 38. Qxd7+ {0.50s} Kf8 {0.78s}
+39. Qg7# {0.82s, White mates} 1-0
+
+[Event "Knockout_v3"]
+[Site "?"]
+[Date "2025.04.19"]
+[Round "1"]
+[White "config-1_9_7_6_8"]
+[Black "config-15_1_1_1_1"]
+[Result "0-1"]
+[ECO "D20"]
+[GameDuration "00:14:38"]
+[GameEndTime "2025-04-19T13:35:17.481 GMT Summer Time"]
+[GameStartTime "2025-04-19T13:20:38.526 GMT Summer Time"]
+[Opening "Queen's gambit accepted"]
+[PlyCount "148"]
+[TimeControl "40/600"]
+
+1. d4 {book} d5 {book} 2. c4 {book} dxc4 {4.6s} 3. Qa4+ {14s} Nc6 {3.2s}
+4. Nf3 {7.0s} e6 {7.3s} 5. Nc3 {15s} Bb4 {11s} 6. Bg5 {6.7s} Bxc3+ {5.0s}
+7. bxc3 {2.4s} Qd5 {5.1s} 8. Rd1 {9.0s} f6 {9.6s} 9. Bf4 {6.2s} Bd7 {12s}
+10. Qc2 {12s} f5 {8.6s} 11. Rb1 {12s} O-O-O {9.9s} 12. h4 {6.1s} Nf6 {16s}
+13. h5 {8.3s} h6 {23s} 14. a4 {10s} Na5 {24s} 15. Ne5 {24s} Be8 {10s}
+16. Rb4 {12s} Nxh5 {8.4s} 17. e4 {6.3s} fxe4 {4.1s} 18. Be3 {7.7s} Kb8 {15s}
+19. Qb2 {20s} c5 {9.6s} 20. Bxc4 {5.5s} Qd6 {4.2s} 21. Rxb7+ {2.1s} Nxb7 {3.6s}
+22. Be2 {6.6s} cxd4 {6.3s} 23. cxd4 {6.4s} Nf6 {11s} 24. Qb3 {14s} Ka8 {20s}
+25. Nc4 {19s} Qc7 {20s} 26. Qb2 {25s} Nd5 {19s} 27. Bg5 {11s} Rb8 {12s}
+28. Bd2 {40s} Nd6 {12s} 29. Qc2 {8.3s} Nb4 {10s} 30. Bxb4 {4.6s} Rxb4 {2.7s}
+31. Nb6+ {5.1s} Qxb6 {4.4s} 32. Bb5 {6.2s} Rxd4 {4.4s} 33. Bxe8 {5.7s}
+Rc4 {7.3s} 34. Qd1 {3.0s} Rxe8 {5.7s} 35. Rh5 {5.4s} Rd8 {17s} 36. Kf1 {8.6s}
+Qc7 {15s} 37. Ra5 {20s} Qxa5 {3.3s} 38. Kg1 {6.1s} Qc5 {12s} 39. Qg4 {9.7s}
+Rc1+ {5.9s} 40. Kh2 {1.7s} Qe5+ {4.5s} 41. g3 {2.5s} Nc4 {6.4s} 42. a5 {3.8s}
+Rc2 {7.2s} 43. Kh3 {3.5s} Rf8 {6.1s} 44. Qg6 {3.0s} Qf5+ {3.5s} 45. Qxf5 {0.95s}
+Rxf5 {2.0s} 46. g4 {1.9s} Rf8 {3.1s} 47. g5 {0.93s} Rf3+ {2.0s} 48. Kg4 {0.94s}
+Kb8 {1.6s} 49. gxh6 {1.2s} gxh6 {1.6s} 50. Kh5 {0.82s} Rfxf2 {2.7s}
+51. Kxh6 {1.2s} e3 {1.8s} 52. Kh7 {1.1s} Nxa5 {1.4s} 53. Kh8 {1.2s} e2 {1.6s}
+54. Kh7 {0.72s} e5 {1.6s} 55. Kh8 {0.76s} Rd2 {1.5s} 56. Kh7 {0.75s} e4 {2.4s}
+57. Kh8 {0.65s} e3 {2.1s} 58. Kh7 {0.97s} Nc6 {1.8s} 59. Kh8 {0.83s} Nd4 {2.2s}
+60. Kg8 {0.57s} e1=Q {1.8s} 61. Kh8 {1.1s} Qg1 {1.8s} 62. Kh7 {0.55s} e2 {0.73s}
+63. Kh8 e1=Q {0.53s} 64. Kh7 Kb7 {0.81s} 65. Kh8 {0.55s} a5 {0.65s}
+66. Kh7 {0.50s} Kb6 {0.63s} 67. Kh8 {0.54s} a4 {0.67s} 68. Kh7 {0.51s}
+Kc5 {0.74s} 69. Kh8 a3 {0.69s} 70. Kh7 {0.51s} Nf3 {0.66s} 71. Kh8 Nd4 {0.53s}
+72. Kh7 {0.56s} Rf7+ {0.77s} 73. Kh8 {0.54s} Rh7+ {0.53s} 74. Kxh7
+Rh2# {0.58s, Black mates} 0-1
+
+[Event "Knockout_v3"]
+[Site "?"]
+[Date "2025.04.19"]
+[Round "1"]
+[White "config-15_1_1_1_1"]
+[Black "config-1_9_7_6_8"]
+[Result "0-1"]
+[ECO "D08"]
+[GameDuration "00:03:22"]
+[GameEndTime "2025-04-19T13:38:39.614 GMT Summer Time"]
+[GameStartTime "2025-04-19T13:35:17.514 GMT Summer Time"]
+[Opening "Queen's Gambit declined"]
+[PlyCount "32"]
+[Termination "abandoned"]
+[TimeControl "40/600"]
+[Variation "Albin counter-gambit"]
+
+1. d4 {book} d5 {book} 2. c4 {book} e5 {21s} 3. dxe5 {2.5s} Bb4+ {17s}
+4. Bd2 {2.2s} Bc5 {4.5s} 5. Qa4+ {4.2s} Bd7 {6.0s} 6. Qb3 {2.5s} Qh4 {4.4s}
+7. e3 {5.0s} d4 {8.2s} 8. Nf3 {8.3s} Qe4 {6.2s} 9. Bd3 {8.7s} Qg4 {6.8s}
+10. Qxb7 {7.0s} Qxg2 {6.8s} 11. Rg1 {9.1s} Qh3 {4.6s} 12. Qxa8 {5.9s}
+dxe3 {3.2s} 13. fxe3 {5.5s} Bc8 {7.3s} 14. Qxb8 {9.4s} a6 {5.9s} 15. Qxc7 {7.2s}
+Be7 {5.1s} 16. Be4 {12s} Kf8 {5.1s, White disconnects} 0-1
+

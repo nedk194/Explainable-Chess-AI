@@ -1,0 +1,8 @@
+{
+  "depth": 5,
+  "material": 10,
+  "bad_pawns": 6,
+  "good_pawns": 10,
+  "mobility": 2,
+  "king_safety": 10
+}

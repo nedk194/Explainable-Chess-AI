@@ -1,0 +1,18 @@
+[Event "Initial_tuning_10v10"]
+[Site "?"]
+[Date "2025.04.16"]
+[Round "1"]
+[White "config_10-3-10-4-10"]
+[Black "config_10-7-8-3-10"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:05:35"]
+[GameEndTime "2025-04-16T23:37:11.011 GMT Summer Time"]
+[GameStartTime "2025-04-16T23:31:35.789 GMT Summer Time"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "1"]
+[Termination "stalled connection"]
+[TimeControl "40/300"]
+
+1. e3 {10s, Black's connection stalls} 1-0
+

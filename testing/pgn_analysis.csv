@@ -1,0 +1,4 @@
+White,Black,Result,Plies,AvgMaterialExchangePerMove
+surge_material,surge_pawns,1-0,141,0.19148936170212766
+surge_even,surge_pawns,0-1,108,0.21296296296296297
+surge_even,surge_material,1/2-1/2,104,0.15384615384615385
